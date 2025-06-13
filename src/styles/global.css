@@ -1,0 +1,67 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+	--background: #ffffff;
+	--foreground: #000000;
+	--muted-foreground: #6b7280;
+	--primary: #3b82f6;
+	--accent: #e5e7eb;
+	--ring: #3b82f6;
+	--border-input: #d1d5db;
+	--scrollbar-thumb: #a0aec0;
+	--scrollbar-track: #edf2f7;
+}
+
+:root.dark {
+	--background: #252525;
+	--foreground: #ffffff;
+	--muted-foreground: #9ca3af;
+	--primary: #60a5fa;
+	--accent: #374151;
+	--ring: #60a5fa;
+	--border-input: #4b5563;
+	--scrollbar-thumb: #4a5568;
+	--scrollbar-track: #252525;
+}
+
+html,
+body {
+	background-color: var(--background);
+	color: var(--foreground);
+	transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+* {
+	scrollbar-width: thin;
+	scrollbar-color: var(--scrollbar-thumb) var(--scrollbar-track);
+}
+
+::-webkit-scrollbar {
+	width: 8px;
+}
+
+::-webkit-scrollbar-track {
+	background: var(--scrollbar-track);
+	transition: background 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb {
+	background: var(--scrollbar-thumb);
+	border-radius: 4px;
+	transition: background 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: color-mix(in srgb, var(--scrollbar-thumb) 80%, var(--primary));
+}
+
+header,
+aside,
+main,
+[data-chevron],
+button:hover {
+	transition: background-color 0.3s ease, color 0.3s ease,
+		border-color 0.3s ease;
+}

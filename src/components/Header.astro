@@ -1,0 +1,58 @@
+---
+import {Menu, Search} from '@lucide/astro'
+import GithubIcon from './icons/GithubIcon.astro'
+import KoFiIcon from './icons/KoFiIcon.astro'
+---
+
+<!-- Header -->
+<header
+	class='sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60'
+>
+	<div class='container flex h-14 items-center'>
+		<button
+			id='menu-toggle'
+			class='mx-2 px-0 text-base hover:bg-transparent focus:bg-transparent lg:hidden'
+			aria-label='Toggle Menu'
+		>
+			<Menu class='h-6 w-6' />
+		</button>
+
+		<div class='mx-4 hidden md:flex'>
+			<span class='font-bold'>Código de Trabajo</span>
+		</div>
+
+		<div class='flex flex-1 items-center space-x-2'>
+			<div class='relative flex-1 max-w-lg'>
+				<Search
+					class='absolute left-2.5 top-2.5 h-4 w-4 text-muted-foreground'
+				/>
+				<input
+					id='search-input'
+					type='search'
+					placeholder='Buscar en el código...'
+					class='pl-8 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-gray-400 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2'
+				/>
+			</div>
+			<div class='flex items-center gap-3'>
+				<button id='mode-toggle' aria-label='Toggle theme'>
+					<span class='light-icon hidden'>☀️</span>
+					<span class='dark-icon'>🌙</span>
+				</button>
+
+				<a target='_blank' href='https://github.com/gajeeldev' class='w-4 h-4'>
+					<GithubIcon />
+				</a>
+				<a target='_blank' href='https://ko-fi.com/gajeeldev' class='w-4 h-4'>
+					<KoFiIcon />
+				</a>
+			</div>
+		</div>
+	</div>
+</header>
+
+<script type='module'>
+	import {initializeThemeHandler} from '/src/lib/theme-handlers.ts'
+	document.addEventListener('DOMContentLoaded', () => {
+		initializeThemeHandler()
+	})
+</script>

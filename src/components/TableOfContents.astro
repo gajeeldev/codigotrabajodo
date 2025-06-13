@@ -1,0 +1,117 @@
+---
+import {ChevronRight} from '@lucide/astro'
+
+// Props: data es un arreglo de objetos Section
+const {data} = Astro.props
+
+// Definir la interfaz Section para claridad
+interface Section {
+	title: string
+	content: string
+	subsections?: Section[]
+}
+---
+
+<nav class='space-y-1'>
+	<h2 class='font-bold text-lg mb-2 hidden lg:block'>Tabla de Contenido</h2>
+	{
+		data.map((section: Section, index: number) => (
+			<details
+				class='border-l-2 pl-2 py-1 hover:border-blue-500 transition-colors'
+				id={`toc-section-${index}`}
+			>
+				<summary class='flex items-center'>
+					{section.subsections && section.subsections.length > 0 ? (
+						<ChevronRight
+							class='h-4 w-4 transition-transform cursor-pointer hover:bg-[rgba(119,115,115,0.1)] rounded-md'
+							data-chevron
+						/>
+					) : (
+						<span class='w-4' />
+					)}
+					<button
+						class='justify-start px-2 h-auto py-1 font-medium text-sm hover:bg-accent w-full text-left cursor-pointer hover:bg-[rgba(119,115,115,0.1)] rounded-md'
+						data-scroll-to={`section-${index}`}
+					>
+						{section.title}
+					</button>
+				</summary>
+				{section.subsections && section.subsections.length > 0 && (
+					<div class='ml-4 mt-1 space-y-1 border-l-2 pl-2'>
+						{section.subsections.map(
+							(subsection: Section, subIndex: number) => (
+								<button
+									class='justify-start w-full px-2 h-auto py-1 text-sm hover:bg-accent text-left block hover:bg-[rgba(119,115,115,0.1)] hover:rounded-md cursor-pointer'
+									data-scroll-to={`section-${index}-${subIndex}`}
+								>
+									{subsection.title}
+								</button>
+							),
+						)}
+					</div>
+				)}
+			</details>
+		))
+	}
+</nav>
+
+<script>
+	// Manejar el toggle de secciones
+	document.querySelectorAll('[data-toggle]').forEach((button: Element) => {
+		button.addEventListener('click', (e: Event) => {
+			e.preventDefault()
+
+			const details = button.closest('details') as HTMLDetailsElement | null
+			const chevron = button.querySelector(
+				'[data-chevron]',
+			) as HTMLElement | null
+
+			if (details && chevron) {
+				chevron.classList.toggle('rotate-90', details.open)
+			}
+		})
+	})
+
+	// Inicializar el estado de los chevrons
+	document.querySelectorAll('details').forEach((details: Element) => {
+		const detailsElement = details as HTMLDetailsElement
+		const chevron = details.querySelector(
+			'[data-chevron]',
+		) as HTMLElement | null
+
+		if (chevron) {
+			chevron.classList.toggle('rotate-90', detailsElement.open)
+		}
+
+		detailsElement.addEventListener('toggle', () => {
+			if (chevron) {
+				chevron.classList.toggle('rotate-90', detailsElement.open)
+			}
+		})
+	})
+
+	// Manejar el desplazamiento suave
+	document.querySelectorAll('[data-scroll-to]').forEach((button: Element) => {
+		button.addEventListener('click', () => {
+			const targetId = button.getAttribute('data-scroll-to')
+
+			if (targetId) {
+				const element = document.getElementById(targetId)
+
+				if (element) {
+					element.scrollIntoView({behavior: 'smooth'})
+				}
+			}
+		})
+	})
+</script>
+
+<style>
+	/* Asegurar que el summary sea clickable */
+	details > summary {
+		list-style: none;
+	}
+	details > summary::-webkit-details-marker {
+		display: none;
+	}
+</style>

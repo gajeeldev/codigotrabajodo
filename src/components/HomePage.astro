@@ -1,0 +1,115 @@
+---
+import {codigoTrabajoData} from '../data/codigo-trabajo'
+import Header from './Header.astro'
+import Main from './Main.astro'
+import Sidebar from './Sidebar.astro'
+
+const data = JSON.stringify(codigoTrabajoData)
+---
+
+<Header />
+
+<!-- Main Content -->
+<div class='flex-1 flex'>
+	<!-- Sidebar -->
+	<Sidebar />
+
+	<!-- Content -->
+	<Main />
+</div>
+
+<script define:vars={{data}}>
+	const codigoTrabajoData = JSON.parse(data)
+
+	// Toggle sidebar
+	const sidebar = document.getElementById('sidebar')
+	const menuToggle = document.getElementById('menu-toggle')
+	const closeSidebar = document.getElementById('close-sidebar')
+
+	function toggleSidebar(open) {
+		sidebar.classList.toggle('-translate-x-full', !open)
+		sidebar.classList.toggle('translate-x-0', open)
+	}
+
+	menuToggle.addEventListener('click', () => toggleSidebar(true))
+	closeSidebar.addEventListener('click', () => toggleSidebar(false))
+
+	// Media query for desktop
+	const mediaQuery = window.matchMedia('(min-width: 1024px)')
+	function handleMediaChange(e) {
+		toggleSidebar(e.matches)
+	}
+	mediaQuery.addEventListener('change', handleMediaChange)
+	handleMediaChange(mediaQuery)
+
+	// Search functionality
+	const searchInput = document.getElementById('search-input')
+	const searchResults = document.getElementById('search-results')
+	const noResults = document.getElementById('no-results')
+	const searchTermSpan = document.getElementById('search-term')
+
+	searchInput.addEventListener('input', (e) => {
+		const searchTerm = e.target.value.trim().toLowerCase()
+		searchTermSpan.textContent = searchTerm
+
+		if (!searchTerm) {
+			searchResults.innerHTML = renderSections(codigoTrabajoData)
+			searchResults.classList.remove('hidden')
+			noResults.classList.add('hidden')
+			return
+		}
+
+		const filtered = codigoTrabajoData.filter((section) => {
+			if (section.title.toLowerCase().includes(searchTerm)) return true
+			if (section.content.toLowerCase().includes(searchTerm)) return true
+			if (section.subsections) {
+				return section.subsections.some(
+					(subsection) =>
+						subsection.title.toLowerCase().includes(searchTerm) ||
+						subsection.content.toLowerCase().includes(searchTerm),
+				)
+			}
+			return false
+		})
+
+		if (filtered.length === 0) {
+			searchResults.classList.add('hidden')
+			noResults.classList.remove('hidden')
+		} else {
+			searchResults.innerHTML = renderSections(filtered)
+			searchResults.classList.remove('hidden')
+			noResults.classList.add('hidden')
+		}
+	})
+
+	function renderSections(sections) {
+		return sections
+			.map(
+				(section, index) => `
+        <div id="section-${index}" class="scroll-mt-20">
+          <h2 class="text-2xl font-bold mb-4">${section.title}</h2>
+          <div class="whitespace-pre-line mb-4">${section.content}</div>
+          ${
+						section.subsections && section.subsections.length > 0
+							? `
+            <div class="space-y-4 ml-4 mt-4">
+              ${section.subsections
+								.map(
+									(subsection, subIndex) => `
+                <div id="section-${index}-${subIndex}" class="scroll-mt-20">
+                  <h3 class="text-xl font-semibold mb-2">${subsection.title}</h3>
+                  <div class="whitespace-pre-line">${subsection.content}</div>
+                </div>
+              `,
+								)
+								.join('')}
+            </div>
+          `
+							: ''
+					}
+        </div>
+      `,
+			)
+			.join('')
+	}
+</script>
