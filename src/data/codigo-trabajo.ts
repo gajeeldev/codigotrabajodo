@@ -1722,7 +1722,29 @@ Art. 102.- Si no se comprueba la justa causa invocada como fundamento de la dimi
 			{
 				title: 'TÍTULO III: DE LOS PAROS',
 				content:
-					'\nArt. 413.- Paro es la suspensión voluntaria del trabajo por uno o más empleadores en defensa de sus intereses. \nArt. 414.- Antes de realizar el paro, el empleador deberá justificar al Departamento de Trabajo: 1o. Que el paro tiene por objeto exclusivo la solución de un conflicto económico. 2o. Que la solución de ese conflicto económico ha sido sometida infructuosamente a los procedimientos de conciliación administrativa y de arbitraje. 3o. Que los servicios que el paro va a suspender no son de naturaleza de los indicados en el artículo 404. El paro no puede realizarse sino quince días después, por lo menos, de la fecha de la exposición del empleador al Departamento de Trabajo relativa a las justificaciones que anteceden. \nArt. 415.- Las disposiciones de los artículos 402, 403, 404, 405, 406, 407, 408, 409 y 410, son aplicables a los paros. \nArt. 416.- El paro legal no pone fin al contrato de trabajo. Sólo suspende la ejecución de éste. Después de terminado el paro, la reanudación de los trabajos se sujetará a lo prescrito en el artículo 59. \nArt. 417.- El paro ilegal produce los siguientes efectos: 1o. Obliga al empleador a pagar a los trabajadores los salarios que éstos habrían percibido durante la suspensión indebida de los trabajos. 2o. Faculta a los trabajadores para dar por terminados sus contratos con la responsabilidad que a cargo del empleador establece este Código en los casos de despido injustificado. ',
+					`Art. 413.- Paro es la suspensión voluntaria del trabajo por uno o más empleadores en defensa de sus intereses.
+
+					Art. 414.- Antes de realizar el paro, el empleador deberá justificar al Departamento de Trabajo:
+
+					1o. Que el paro tiene por objeto exclusivo la solución de un conflicto económico.
+
+					2o. Que la solución de ese conflicto económico ha sido sometida infructuosamente a los procedimientos de conciliación administrativa y de arbitraje.
+
+					3o. Que los servicios que el paro va a suspender no son de naturaleza de los indicados en el artículo 404.
+
+					El paro no puede realizarse sino quince días después, por lo menos, de la fecha de la exposición del empleador al Departamento de Trabajo relativa a las justificaciones que anteceden.
+
+					Art. 415.- Las disposiciones de los artículos 402, 403, 404, 405, 406, 407, 408, 409 y 410, son aplicables a los paros.
+
+					Art. 416.- El paro legal no pone fin al contrato de trabajo. Sólo suspende la ejecución de éste.
+
+					Después de terminado el paro, la reanudación de los trabajos se sujetará a lo prescrito en el artículo 59.
+
+					Art. 417.- El paro ilegal produce los siguientes efectos:
+
+					1o. Obliga al empleador a pagar a los trabajadores los salarios que éstos habrían percibido durante la suspensión indebida de los trabajos.
+
+					2o. Faculta a los trabajadores para dar por terminados sus contratos con la responsabilidad que a cargo del empleador establece este Código en los casos de despido injustificado. `,
 			},
 		],
 	},
@@ -1732,40 +1754,337 @@ Art. 102.- Si no se comprueba la justa causa invocada como fundamento de la dimi
 		subsections: [
 			{
 				title: 'TÍTULO I: DE LAS AUTORIDADES DE TRABAJO',
-				content: `
-					CAPÍTULO I: DISPOSICIONES GENERALES
+				content: `CAPÍTULO I: DISPOSICIONES GENERALES
 
-					\nArt. 418.- La aplicación de las disposiciones de las leyes y reglamentos de trabajo está encomendada: 1o. A la Secretaría de Estado de Trabajo y sus dependencias. 2o. A los tribunales. \nArt. 419.- En todos los casos de conflictos de trabajo, sea cual sea su naturaleza, los empleadores y trabajadores, o las asociaciones que los representen pueden acordar su sumisión al juicio de árbitros libremente escogidos por ellos. El laudo que estos dicten no producirá efecto jurídico válido, cuando desconozca disposiciones de la ley cuyo carácter sea de orden público.
+				Art. 418.- La aplicación de las disposiciones de las leyes y reglamentos de trabajo está encomendada:
+
+				1o. A la Secretaría de Estado de Trabajo y sus dependencias.
+
+				2o. A los tribunales.
+
+				Art. 419.- En todos los casos de conflictos de trabajo, sea cual sea su naturaleza, los empleadores y trabajadores, o las asociaciones que los representen pueden acordar su sumisión al juicio de árbitros libremente escogidos por ellos.
+
+				El laudo que estos dicten no producirá efecto jurídico válido, cuando desconozca disposiciones de la ley cuyo carácter sea de orden público.
 
 					CAPÍTULO II: DE LAS AUTORIDADES ADMINISTRATIVAS DE TRABAJO
 
 					SECCIÓN PRIMERA: DE LA SECRETARÍA DE ESTADO DE TRABAJO
 
-					\nArt. 420.- La Secretaría de Estado de Trabajo, como órgano representativo del Poder Ejecutivo en materia de trabajo, es la más alta autoridad administrativa en todo lo atinente a las relaciones entre empleadores y trabajadores, y al mantenimiento de la normalidad en las actividades de la producción en la República. Para el mejor cumplimiento de sus funciones, la Secretaría de Estado de Trabajo tendrá un Departamento de Trabajo y ofrecerá, entre otros, los servicios de empleo, estadísticas de trabajo, mediación y arbitraje e higiene y seguridad industrial. \nArt. 421.- EL Secretario de Estado de Trabajo usará de las prerrogativas de su autoridad, dictando las providencias que considere procedentes para la mejor aplicación de las leyes y reglamentos, y manteniendo la vigilancia necesaria para que los empleados de su dependencia cumplan las obligaciones que les corresponden.
+					Art. 420.- La Secretaría de Estado de Trabajo, como órgano representativo del Poder Ejecutivo en materia de trabajo, es la más alta autoridad administrativa en todo lo atinente a las relaciones entre empleadores y trabajadores, y al mantenimiento de la normalidad en las actividades de la producción en la República. Para el mejor cumplimiento de sus funciones, la Secretaría de Estado de Trabajo tendrá un Departamento de Trabajo y ofrecerá, entre otros, los servicios de empleo, estadísticas de trabajo, mediación y arbitraje e higiene y seguridad industrial.
+
+					Art. 421.- EL Secretario de Estado de Trabajo usará de las prerrogativas de su autoridad, dictando las providencias que considere procedentes para la mejor aplicación de las leyes y reglamentos, y manteniendo la vigilancia necesaria para que los empleados de su dependencia cumplan las obligaciones que les corresponden.
 
 					SECCIÓN SEGUNDA: DEL DEPARTAMENTO DE TRABAJO
 
-					\nArt. 422.- Además del Director del Departamento de Trabajo y de los empleados que exijan las atenciones del servicio, forman parte de éste y están por tanto, bajo la vigilancia del primero: 1o. Los representantes locales de trabajo. 2o. Los inspectores auxiliares. El Director General de Trabajo, los subdirectores generales, los supervisores, los representantes locales y los inspectores auxiliares deben ser abogados. No pueden ser destituidos sino por falta grave e inexcusable. El Director General del Comité Nacional de Salarios y los Directores Generales de los Departamentos o Servicios de Empleo y Estadísticas deben ser doctores o licenciados en derecho o en cualquier rama de las ciencias sociales. El Director General de Higiene y Seguridad Industrial debe ser preferentemente doctor o licenciado en medicina o en trabajo social. \nArt. 423.- Corresponde al Departamento de Trabajo despachar de acuerdo con las leyes y reglamentos, bajo la vigilancia de la Secretaría de Estado de Trabajo todo lo relativo: 1o. A la jornada de trabajo; 2o. A los descansos legales; 3o. A las vacaciones de los trabajadores; 4o. Al cierre de las empresas; 5o. A la protección de la maternidad de las trabajadoras; 6o. A la protección de los menores en materia de trabajo; 7o. A los salarios de los trabajadores; 8o. A la nacionalización del trabajo; 9o. A las asociaciones de empleadores y de trabajadores; 10o. A los contratos de trabajo; 11o. A los demás asuntos relacionados con el trabajo como factor de la producción. \nArt. 424.- El Departamento de Trabajo investigará las denuncias de irregularidades en la ejecución de los contratos, convenios, leyes y reglamentos de trabajo que le sean sometidas por los empleadores y por los trabajadores perjudicados. La investigación se hará dentro de los tres días de la presentación de la denuncia. \nArt. 425.- El Departamento de Trabajo mantendrá un servicio gratuito de consultas, sobre interpretación de las leyes y reglamentos de trabajo, en beneficio de empleadores y trabajadores. En todos los casos consultados, el Departamento emitirá opinión sin perjuicio de la facultad de interpretación que corresponde a los tribunales. \nArt. 426.- Las disposiciones del artículo 425 no autorizan a ninguna persona que ocupe un cargo en el Departamento de Trabajo a evacuar consultas sobre cuestiones que sean objeto de un litigio, ni a proponer o insinuar conciliación entre las partes, aconsejar demandas, denuncias o cualesquiera otras diligencias de carácter procesal. \nArt. 427.- El Poder Ejecutivo puede organizar, por decreto, el servicio de asistencia judicial, bajo la dependencia del Departamento de Trabajo, en beneficio de empleadores o trabajadores cuya situación económica no les permita ejercer sus derechos como demandantes o como demandados. \nArt. 428.- El Departamento de Trabajo dispondrá de un libro para cada clase de registro exigido por este Código. Toda inscripción debe enunciar: 1o. La fecha, lugar y naturaleza del documento. 2o. Los datos que sean necesarios para la identificación de las personas que figuren en el documento. \nArt. 429.- Para facilitar la búsqueda de las inscripciones contenidas en los libros destinados al registro, el Departamento de Trabajo preparará índices en los cuales se anotarán, por orden alfabético, los nombres de las personas que figuren en aquellas, la naturaleza del documento, el tomo y la página correspondiente a cada inscripción. Los registros de las oficinas de trabajo son públicos y, en consecuencia, toda persona puede obtener copias o extractos de sus asientos. Cualquier persona puede obtener además, copias certificadas de los documentos que obren en los archivos de las oficinas de trabajo, siempre que justifique un interés legítimo. \nArt. 430.- En el Departamento de Trabajo funcionarán las Secciones técnicas o administrativas que fuesen necesarias para la mejor aplicación de las disposiciones de este Código.
+					Art. 422.- Además del Director del Departamento de Trabajo y de los empleados que exijan las atenciones del servicio, forman parte de éste y están por tanto, bajo la vigilancia del primero:
+
+					1o. Los representantes locales de trabajo.
+
+					2o. Los inspectores auxiliares.
+
+					El Director General de Trabajo, los subdirectores generales, los supervisores, los representantes locales y los inspectores auxiliares deben ser abogados. No pueden ser destituidos sino por falta grave e inexcusable. El Director General del Comité Nacional de Salarios y los Directores Generales de los Departamentos o Servicios de Empleo y Estadísticas deben ser doctores o licenciados en derecho o en cualquier rama de las ciencias sociales. El Director General de Higiene y Seguridad Industrial debe ser preferentemente doctor o licenciado en medicina o en trabajo social.
+
+					Art. 423.- Corresponde al Departamento de Trabajo despachar de acuerdo con las leyes y reglamentos, bajo la vigilancia de la Secretaría de Estado de Trabajo todo lo relativo:
+
+					1o. A la jornada de trabajo;
+
+					2o. A los descansos legales;
+
+					3o. A las vacaciones de los trabajadores;
+
+					4o. Al cierre de las empresas;
+
+					5o. A la protección de la maternidad de las trabajadoras;
+
+					6o. A la protección de los menores en materia de trabajo;
+
+					7o. A los salarios de los trabajadores;
+
+					8o. A la nacionalización del trabajo;
+
+					9o. A las asociaciones de empleadores y de trabajadores;
+
+					10o. A los contratos de trabajo;
+
+					11o. A los demás asuntos relacionados con el trabajo como factor de la producción.
+
+					Art. 424.- El Departamento de Trabajo investigará las denuncias de irregularidades en la ejecución de los contratos, convenios, leyes y reglamentos de trabajo que le sean sometidas por los empleadores y por los trabajadores perjudicados.
+
+					La investigación se hará dentro de los tres días de la presentación de la denuncia.
+
+					Art. 425.- El Departamento de Trabajo mantendrá un servicio gratuito de consultas, sobre interpretación de las leyes y reglamentos de trabajo, en beneficio de empleadores y trabajadores.
+
+					En todos los casos consultados, el Departamento emitirá opinión sin perjuicio de la facultad de interpretación que corresponde a los tribunales.
+
+					Art. 426.- Las disposiciones del artículo 425 no autorizan a ninguna persona que ocupe un cargo en el Departamento de Trabajo a evacuar consultas sobre cuestiones que sean objeto de un litigio, ni a proponer o insinuar conciliación entre las partes, aconsejar demandas, denuncias o cualesquiera otras diligencias de carácter procesal.
+
+					Art. 427.- El Poder Ejecutivo puede organizar, por decreto, el servicio de asistencia judicial, bajo la dependencia del Departamento de Trabajo, en beneficio de empleadores o trabajadores cuya situación económica no les permita ejercer sus derechos como demandantes o como demandados.
+
+					Art. 428.- El Departamento de Trabajo dispondrá de un libro para cada clase de registro exigido por este Código. Toda inscripción debe enunciar:
+
+					1o. La fecha, lugar y naturaleza del documento.
+
+					2o. Los datos que sean necesarios para la identificación de las personas que figuren en el documento.
+
+					Art. 429.- Para facilitar la búsqueda de las inscripciones contenidas en los libros destinados al registro, el Departamento de Trabajo preparará índices en los cuales se anotarán, por orden alfabético, los nombres de las personas que figuren en aquellas, la naturaleza del documento, el tomo y la página correspondiente a cada inscripción.
+
+					Los registros de las oficinas de trabajo son públicos y, en consecuencia, toda persona puede obtener copias o extractos de sus asientos.
+
+					Cualquier persona puede obtener además, copias certificadas de los documentos que obren en los archivos de las oficinas de trabajo, siempre que justifique un interés legítimo.
+
+					Art. 430.- En el Departamento de Trabajo funcionarán las Secciones técnicas o administrativas que fuesen necesarias para la mejor aplicación de las disposiciones de este Código.
 
 					SECCIÓN TERCERA: DE LOS REPRESENTANTES LOCALES DE TRABAJO
 
-					\nArt. 431.- Para la mejor aplicación de las disposiciones de este Código, la Secretaría de Estado de Trabajo puede crear distritos jurisdiccionales. En cada distrito debe asignarse un inspector con la categoría de representante local de trabajo así como los inspectores auxiliares que fueren necesarios. \nArt. 432.- Corresponde a los representantes locales de trabajo: 1o. Vigilar, en sus respectivas circunscripciones, el fiel cumplimiento de las leyes, reglamentos y contratos de trabajo. 2o. Ejecutar en sus respectivas circunscripciones, las órdenes que reciban del Departamento de Trabajo, así como cuantas actuaciones les impongan las leyes y reglamentos. 3o. Recibir los avisos de suspensión total o parcial de los contratos de trabajo, comprobar las causas alegadas al efecto y participar al Departamento de Trabajo el resultado de la comprobación.
+					Art. 431.- Para la mejor aplicación de las disposiciones de este Código, la Secretaría de Estado de Trabajo puede crear distritos jurisdiccionales.
+
+					En cada distrito debe asignarse un inspector con la categoría de representante local de trabajo así como los inspectores auxiliares que fueren necesarios.
+
+					Art. 432.- Corresponde a los representantes locales de trabajo:
+
+					1o. Vigilar, en sus respectivas circunscripciones, el fiel cumplimiento de las leyes, reglamentos y contratos de trabajo.
+
+					2o. Ejecutar en sus respectivas circunscripciones, las órdenes que reciban del Departamento de Trabajo, así como cuantas actuaciones les impongan las leyes y reglamentos.
+
+					3o. Recibir los avisos de suspensión total o parcial de los contratos de trabajo, comprobar las causas alegadas al efecto y participar al Departamento de Trabajo el resultado de la comprobación.
 
 					SECCIÓN CUARTA: DEL SERVICIO DE INSPECCIÓN DE TRABAJO
 
-					\nArt. 433.- Compete al servicio de inspección de trabajo velar por el fiel cumplimiento de las disposiciones legales o reglamentarias relativas al trabajo, especialmente las que se refieren a las materias enunciadas en los ordinales del artículo 423. \nArt. 434.- Los inspectores de trabajo que acrediten su identidad, están autorizados: 1o. A penetrar libremente y sin previa notificación en los lugares en los cuales puedan ser objeto de violación las disposiciones a que se refiere el artículo 433, guardando el respecto debido a las personas que se encuentren en ellos y tratando de que no se interrumpan innecesariamente los trabajos que se estén realizando. 2o. A proceder a cualquier examen, comprobación o investigación que consideren necesarios para tener la convicción de que se observan las disposiciones legales, en particular: a) A interrogar, sólo o ante testigos, al empleador y al personal de la empresa sobre cualquier asunto relativo a la aplicación de las disposiciones legales; b) a pedir la presentación de libros, registros o documentos que las leyes y los reglamentos de trabajo ordenen llevar, a fin de comprobar si se hallan en debida forma, y para sacar copias o extractos de ellos; y c) a requerir la colocación de los avisos y carteles que exigen las leyes y reglamentos. Los inspectores de trabajo podrán requerir el auxilio de la fuerza pública para el cumplimiento de lo dispuesto en el ordinal primero, en caso de oposición del propietario sus representantes o las personas que se encuentren en los lugares indicados en dicho ordinal o que acudan a ellos. \nArt. 435.- Compete a los inspectores de trabajo comprobar la existencia o no existencia de las causas de suspensión de los contratos de trabajo, en los tres días de haber recibido el aviso correspondiente del representante local o del Departamento de Trabajo, si la suspensión ocurre en el Distrito Nacional. Del resultado de sus actuaciones remitirá un informe suscinto al representante local o al Departamento, según el caso, en los dos días que sigan al de la inspección practicada. \nArt. 436.- Cuando un inspector de trabajo advierta en alguna visita irregularidades no sancionadas por las leyes y reglamentos, o hechos, circunstancias o condiciones que puedan ser causa de perjuicio para las personas o los interesados del empleador o de los trabajadores, lo comunicará al primero o a su representante y, le dará, si procede los consejos técnicos que considere apropiados. En caso de peligro inminente para la salud y la seguridad de los trabajadores el inspector de trabajo podrá ordenar inmediatamente las medidas ejecutorias pertinentes, a reserva de los recursos judiciales o administrativos correspondientes. \nArt. 437.- Las informaciones relativas a irregularidades, procedimientos o métodos de trabajo, contabilidad u otra, obtenidas en las inspecciones, son confidenciales, excepto aquellas que sean necesarias para la comprobación y denuncia de alguna infracción de las leyes o reglamentos de trabajo. La revelación innecesaria de dichas informaciones está sancionada con las penas establecidas en el artículo 719 de este Código. Los inspectores de trabajo deben tratar, asimismo, como confidencial, el origen de cualquier denuncia sobre infracción de las leyes o reglamentos de trabajo y, en consecuencia, no informarán al empleador o a su representante, ni a ninguna otra persona, que practican una visita de inspección en razón de una denuncia recibida. \nArt. 438.- Está prohibido a los inspectores de trabajo tener cualquier interés directo o indirecto en las empresas bajo su vigilancia. \nArt. 439.- Los inspectores de trabajo comprobarán las infracciones de las leyes o reglamentos de trabajo por medio de actas que redactarán en el lugar donde aquellas sean cometidas. Las actas contendrán las siguientes menciones: 1o. Nombre del inspector que las redacte. 2o. Lugar, fecha hora y circunstancia de la infracción. 3o. Nombre, profesión y domicilio del infractor o de su representante si lo hay. 4o. Nombre profesión y domicilio de los testigos, si los hay, los cuales deben ser mayores de quince años y saber leer y escribir. Las actas deben ser firmadas por el inspector actuante y por los testigos, si los hay así como por el infractor o su representante, o se hará constar que no han querido o no han podido firmarlas. \nArt. 440.- Cuando por cualquier circunstancia no pueda redactarse el acta en el lugar de la infracción o en la fecha en que sea sorprendida, el inspector lo hará en otro lugar o en otra fecha según el caso con enunciación de dicha circunstancia en el acta. \nArt. 441.- Se tendrán por ciertos, hasta inscripción en falsedad, los hechos relatados en el acta, siempre que ésta haya sido firmada a la vez por los testigos y por el infractor o su representante, sin protesta ni reserva. \nArt. 442.- Sorprendida y comprobada la infracción, el original y el duplicado del acta correspondiente serán remitidos al Departamento de Trabajo, el cual archivará el duplicado y remitirá el original, en los cinco días de su recibo, al tribunal represivo competente para los fines de ley. El triplicado se entregara al infractor o a su representante. El cuadruplicado quedará en poder del inspector actuante, para ser encuadernado y archivado con los del año al cual corresponda. La remisión del original y el duplicado al Departamento de Trabajo debe ser hecha en los tres días de su fecha. La entrega del triplicado se hará el mismo día de la redacción del acta si ésta se realiza en el lugar de la infracción, o se le remitirá inmediatamente por conducto de cualquier autoridad u otra vía que ofrezca seguridad. \nArt. 443.- El servicio de inspección publicará un informe anual sobre la labor de los inspectores que están bajo su dependencia. Los informes anuales del servicio de inspección tratarán de todas las materias que le competen y contendrán además datos relativos: 1o. Al personal de servicio de inspección de trabajo. 2o. A estadísticas de los establecimientos sujetos a inspección. 3o. A estadísticas de visitas de inspección. 4o. A estadísticas de las infracciones comprobadas y de las sanciones impuestas. 5o. A estadísticas de los accidentes de trabajo y de las enfermedades profesionales. El Instituto Dominicano de Seguros Sociales y la Dirección General de Higiene y Seguridad Industrial de la Secretaría de Estado de Trabajo, deben informar al Departamento de Trabajo de los accidentes de trabajo y enfermedades profesionales de su conocimiento.
+					Art. 433.- Compete al servicio de inspección de trabajo velar por el fiel cumplimiento de las disposiciones legales o reglamentarias relativas al trabajo, especialmente las que se refieren a las materias enunciadas en los ordinales del artículo 423.
+
+					Art. 434.- Los inspectores de trabajo que acrediten su identidad, están autorizados:
+
+					1o. A penetrar libremente y sin previa notificación en los lugares en los cuales puedan ser objeto de violación las disposiciones a que se refiere el artículo 433, guardando el respecto debido a las personas que se encuentren en ellos y tratando de que no se interrumpan innecesariamente los trabajos que se estén realizando.
+
+					2o. A proceder a cualquier examen, comprobación o investigación que consideren necesarios para tener la convicción de que se observan las disposiciones legales, en particular:
+
+					a) A interrogar, sólo o ante testigos, al empleador y al personal de la empresa sobre cualquier asunto relativo a la aplicación de las disposiciones legales;
+
+					b) a pedir la presentación de libros, registros o documentos que las leyes y los reglamentos de trabajo ordenen llevar, a fin de comprobar si se hallan en debida forma, y para sacar copias o extractos de ellos; y
+
+					c) a requerir la colocación de los avisos y carteles que exigen las leyes y reglamentos.
+
+					Los inspectores de trabajo podrán requerir el auxilio de la fuerza pública para el cumplimiento de lo dispuesto en el ordinal primero, en caso de oposición del propietario sus representantes o las personas que se encuentren en los lugares indicados en dicho ordinal o que acudan a ellos.
+
+					Art. 435.- Compete a los inspectores de trabajo comprobar la existencia o no existencia de las causas de suspensión de los contratos de trabajo, en los tres días de haber recibido el aviso correspondiente del representante local o del Departamento de Trabajo, si la suspensión ocurre en el Distrito Nacional.
+
+					Del resultado de sus actuaciones remitirá un informe suscinto al representante local o al Departamento, según el caso, en los dos días que sigan al de la inspección practicada.
+
+					Art. 436.- Cuando un inspector de trabajo advierta en alguna visita irregularidades no sancionadas por las leyes y reglamentos, o hechos, circunstancias o condiciones que puedan ser causa de perjuicio para las personas o los interesados del empleador o de los trabajadores, lo comunicará al primero o a su representante y, le dará, si procede los consejos técnicos que considere apropiados.
+
+					En caso de peligro inminente para la salud y la seguridad de los trabajadores el inspector de trabajo podrá ordenar inmediatamente las medidas ejecutorias pertinentes, a reserva de los recursos judiciales o administrativos correspondientes.
+
+					Art. 437.- Las informaciones relativas a irregularidades, procedimientos o métodos de trabajo, contabilidad u otra, obtenidas en las inspecciones, son confidenciales, excepto aquellas que sean necesarias para la comprobación y denuncia de alguna infracción de las leyes o reglamentos de trabajo.
+
+					La revelación innecesaria de dichas informaciones está sancionada con las penas establecidas en el artículo 719 de este Código.
+
+					Los inspectores de trabajo deben tratar, asimismo, como confidencial, el origen de cualquier denuncia sobre infracción de las leyes o reglamentos de trabajo y, en consecuencia, no informarán al empleador o a su representante, ni a ninguna otra persona, que practican una visita de inspección en razón de una denuncia recibida.
+
+					Art. 438.- Está prohibido a los inspectores de trabajo tener cualquier interés directo o indirecto en las empresas bajo su vigilancia.
+
+					Art. 439.- Los inspectores de trabajo comprobarán las infracciones de las leyes o reglamentos de trabajo por medio de actas que redactarán en el lugar donde aquellas sean cometidas.
+
+					Las actas contendrán las siguientes menciones:
+
+					1o. Nombre del inspector que las redacte.
+
+					2o. Lugar, fecha hora y circunstancia de la infracción.
+
+					3o. Nombre, profesión y domicilio del infractor o de su representante si lo hay.
+
+					4o. Nombre profesión y domicilio de los testigos, si los hay, los cuales deben ser mayores de quince años y saber leer y escribir.
+
+					Las actas deben ser firmadas por el inspector actuante y por los testigos, si los hay así como por el infractor o su representante, o se hará constar que no han querido o no han podido firmarlas.
+
+					Art. 440.- Cuando por cualquier circunstancia no pueda redactarse el acta en el lugar de la infracción o en la fecha en que sea sorprendida, el inspector lo hará en otro lugar o en otra fecha según el caso con enunciación de dicha circunstancia en el acta.
+
+					Art. 441.- Se tendrán por ciertos, hasta inscripción en falsedad, los hechos relatados en el acta, siempre que ésta haya sido firmada a la vez por los testigos y por el infractor o su representante, sin protesta ni reserva.
+
+					Art. 442.- Sorprendida y comprobada la infracción, el original y el duplicado del acta correspondiente serán remitidos al Departamento de Trabajo, el cual archivará el duplicado y remitirá el original, en los cinco días de su recibo, al tribunal represivo competente para los fines de ley.
+
+					El triplicado se entregara al infractor o a su representante.
+
+					El cuadruplicado quedará en poder del inspector actuante, para ser encuadernado y archivado con los del año al cual corresponda.
+
+					La remisión del original y el duplicado al Departamento de Trabajo debe ser hecha en los tres días de su fecha.
+
+					La entrega del triplicado se hará el mismo día de la redacción del acta si ésta se realiza en el lugar de la infracción, o se le remitirá inmediatamente por conducto de cualquier autoridad u otra vía que ofrezca seguridad.
+
+					Art. 443.- El servicio de inspección publicará un informe anual sobre la labor de los inspectores que están bajo su dependencia.
+
+					Los informes anuales del servicio de inspección tratarán de todas las materias que le competen y contendrán además datos relativos:
+
+					1o. Al personal de servicio de inspección de trabajo.
+
+					2o. A estadísticas de los establecimientos sujetos a inspección.
+
+					3o. A estadísticas de visitas de inspección.
+
+					4o. A estadísticas de las infracciones comprobadas y de las sanciones impuestas.
+
+					5o. A estadísticas de los accidentes de trabajo y de las enfermedades profesionales.
+
+					El Instituto Dominicano de Seguros Sociales y la Dirección General de Higiene y Seguridad Industrial de la Secretaría de Estado de Trabajo, deben informar al Departamento de Trabajo de los accidentes de trabajo y enfermedades profesionales de su conocimiento.
 
 					SECCIÓN QUINTA: DEL SERVICIO DE EMPLEO
 
-					\nArt. 444.- En la Secretaría de Estado de Trabajo habrá una Dirección General de Empleo con las siguientes atribuciones: 1o. Mantener un registro de los trabajadores desocupados. 2o. Mantener un registro de los empleos vacantes. 3o. Suministrar las informaciones que les soliciten empleadores y trabajadores. 4o. Expedir certificados de desocupación a los trabajadores sin empleo. 5o. Cancelar estos certificados cuando el trabajador sea empleado. 6o. Dar a los trabajadores desocupados y a los empleadores los consejos que éstos soliciten. \nArt. 445.- Las atribuciones establecidas en el artículo anterior son ejercidas fuera del Distrito Nacional por los representantes locales de trabajo. \nArt. 446.- Las personas desocupadas pueden solicitar y obtener de la Dirección General de Empleo o de los representantes locales de trabajo su inscripción en el registro de trabajadores desocupados, tan pronto como se encuentren sin empleo. La inscripción debe contener: 1o. Número de orden y fecha. 2o. Nombre, nacionalidad, estado, edad y residencia actual del desocupado. 3o. Mención de la cédula de identidad de éste. 4o. Profesión, arte y oficio del mismo y especialización si la tiene. 5o. Número de hijos del trabajador. 6o. Indicación de si sabe o no leer y escribir. 7o. Nombre del último empleador a quien sirvió, y clase de trabajo realizado. 8o. Monto del último salario percibido. 9o. Título, licencia o diploma que posea. 10o. Sindicato a que pertenece, si es miembro de alguno. La Dirección General de Empleo o los representantes locales de trabajo, según el caso, deben expedir al trabajador desocupado, inmediatamente después de su inscripción, un certificado de desocupación, en el cual figuren los mismos datos indicados en este Artículo. \nArt. 447.- Los empleadores que necesiten trabajadores para sus empresas, pueden informar de esta circunstancia a la Dirección General de Empleo o a los representantes locales de trabajo, debiendo indicar al mismo tiempo todas las carac terísticas del trabajo de que se trate, los días y horas de éste y el salario correspondiente. Si en el momento de la información existen en el Registro de Desocupados inscripciones de trabajadores con aptitud para el trabajo de que se trate, la Dirección General de Empleo o los representantes locales deben llamar inmediatamente a dichos trabajadores y ponerlos en comunicación con los empleadores. Si no hay inscripciones o el número de éstas es insuficiente, se asentarán los empleos vacantes en un registro especial, en el cual deben figurar las menciones indicadas en la primera parte de este artículo. \nArt. 448.- Los registros de desocupados y de empleos vacantes son públicos. \nArt. 449.- Tan pronto como un trabajador desocupado obtenga trabajo debe devolver su certificado de desocupación a la oficina expedidora para su cancelación y archivo. Si posteriormente queda sin empleo, debe solicitar y obtener un nuevo certificado. \nArt. 450.- La Dirección General de Empleo podrá solicitar de las instituciones públicas y privadas, sindicatos de empleadores y de trabajadores u otros organismos, todos los datos e informaciones que considere necesarios para el desarrollo de sus actividades. \nArt. 451.- La Dirección General de Empleo colaborará con los organismos destinados a la rehabilitación profesional de minusválidos, a fin de proporcionarles empleos adecuados.
+					Art. 444.- En la Secretaría de Estado de Trabajo habrá una Dirección General de Empleo con las siguientes atribuciones:
+
+					1o. Mantener un registro de los trabajadores desocupados.
+
+					2o. Mantener un registro de los empleos vacantes.
+
+					3o. Suministrar las informaciones que les soliciten empleadores y trabajadores.
+
+					4o. Expedir certificados de desocupación a los trabajadores sin empleo.
+
+					5o. Cancelar estos certificados cuando el trabajador sea empleado.
+
+					6o. Dar a los trabajadores desocupados y a los empleadores los consejos que éstos soliciten.
+
+					Art. 445.- Las atribuciones establecidas en el artículo anterior son ejercidas fuera del Distrito Nacional por los representantes locales de trabajo.
+
+					Art. 446.- Las personas desocupadas pueden solicitar y obtener de la Dirección General de Empleo o de los representantes locales de trabajo su inscripción en el registro de trabajadores desocupados, tan pronto como se encuentren sin empleo.
+
+					La inscripción debe contener:
+
+					1o. Número de orden y fecha.
+
+					2o. Nombre, nacionalidad, estado, edad y residencia actual del desocupado.
+
+					3o. Mención de la cédula de identidad de éste.
+
+					4o. Profesión, arte y oficio del mismo y especialización si la tiene.
+
+					5o. Número de hijos del trabajador.
+
+					6o. Indicación de si sabe o no leer y escribir.
+
+					7o. Nombre del último empleador a quien sirvió, y clase de trabajo realizado.
+
+					8o. Monto del último salario percibido.
+
+					9o. Título, licencia o diploma que posea.
+
+					10o. Sindicato a que pertenece, si es miembro de alguno.
+
+					La Dirección General de Empleo o los representantes locales de trabajo, según el caso, deben expedir al trabajador desocupado, inmediatamente después de su inscripción, un certificado de desocupación, en el cual figuren los mismos datos indicados en este Artículo.
+
+					Art. 447.- Los empleadores que necesiten trabajadores para sus empresas, pueden informar de esta circunstancia a la Dirección General de Empleo o a los representantes locales de trabajo, debiendo indicar al mismo tiempo todas las carac terísticas del trabajo de que se trate, los días y horas de éste y el salario correspondiente.
+
+					Si en el momento de la información existen en el Registro de Desocupados inscripciones de trabajadores con aptitud para el trabajo de que se trate, la Dirección General de Empleo o los representantes locales deben llamar inmediatamente a dichos trabajadores y ponerlos en comunicación con los empleadores.
+
+					Si no hay inscripciones o el número de éstas es insuficiente, se asentarán los empleos vacantes en un registro especial, en el cual deben figurar las menciones indicadas en la primera parte de este artículo.
+
+					Art. 448.- Los registros de desocupados y de empleos vacantes son públicos.
+
+					Art. 449.- Tan pronto como un trabajador desocupado obtenga trabajo debe devolver su certificado de desocupación a la oficina expedidora para su cancelación y archivo.
+
+					Si posteriormente queda sin empleo, debe solicitar y obtener un nuevo certificado.
+
+					Art. 450.- La Dirección General de Empleo podrá solicitar de las instituciones públicas y privadas, sindicatos de empleadores y de trabajadores u otros organismos, todos los datos e informaciones que considere necesarios para el desarrollo de sus actividades.
+
+					Art. 451.- La Dirección General de Empleo colaborará con los organismos destinados a la rehabilitación profesional de minusválidos, a fin de proporcionarles empleos adecuados.
 
 					SECCIÓN SEXTA: DEL COMITÉ NACIONAL DE SALARIOS
 
-					\nArt. 452.- En la Secretaría de Estado de Trabajo funcionará un Comité Nacional de Salarios, integrado de la manera siguiente: 1o. Por un Director General y dos vocales, nombrados por el Poder Ejecutivo. 2o. Por los vocales especiales que, en representación de empleadores y trabajadores, sean designados de acuerdo con el párrafo primero del artículo 457. El Director General del Comité no podrá, durante el ejercicio de su cargo, dedicarse a actividades económicas, incluyendo las agrícolas, comerciales, industriales, profesionales o de cualquiera otra naturaleza que requieran el empleo de trabajadores cuyos salarios puedan ser objeto de tarifas mínimas. Los miembros del Comité recibirán el sueldo que se les asigne en el Presupuesto Nacional, excepto los vocales que percibirán por cada sesión a que asistan, los honorarios que le sean asignados por el Poder Ejecutivo. El Poder Ejecutivo podrá destituir a cualquiera de los miembros del Comité por negligencia o mala conducta, y sustituirlos por cualquier impedimento para el desempeño de su cargo. Toda vacante de un miembro gubernamental del Comité será cubierta por la persona que designe el Poder Ejecutivo. \nArt. 453.- El Comité tendrá un secretario y demás empleados administrativos que requiera, nombrados por el Poder Ejecutivo. \nArt. 454.- El Comité redactará su reglamento interior y lo someterá al Poder Ejecutivo para su aprobación, por vía del Secretario de Estado de Trabajo, quien podrá hacer las recomendaciones que considere pertinentes. \nArt. 455.- El Comité estará encargado de fijar tarifas de salarios mínimos para los trabajadores de todas las actividades económicas, incluyendo las agrícolas, comerciales, industriales o de cualquier otra naturaleza que se realicen en la República, así como la forma en que estos salarios deban pagarse. Dichas tarifas pueden ser de carácter nacional, regional, provincial, municipal, para el Distrito Nacional o exclusivamente para una empresa determinada. \nArt. 456.- Las tarifas de salarios mínimos en cada actividad económica serán revisadas de oficio por el Comité, por lo menos una vez cada dos años. En ningún caso, el Comité conocerá de la revisión de las tarifas que le sean sometidas por los empleadores o los trabajadores, antes de haber cumplido un año de vigencia. Sin embargo, si después de estar vigente una resolución, alguna de las partes demuestra con documentos que su aplicación le es perjudicial y que dicho perjuicio afecta la economía nacional, el Comité puede, previa justificación proceder a revisar la misma antes del plazo ya indicado, pudiendo modificarla en lo que respecta a la o a las partes interesadas. \nArt. 457.- Cuando el Comité determine fijar o revisar la tarifa de salario mínimo de una cualquiera actividad económica, el presidente de ese organismo procederá a solicitar de los empleadores y trabajadores de esa actividad, así como de sus respectivas organizaciones, si las hubiere, mediante constancia de recibo expedido por éstos, que le sometan sus respectivos candidatos para los cargos de vocales especiales del Comité Nacional de Salarios que conocerá de la fijación o revisión de la tarifa que es aplicable a dicha actividad económica. Recibidas en la Oficina del Comité las recomendaciones de candidatos en el plazo que se haya fijado el presidente nombrará uno o dos vocales especiales para formar parte del Comité de entre los candidatos recomendados por los empleadores o sus organizaciones, y un número igual de entre los candidatos recomendados por los trabajadores o sus organizaciones. Si alguno de los vocales designados no tomare posesión en la fecha señalada o si ocurriere alguna vacante el presidente nombrará el sucesor de entre los restantes candidatos sometidos por la parte empleadora o por la parte obrera, según corresponda. De no haber recomendación alguna o de no ser suficientes las recibidas, el presidente queda facultado para hacer una o más veces nuevas solicitudes en la misma forma indicada anteriormente, o para designar el vocal o los vocales especiales que sean necesarios de entre los empleadores y los empleados o trabajadores representativos de dicha actividad económica. El vocal o los vocales especiales designados en representación de los trabajadores, recibirán por cada sesión a que ellos asistan los honorarios que les asigne el Poder Ejecutivo. \nArt. 458.- Los vocales especiales en representación de los trabajadores y de los empleadores cesarán en sus funciones al empezar a regir la tarifa de salarios mínimos aplicable a la actividad económica de que se trate, previa celebración de audiencias o consultas adecuadas acopio de datos, estadísticas o informaciones que puedan ayudarle, y tomando en cuenta: a) La naturaleza del trabajo. b) Las condiciones, el tiempo y lugar en que se realicen. c) Los riesgos del trabajo. d) El precio corriente o actual de los artículos producidos. e) La situación económica de la empresa en esa actividad económica. f) Los cambios en el costo de la vida del trabajador, así como sus necesidades normales en el orden material moral y cultural. g) Las condiciones de cada región o lugar, y h) Cualesquiera otras circunstancias que puedan facilitar la fijación de dichos salarios. \nArt. 459.- Con el propósito de preparar la tarifa de salario mínimo para cada actividad económica el Comité podrá establecer clasificaciones por ocupación, o grupos de ocupaciones. También podrá establecer clasificaciones por regiones o zonas o por categorías o clase de actividad económica de que se trate, cuando a su juicio tal diferenciación sea aconsejable y siempre que no concedan ventajas de competencia a otras zonas, regiones o categorías de la misma actividad económica. \nArt. 460.- Para el cumplimiento de sus funciones el Comité Nacional de Salarios debe reunirse cuantas veces sea necesario. Sus atribuciones son las siguientes: 1o. Solicitar, cuando lo considere necesario, la opinión de funcionarios u organismos oficiales o semioficiales, teniendo además facultad para invitarlos a las reuniones del Comité. 2o. Convocar a las sesiones públicas en que se discuten tarifas de salarios para que asistan con voz, pero sin voto, a representantes de los empleadores y trabajadores de la actividad económica bajo consideración, así como de sus respectivas organizaciones si las hubiere. 3o. Ordenar el traslado a cualquier lugar de la República, cuando fuere necesario, o enviar tres o más de sus miembros para el acopio, en audiencia pública, de datos o informaciones indispensables, a condición de que siempre entre los miembros enviados haya, por lo menos, un representante de los empleadores, uno de los trabajadores y uno del interés público, respectivamente. 4o. Obtener de las oficinas públicas los datos e informaciones que sean necesarios para su labor. 5o. Realizar, mediante el personal técnico que se le asigne, investigaciones en los archivos, libros de comercio y otros documentos en cualquier oficina particular, incluyendo nóminas, constancias de salarios y horas de labor, listas de pago, estados de activo y pasivo, estados de ganancias y pérdidas y libros de contabilidad. Estos datos e informaciones no podrán ser usados ni revelados para fines extraños a las labores del Comité. El presidente del Comité tendrá derecho a exigir de dichas oficinas, la presentación de esta información. 6o. Fijar las tarifas de salario mínimo, mediante la redacción de resoluciones. 7o. Enviar al Secretario de Estado de Trabajo, para su aprobación, las resoluciones relativas a tarifas. 8o. Notificar dichas resoluciones a empleadores y trabajadores mediante entrega de una copia a los representantes respectivos, así como al público en general mediante su publicación en un periódico de circulación nacional en la República. 9o. Conocer nuevamente de las tarifas que le sean devueltas por el Secretario de Trabajo. \nArt. 461.- Tanto los trabajadores como los empleadores o cualquiera otra parte interesada, podrán dirigirse por escrito al Secretario de Estado de Trabajo haciéndole objeciones debidamente razonables a las tarifas de salarios mínimos recomendadas por el Comité, dentro de los quince días a contar de la fecha en que éstas hayan sido recibidas o publicadas en un periódico de circulación nacional, a pena de caducidad. \nArt. 462.- El Secretario de Estado de Trabajo debe examinar toda resolución que le remita el Comité y aprobarla, o devolverla al mismo para que conozca nuevamente de ella, después de haber considerado las objeciones que le hayan sido sometidas dentro del término legal. \nArt. 463.- En caso de devolución de la tarifa al Comité, la nueva resolución de éste no tiene que ser notificada a las partes ni puede ser objetada, pero debe ser refrenada por el Secretario de Estado de Trabajo. \nArt. 464.- Las resoluciones que fijan tarifas de salarios mínimos, después de ser aprobadas definitivamente, se publicarán en un periódico de circulación nacional y en la Gaceta Oficial. Salvo disposición en contrario contenidas en dichas resoluciones, las mismas serán obligatorias quince días después de una de dichas publicaciones. Estas resoluciones deberán ser fijadas de manera permanente en lugar visible del sitio donde se realicen los trabajos sujetos a su aplicación.
+					Art. 452.- En la Secretaría de Estado de Trabajo funcionará un Comité Nacional de Salarios, integrado de la manera siguiente:
+
+					1o. Por un Director General y dos vocales, nombrados por el Poder Ejecutivo.
+
+					2o. Por los vocales especiales que, en representación de empleadores y trabajadores, sean designados de acuerdo con el párrafo primero del artículo 457.
+
+					El Director General del Comité no podrá, durante el ejercicio de su cargo, dedicarse a actividades económicas, incluyendo las agrícolas, comerciales, industriales, profesionales o de cualquiera otra naturaleza que requieran el empleo de trabajadores cuyos salarios puedan ser objeto de tarifas mínimas.
+
+					Los miembros del Comité recibirán el sueldo que se les asigne en el Presupuesto Nacional, excepto los vocales que percibirán por cada sesión a que asistan, los honorarios que le sean asignados por el Poder Ejecutivo.
+
+					El Poder Ejecutivo podrá destituir a cualquiera de los miembros del Comité por negligencia o mala conducta, y sustituirlos por cualquier impedimento para el desempeño de su cargo.
+
+					Toda vacante de un miembro gubernamental del Comité será cubierta por la persona que designe el Poder Ejecutivo.
+
+					Art. 453.- El Comité tendrá un secretario y demás empleados administrativos que requiera, nombrados por el Poder Ejecutivo.
+
+					Art. 454.- El Comité redactará su reglamento interior y lo someterá al Poder Ejecutivo para su aprobación, por vía del Secretario de Estado de Trabajo, quien podrá hacer las recomendaciones que considere pertinentes.
+
+					Art. 455.- El Comité estará encargado de fijar tarifas de salarios mínimos para los trabajadores de todas las actividades económicas, incluyendo las agrícolas, comerciales, industriales o de cualquier otra naturaleza que se realicen en la República, así como la forma en que estos salarios deban pagarse. Dichas tarifas pueden ser de carácter nacional, regional, provincial, municipal, para el Distrito Nacional o exclusivamente para una empresa determinada.
+
+					Art. 456.- Las tarifas de salarios mínimos en cada actividad económica serán revisadas de oficio por el Comité, por lo menos una vez cada dos años. En ningún caso, el Comité conocerá de la revisión de las tarifas que le sean sometidas por los empleadores o los trabajadores, antes de haber cumplido un año de vigencia.
+
+					Sin embargo, si después de estar vigente una resolución, alguna de las partes demuestra con documentos que su aplicación le es perjudicial y que dicho perjuicio afecta la economía nacional, el Comité puede, previa justificación proceder a revisar la misma antes del plazo ya indicado, pudiendo modificarla en lo que respecta a la o a las partes interesadas.
+
+					Art. 457.- Cuando el Comité determine fijar o revisar la tarifa de salario mínimo de una cualquiera actividad económica, el presidente de ese organismo procederá a solicitar de los empleadores y trabajadores de esa actividad, así como de sus respectivas organizaciones, si las hubiere, mediante constancia de recibo expedido por éstos, que le sometan sus respectivos candidatos para los cargos de vocales especiales del Comité Nacional de Salarios que conocerá de la fijación o revisión de la tarifa que es aplicable a dicha actividad económica.
+
+					Recibidas en la Oficina del Comité las recomendaciones de candidatos en el plazo que se haya fijado el presidente nombrará uno o dos vocales especiales para formar parte del Comité de entre los candidatos recomendados por los empleadores o sus organizaciones, y un número igual de entre los candidatos recomendados por los trabajadores o sus organizaciones.
+
+					Si alguno de los vocales designados no tomare posesión en la fecha señalada o si ocurriere alguna vacante el presidente nombrará el sucesor de entre los restantes candidatos sometidos por la parte empleadora o por la parte obrera, según corresponda.
+
+					De no haber recomendación alguna o de no ser suficientes las recibidas, el presidente queda facultado para hacer una o más veces nuevas solicitudes en la misma forma indicada anteriormente, o para designar el vocal o los vocales especiales que sean necesarios de entre los empleadores y los empleados o trabajadores representativos de dicha actividad económica.
+
+					El vocal o los vocales especiales designados en representación de los trabajadores, recibirán por cada sesión a que ellos asistan los honorarios que les asigne el Poder Ejecutivo.
+
+					Art. 458.- Los vocales especiales en representación de los trabajadores y de los empleadores cesarán en sus funciones al empezar a regir la tarifa de salarios mínimos aplicable a la actividad económica de que se trate, previa celebración de audiencias o consultas adecuadas acopio de datos, estadísticas o informaciones que puedan ayudarle, y tomando en cuenta:
+
+					a) La naturaleza del trabajo.
+
+					b) Las condiciones, el tiempo y lugar en que se realicen.
+
+					c) Los riesgos del trabajo.
+
+					d) El precio corriente o actual de los artículos producidos.
+
+					e) La situación económica de la empresa en esa actividad económica.
+
+					f) Los cambios en el costo de la vida del trabajador, así como sus necesidades normales en el orden material moral y cultural.
+
+					g) Las condiciones de cada región o lugar, y
+
+					h) Cualesquiera otras circunstancias que puedan facilitar la fijación de dichos salarios.
+
+					Art. 459.- Con el propósito de preparar la tarifa de salario mínimo para cada actividad económica el Comité podrá establecer clasificaciones por ocupación, o grupos de ocupaciones.
+
+					También podrá establecer clasificaciones por regiones o zonas o por categorías o clase de actividad económica de que se trate, cuando a su juicio tal diferenciación sea aconsejable y siempre que no concedan ventajas de competencia a otras zonas, regiones o categorías de la misma actividad económica.
+
+					Art. 460.- Para el cumplimiento de sus funciones el Comité Nacional de Salarios debe reunirse cuantas veces sea necesario.
+
+					Sus atribuciones son las siguientes:
+
+					1o. Solicitar, cuando lo considere necesario, la opinión de funcionarios u organismos oficiales o semioficiales, teniendo además facultad para invitarlos a las reuniones del Comité.
+
+					2o. Convocar a las sesiones públicas en que se discuten tarifas de salarios para que asistan con voz, pero sin voto, a representantes de los empleadores y trabajadores de la actividad económica bajo consideración, así como de sus respectivas organizaciones si las hubiere.
+
+					3o. Ordenar el traslado a cualquier lugar de la República, cuando fuere necesario, o enviar tres o más de sus miembros para el acopio, en audiencia pública, de datos o informaciones indispensables, a condición de que siempre entre los miembros enviados haya, por lo menos, un representante de los empleadores, uno de los trabajadores y uno del interés público, respectivamente.
+
+					4o. Obtener de las oficinas públicas los datos e informaciones que sean necesarios para su labor.
+
+					5o. Realizar, mediante el personal técnico que se le asigne, investigaciones en los archivos, libros de comercio y otros documentos en cualquier oficina particular, incluyendo nóminas, constancias de salarios y horas de labor, listas de pago, estados de activo y pasivo, estados de ganancias y pérdidas y libros de contabilidad. Estos datos e informaciones no podrán ser usados ni revelados para fines extraños a las labores del Comité.
+
+					El presidente del Comité tendrá derecho a exigir de dichas oficinas, la presentación de esta información.
+
+					6o. Fijar las tarifas de salario mínimo, mediante la redacción de resoluciones.
+
+					7o. Enviar al Secretario de Estado de Trabajo, para su aprobación, las resoluciones relativas a tarifas.
+
+					8o. Notificar dichas resoluciones a empleadores y trabajadores mediante entrega de una copia a los representantes respectivos, así como al público en general mediante su publicación en un periódico de circulación nacional en la República.
+
+					9o. Conocer nuevamente de las tarifas que le sean devueltas por el Secretario de Trabajo.
+
+					Art. 461.- Tanto los trabajadores como los empleadores o cualquiera otra parte interesada, podrán dirigirse por escrito al Secretario de Estado de Trabajo haciéndole objeciones debidamente razonables a las tarifas de salarios mínimos recomendadas por el Comité, dentro de los quince días a contar de la fecha en que éstas hayan sido recibidas o publicadas en un periódico de circulación nacional, a pena de caducidad.
+
+					Art. 462.- El Secretario de Estado de Trabajo debe examinar toda resolución que le remita el Comité y aprobarla, o devolverla al mismo para que conozca nuevamente de ella, después de haber considerado las objeciones que le hayan sido sometidas dentro del término legal.
+
+					Art. 463.- En caso de devolución de la tarifa al Comité, la nueva resolución de éste no tiene que ser notificada a las partes ni puede ser objetada, pero debe ser refrenada por el Secretario de Estado de Trabajo.
+
+					Art. 464.- Las resoluciones que fijan tarifas de salarios mínimos, después de ser aprobadas definitivamente, se publicarán en un periódico de circulación nacional y en la Gaceta Oficial. Salvo disposición en contrario contenidas en dichas resoluciones, las mismas serán obligatorias quince días después de una de dichas publicaciones.
+
+					Estas resoluciones deberán ser fijadas de manera permanente en lugar visible del sitio donde se realicen los trabajos sujetos a su aplicación.
 
 					SECCIÓN SÉPTIMA: DE LA GARANTÍA DE LOS CRÉDITOS LABORALES
 
-					\nArt. 465.- Se crea una garantía que abonará a los trabajadores el importe de los salarios correspondientes a cuatro meses como máximo, que estén pendientes de pago en los casos de insolvencia del empleador. Igualmente abonará todas las indemnizaciones reconocidas judicialmente o por laudo arbitral en favor de los trabajadores por causa de terminación del contrato de trabajo, con un límite máximo de un año de salario. \nArt. 466.- La garantía será una fianza que contratará el empleador con una compañía de seguros y cuyos datos éste comunicará a la Secretaría de Estado de Trabajo en el informe de entrada de cada trabajador y que deberá constar en el cartel de horario. Esta fianza estará exenta de impuestos, tasas y contribuciones, y tendrá una vigencia de un año renovable anualmente por anticipado.
+					Art. 465.- Se crea una garantía que abonará a los trabajadores el importe de los salarios correspondientes a cuatro meses como máximo, que estén pendientes de pago en los casos de insolvencia del empleador. Igualmente abonará todas las indemnizaciones reconocidas judicialmente o por laudo arbitral en favor de los trabajadores por causa de terminación del contrato de trabajo, con un límite máximo de un año de salario.
+
+					Art. 466.- La garantía será una fianza que contratará el empleador con una compañía de seguros y cuyos datos éste comunicará a la Secretaría de Estado de Trabajo en el informe de entrada de cada trabajador y que deberá constar en el cartel de horario.
+
+					Esta fianza estará exenta de impuestos, tasas y contribuciones, y tendrá una vigencia de un año renovable anualmente por anticipado.
 
 					CAPÍTULO III: DE LAS ORGANIZACIONES Y COMPETENCIA DE LOS TRIBUNALES DE TRABAJO
 
@@ -1773,25 +2092,121 @@ Art. 102.- Si no se comprueba la justa causa invocada como fundamento de la dimi
 
 					I: DE LOS JUZGADOS DE TRABAJO
 
-					\nArt. 467.- Los juzgados de trabajo se componen de un juez designado por el Senado, que actúa como presidente, y dos vocales escogidos preferentemente de sendas nóminas formadas por los empleadores y los trabajadores. \nArt. 468.- Las asociaciones de empleadores y de trabajadoras más calificadas para el efecto, a juicio del Poder Ejecutivo, formarán, en los primeros quince días del mes de diciembre de cada año, nóminas de las personas que hayan de presentar sus respectivos intereses de clases como vocales de los juzgados de trabajo, para ser durante el año calendario subsiguiente. Cada una de estas nóminas debe enunciar los nombres, domicilios, residencias y profesiones de seis personas que pertenezcan, respectivamente a la clase empleadora y a la de los trabajadores cuyos intereses hayan de presentar. En igual término formará la Secretaría de Estado de Trabajo una nómina de doce personas extrañas a intereses de clase con indicación de sus respectivos nombres, domicilios, residencias y profesiones. \nArt. 469.- Tanto las nóminas formadas por los empleadores y por los trabajadores respectivamente, como la formada por la Secretaría de Estado de Trabajo serán remitidas al juez presidente del juzgado de trabajo correspondiente, con la constancia de la aceptación de cada una de las personas que la integran, en los dos días que siguen al vencimiento del término señalado en el artículo 468, para su formación. La juramentación de las personas nominadas debe efectuarse antes del día treinta del mismo mes de diciembre, de acuerdo con requerimientos que hará el juez en el curso de las cuarenta y ocho horas de haber recibido cada una de las nóminas indicadas. \nArt. 470.- Todo lo dispuesto por la Constitución y las Leyes respecto de los jueces de primera instancia en cuanto a requerimientos para su designación, sustitución, duración en sus funciones e incompatibilidad, se declara común a los jueces de los juzgados de trabajo. \nArt. 471.- Para figurar en las nóminas formadas por los empleadores y los trabajadores se requiere: 1o. Ser dominicano en el pleno ejercicio de los derechos civiles y políticos; 2o. Pertenecer a la clase que haga la designación; 3o. Haber cumplido veinticinco años; 4o. No haber sido condenado irrevocablemente por crimen o delito de derecho común; 5o. No haber sido condenado irrevocablemente en los dos años que preceden a su elección por infracción de las leyes o de los reglamentos de trabajo; 6o. Gozar de buena reputación; 7o. Saber leer y escribir; 8o. No ser miembro dirigente ni formar parte de directivas de asociaciones empleadoras o de trabajadores ni desempeñar cargos retribuidos en ellas. Para figurar en la nómina formada por la Secretaría de Estado de Trabajo, sólo se requieren las condiciones indicadas en los ordinales 1o., 3o., 4o., 6o. y 7o. \nArt. 472.- Los vocales de los juzgados de trabajo deben residir, durante el año para el cual hayan sido nominados en los respectivos lugares donde funcionen dichos tribunales.
+					Art. 467.- Los juzgados de trabajo se componen de un juez designado por el Senado, que actúa como presidente, y dos vocales escogidos preferentemente de sendas nóminas formadas por los empleadores y los trabajadores.
+
+					Art. 468.- Las asociaciones de empleadores y de trabajadoras más calificadas para el efecto, a juicio del Poder Ejecutivo, formarán, en los primeros quince días del mes de diciembre de cada año, nóminas de las personas que hayan de presentar sus respectivos intereses de clases como vocales de los juzgados de trabajo, para ser durante el año calendario subsiguiente.
+
+					Cada una de estas nóminas debe enunciar los nombres, domicilios, residencias y profesiones de seis personas que pertenezcan, respectivamente a la clase empleadora y a la de los trabajadores cuyos intereses hayan de presentar.
+
+					En igual término formará la Secretaría de Estado de Trabajo una nómina de doce personas extrañas a intereses de clase con indicación de sus respectivos nombres, domicilios, residencias y profesiones.
+
+					Art. 469.- Tanto las nóminas formadas por los empleadores y por los trabajadores respectivamente, como la formada por la Secretaría de Estado de Trabajo serán remitidas al juez presidente del juzgado de trabajo correspondiente, con la constancia de la aceptación de cada una de las personas que la integran, en los dos días que siguen al vencimiento del término señalado en el artículo 468, para su formación.
+
+					La juramentación de las personas nominadas debe efectuarse antes del día treinta del mismo mes de diciembre, de acuerdo con requerimientos que hará el juez en el curso de las cuarenta y ocho horas de haber recibido cada una de las nóminas indicadas.
+
+					Art. 470.- Todo lo dispuesto por la Constitución y las Leyes respecto de los jueces de primera instancia en cuanto a requerimientos para su designación, sustitución, duración en sus funciones e incompatibilidad, se declara común a los jueces de los juzgados de trabajo.
+
+					Art. 471.- Para figurar en las nóminas formadas por los empleadores y los trabajadores se requiere:
+
+					1o. Ser dominicano en el pleno ejercicio de los derechos civiles y políticos;
+
+					2o. Pertenecer a la clase que haga la designación;
+
+					3o. Haber cumplido veinticinco años;
+
+					4o. No haber sido condenado irrevocablemente por crimen o delito de derecho común;
+
+					5o. No haber sido condenado irrevocablemente en los dos años que preceden a su elección por infracción de las leyes o de los reglamentos de trabajo;
+
+					6o. Gozar de buena reputación;
+
+					7o. Saber leer y escribir;
+
+					8o. No ser miembro dirigente ni formar parte de directivas de asociaciones empleadoras o de trabajadores ni desempeñar cargos retribuidos en ellas.
+
+					Para figurar en la nómina formada por la Secretaría de Estado de Trabajo, sólo se requieren las condiciones indicadas en los ordinales 1o., 3o., 4o., 6o. y 7o.
+
+					Art. 472.- Los vocales de los juzgados de trabajo deben residir, durante el año para el cual hayan sido nominados en los respectivos lugares donde funcionen dichos tribunales.
 
 				 II: DE LAS CORTES DE TRABAJO
 
-				 \nArt. 473.- (Modificado por la Ley núm. 14298, G.O. 9982 del 15 de mayo del 1998). Las cortes de trabajo se compondrán de cinco jueces designados por la Suprema Corte de Justicia, quien nombrará su presidente y un primer y un segundo sustitutos del presidente; además, dos vocales, tomados preferentemente de las nóminas formadas por los trabajadores y empleadores o de la formada en cada caso por la Secretaría de Estado de Trabajo. Estas nóminas se conformarán según lo dispuesto en los artículos 468, 469 y 471. \nArt. 474.- Los jueces y los vocales de las cortes de trabajo pueden ser designados árbitros para la solución de los conflictos económicos. \nArt. 475.- Todo lo dispuesto por la Constitución y las Leyes en cuanto a requisitos para la designación y sustitución de los jueces de las cortes de apelación, duración e incompatibilidad de sus funciones, se declara común a los jueces de las cortes de trabajo.
+				 Art. 473.- (Modificado por la Ley núm. 14298, G.O. 9982 del 15 de mayo del 1998). Las cortes de trabajo se compondrán de cinco jueces designados por la Suprema Corte de Justicia, quien nombrará su presidente y un primer y un segundo sustitutos del presidente; además, dos vocales, tomados preferentemente de las nóminas formadas por los trabajadores y empleadores o de la formada en cada caso por la Secretaría de Estado de Trabajo.
+
+				 Estas nóminas se conformarán según lo dispuesto en los artículos 468, 469 y 471.
+
+				 Art. 474.- Los jueces y los vocales de las cortes de trabajo pueden ser designados árbitros para la solución de los conflictos económicos.
+
+				 Art. 475.- Todo lo dispuesto por la Constitución y las Leyes en cuanto a requisitos para la designación y sustitución de los jueces de las cortes de apelación, duración e incompatibilidad de sus funciones, se declara común a los jueces de las cortes de trabajo.
 
 				 III: DISPOSICIONES COMUNES DE LOS JUZGADOS Y CORTES DE TRABAJO
 
-				 '\nArt. 476.- Los jueces de los juzgados y de las cortes de trabajo, como funcionarios del orden judicial, tienen igual categoría y los mismos deberes y prerrogativas que los jueces de primera instancia y los de las cortes de apelación respectivamente. \nArt. 477.- Los vocales nominados por los trabajadores y por la Secretaría de Estado de Trabajo para la integración de los juzgados y las cortes de trabajo, recibirán por cada audiencia a que concurran la dieta que, a cargo del Tesorero Público, fije el Poder Ejecutivo. \nArt. 478.- Las personas comprendidas en las nóminas de vocales, una vez juramentadas actuarán en rotación, durante períodos de una semana cada una. Corresponderá la primera semana a las que encabecen respectivamente las nóminas de empleadores y de los trabajadores debiendo seguirse rigurosamente para los demás períodos semanales el orden de dichas nóminas. En caso de impedimento de las personas a quienes corresponda el turno, las sustituirá la que ocupe el siguiente lugar en la nómina. \nArt. 479.- Cuando los empleadores o los trabajadores no hayan formado sus respectivas nóminas, o cuando todas las personas nominadas por unos u otros se encuentren en la imposibilidad de servir como vocales actuarán en su lugar las que integren la nómina formada por la Secretaría de Estado de Trabajo. La actuación de estas últimas cesará con la causa que haya imposibilitado a las de la nómina de preferencia.
+				 Art. 476.- Los jueces de los juzgados y de las cortes de trabajo, como funcionarios del orden judicial, tienen igual categoría y los mismos deberes y prerrogativas que los jueces de primera instancia y los de las cortes de apelación respectivamente.
+
+				 Art. 477.- Los vocales nominados por los trabajadores y por la Secretaría de Estado de Trabajo para la integración de los juzgados y las cortes de trabajo, recibirán por cada audiencia a que concurran la dieta que, a cargo del Tesorero Público, fije el Poder Ejecutivo.
+
+				 Art. 478.- Las personas comprendidas en las nóminas de vocales, una vez juramentadas actuarán en rotación, durante períodos de una semana cada una.
+
+				 Corresponderá la primera semana a las que encabecen respectivamente las nóminas de empleadores y de los trabajadores debiendo seguirse rigurosamente para los demás períodos semanales el orden de dichas nóminas.
+
+				 En caso de impedimento de las personas a quienes corresponda el turno, las sustituirá la que ocupe el siguiente lugar en la nómina.
+
+				 Art. 479.- Cuando los empleadores o los trabajadores no hayan formado sus respectivas nóminas, o cuando todas las personas nominadas por unos u otros se encuentren en la imposibilidad de servir como vocales actuarán en su lugar las que integren la nómina formada por la Secretaría de Estado de Trabajo.
+
+				 La actuación de estas últimas cesará con la causa que haya imposibilitado a las de la nómina de preferencia.
 
 				SECCIÓN SEGUNDA: DE LA COMPETENCIA DE LOS JUZGADOS TRABAJO
 
 				I: DE LA COMPETENCIA DE ATRIBUCIÓN
 
-				\nArt. 480.- Los juzgados de trabajo actuarán: 1o. Como tribunales de conciliación, en las demandas que se establecen entre empleadores y trabajadores o entre trabajadores solos, con motivo de la aplicación de las leyes y reglamentos de trabajo, o de la ejecución de contratos de trabajo y de convenios colectivos de condiciones de trabajo, excepto, en este último caso, cuando las demandas tengan por objeto modificar las condiciones de trabajo, así como cuando se trate de calificar las huelgas o los paros; 2o. Como tribunales de juicio, en primera y última instancia, en las demandas indicadas en el original que antecede no resueltas conciliatoriamente, cuando su cuantía no exceda del valor equivalente a diez salarios mínimos, y a cargo de apelación cuando exceda de esta suma o su cuantía sea indeterminada. Los juzgados de trabajo son competentes para conocer de los asuntos ligados accesoriamente a las demandas indicadas en el presente artículo. Son igualmente competentes para conocer de las demandas que se establecen entre sindicatos o entre trabajadores, o entre trabajadores afiliados al mismo sindicato, o entre éstos y sus miembros, con motivo de la aplicación de las leyes y reglamentos de trabajo y de las normas estatutarias. \nArt. 481.- Compete a las cortes de trabajo: 1o. Conocer de las apelaciones de las sentencias pronunciadas en primer grado por los juzgados de trabajo; 2o. Conocer en única instancia: a) De las demandas relativas a la calificación de las huelgas y los paros; b) De las formalidades previstas en el artículo para el despido de los trabajadores protegidos por el fuero sindical. \nArt. 482.- Compete a la Suprema Corte de Justicia, además del conocimiento de los recursos de casación contra las sentencias en última instancia de los tribunales de trabajo con las excepciones establecidas en este código, conocer de las recusaciones de los miembros de las cortes de trabajo y de las de los árbitros, en los casos de conflictos económicos.
+				Art. 480.- Los juzgados de trabajo actuarán:
+
+				1o. Como tribunales de conciliación, en las demandas que se establecen entre empleadores y trabajadores o entre trabajadores solos, con motivo de la aplicación de las leyes y reglamentos de trabajo, o de la ejecución de contratos de trabajo y de convenios colectivos de condiciones de trabajo, excepto, en este último caso, cuando las demandas tengan por objeto modificar las condiciones de trabajo, así como cuando se trate de calificar las huelgas o los paros;
+
+				2o. Como tribunales de juicio, en primera y última instancia, en las demandas indicadas en el original que antecede no resueltas conciliatoriamente, cuando su cuantía no exceda del valor equivalente a diez salarios mínimos, y a cargo de apelación cuando exceda de esta suma o su cuantía sea indeterminada.
+
+				Los juzgados de trabajo son competentes para conocer de los asuntos ligados accesoriamente a las demandas indicadas en el presente artículo.
+
+				Son igualmente competentes para conocer de las demandas que se establecen entre sindicatos o entre trabajadores, o entre trabajadores afiliados al mismo sindicato, o entre éstos y sus miembros, con motivo de la aplicación de las leyes y reglamentos de trabajo y de las normas estatutarias.
+
+				Art. 481.- Compete a las cortes de trabajo:
+
+				1o. Conocer de las apelaciones de las sentencias pronunciadas en primer grado por los juzgados de trabajo;
+
+				2o. Conocer en única instancia:
+
+				a) De las demandas relativas a la calificación de las huelgas y los paros;
+
+				b) De las formalidades previstas en el artículo para el despido de los trabajadores protegidos por el fuero sindical.
+
+				Art. 482.- Compete a la Suprema Corte de Justicia, además del conocimiento de los recursos de casación contra las sentencias en última instancia de los tribunales de trabajo con las excepciones establecidas en este código, conocer de las recusaciones de los miembros de las cortes de trabajo y de las de los árbitros, en los casos de conflictos económicos.
 
 				II: DE LA COMPETENCIA TERRITORIAL
 
-				\nArt. 483.- En las demandas entre empleadores y trabajadores, la competencia de los juzgados de trabajo, en razón de lugar, se determina según el orden siguiente: 1o. Por el lugar de la ejecución del trabajo; 2o. Si el trabajo se ejecuta en varios lugares, por cualquiera de éstos, a opción del demandante; 3o. Por el lugar del domicilio del demandado; 4o. Por el lugar de la celebración del contrato, si el domicilio del demandado es desconocido o incierto; 5o. Si son varios los demandados, por el lugar del domicilio de cualquiera de éstos, a opción del demandante. \nArt. 484.- En las demandas entre trabajadores, la competencia de los juzgados de trabajo, en razón del lugar, se determina según el orden siguiente: 1o. Por el lugar del domicilio del demandado; 2o. Si son varios los demandados, por el lugar del domicilio de cualquiera de ellos, a opción del demandante; 3o. Por el lugar del domicilio del demandante, si el domicilio del demandado es desconocido o incierto. \nArt. 485.- La competencia de las cortes de trabajo, en razón del lugar, la determina: 1o. La circunscripción a la cual corresponde el juzgado de trabajo que ha pronunciado la sentencia apelada, cuando actúa como tribunal de segundo grado; 2o. La circunscripción donde se ha producido el conflicto, cuando conoce de una instancia de calificación de huelga o de paro.
+				Art. 483.- En las demandas entre empleadores y trabajadores, la competencia de los juzgados de trabajo, en razón de lugar, se determina según el orden siguiente:
+
+				1o. Por el lugar de la ejecución del trabajo;
+
+				2o. Si el trabajo se ejecuta en varios lugares, por cualquiera de éstos, a opción del demandante;
+
+				3o. Por el lugar del domicilio del demandado;
+
+				4o. Por el lugar de la celebración del contrato, si el domicilio del demandado es desconocido o incierto;
+
+				5o. Si son varios los demandados, por el lugar del domicilio de cualquiera de éstos, a opción del demandante.
+
+				Art. 484.- En las demandas entre trabajadores, la competencia de los juzgados de trabajo, en razón del lugar, se determina según el orden siguiente:
+
+				1o. Por el lugar del domicilio del demandado;
+
+				2o. Si son varios los demandados, por el lugar del domicilio de cualquiera de ellos, a opción del demandante;
+
+				3o. Por el lugar del domicilio del demandante, si el domicilio del demandado es desconocido o incierto.
+
+				Art. 485.- La competencia de las cortes de trabajo, en razón del lugar, la determina:
+
+				1o. La circunscripción a la cual corresponde el juzgado de trabajo que ha pronunciado la sentencia apelada, cuando actúa como tribunal de segundo grado;
+
+				2o. La circunscripción donde se ha producido el conflicto, cuando conoce de una instancia de calificación de huelga o de paro.
 					`,
 			},
 			{
@@ -1799,11 +2214,111 @@ Art. 102.- Si no se comprueba la justa causa invocada como fundamento de la dimi
 					'TÍTULO II: DEL PROCEDIMIENTO ANTE LOS TRIBUNALES DE TRABAJO EN LOS CONFLICTOS JURÍDICOS',
 				content: `CAPÍTULO I: DISPOSICIONES GENERALES
 
-					\nArt. 486.- En las materias relativas al trabajo y a los conflictos que sean su consecuencia, ningún acto de procedimiento será declarado nulo por vicio de forma. En los casos de omisión de una mención substancial, de mención incompleta, ambigua u oscura que impida o dificulte el ejercicio del derecho de defensa o la sustanciación y solución del asunto, los tribunales de trabajo pueden de oficio, o a solicitud de parte, conceder un término de no más de tres días a quien corresponda, para la nueva redacción o la corrección del acto viciado, cuando esto último sea posible. La nulidad por vicios no formales sólo puede ser declarada en los casos de irregularidades que perjudiquen derechos de las partes o que impidan o dificulten la aplicación de la ley. \nArt. 487.- Ninguna demanda relativa a conflictos de trabajo puede ser objeto de discusión y juicio sin previo intento de conciliación, salvo en materia de calificación de huelgas o paros y de ejecución de sentencias. En las materias sumarias el intento de conciliación y la discusión se realizan en la primera audiencia. Se reputan sumarias relativas a la ejecución de convenios colectivos y de laudos sobre conflictos económicos, a los ofrecimientos reales y la consignación y al desalojo de viviendas. \nArt. 488.- Las notificaciones de las actas, ordenanzas y demás actuaciones que se redacten en los tribunales, y las de las actas y documentos que se depositen en las secretarías de dichos tribunales, deben ser practicadas dentro de las veinte y cuatro horas de su fecha o de su depósito. \nArt. 489.- En los procedimientos ante los tribunales de trabajo, las notificaciones deben ser hechas por la vía postal o telegráfica, según lo exija el caso, a diligencia de los secretarios o mediante acto de alguacil a requerimiento de parte interesada. Las demandas introductivas de instancia ante los juzgados de trabajo deben ser notificadas por alguacil. \nArt. 490.- La parte interesada notificará a la contraparte, por acto de alguacil un día después del depósito, copia del inventario del depósito de actas, escritos o documentos hecho en la secretaría del tribunal. \nArt. 491.- En las contestaciones que se inicien o que cursen en los tribunales de trabajo, las partes que depositen escritos o documentos están obligadas a acompañarlos de un número de copias igual, por lo menos, al de las personas que figuren como partes contrarias. \nArt. 492.- En los escritos en que figuren como parte una asociación de empleadores o de trabajadores, se indicará el número y la fecha del registro de la asociación. \nArt. 493.- No se admitirá escrito alguno que contenga términos groseros o expresiones injuriosas contra las partes o sus mandatarios, ni contra las autoridades o funcionarios. \nArt. 494.- Los tribunales de trabajo pueden solicitar de las oficinas públicas asociaciones de empleadores y de trabajadores y de cualesquiera personas en general, todos los datos e informaciones que tengan relación con los asuntos que cursen en ellos. Las oficinas públicas, asociaciones y personas a quienes las sea dirigida una solicitud de datos e informaciones están obligados a facilitarlos, sin dilación, o dentro del término señalado por el tribunal. \nArt. 495.- Los plazos de procedimientos para las actuaciones que deban practicar las partes son francos y se aumentarán en razón de la distancia en la proporción de un día por cada treinta kilómetros o fracción de más de quince. Los días no laborales comprendidos en un plazo no son computables en éste. Si el plazo vence en día no laborable, se prorroga hasta el siguiente. No puede realizarse actuación alguna en los días no laborables, ni antes de las seis de la mañana o después de las seis de la tarde en los demás. \nArt. 496.- En el curso de las audiencias, el presidente de los tribunales de trabajo tiene a su cargo el mantenimiento del orden. Obligará a las partes o a sus mandatarios a expresarse con moderación y respeto, y al público, a observar la compostura y el silencio debidos. Puede suspender el uso de la palabra a los primeros en caso de desobediencia, y reclamar el auxilio de la fuerza pública para hacer desalojar la sala, en caso de alteración del orden. \nArt. 497.- Para cada asunto que curse en cualquier tribunal de trabajo se formará un expediente que comprenda todos los escritos y documentos presentados por las partes y las actuaciones verificadas en dicho tribunal u ordenadas por éste. El secretario debe anotar al pie de todos los escritos y documentos que reciba la hora y fecha en que le hayan sido entregados antes de pasarlos al expediente del cual deben formar parte. \nArt. 498.- La secretaría del tribunal de trabajo en la cual se inicie o continúe un expediente cuidará de que los escritos, documentos y demás papeles del mismo estén unidos, ordenados, foliados y sellados con el sello de la secretaría. Estos escritos, documentos y demás papeles deben tener margen suficiente que permita su costura, engrape o encuadernación sin dificultar su lectura. Al recibir el primer escrito o documento, o al practicar la primera actuación según sea el caso, la secretaría iniciará un índice que continuará llenando a medida que se agreguen otros escritos, documentos o actuaciones. \nArt. 499.- Cada expediente debe estar protegido por cubierta de papel resistente, en cuya cara anterior se escribirá: 1o. El número de orden que le corresponde; 2o. La fecha de iniciación del asunto; 3o. La naturaleza del mismo; 4o. Los nombres de las partes y los de sus mandatarios, si los hay; 5o. La fecha de la conciliación, si la hubo, caso en el cual pasará definitivamente al archivo; y si no la ha habido, la sentencia, recursos o incidentes, hasta la actuación final, con la cual deberá ser archivado. Sólo puede ordenarse la expedición de copias a las partes mientras el asunto está pendiente de decisión o es susceptible de algún recurso. \nArt. 500.- Las secretarías de los tribunales de trabajo tendrán índice de todos los expedientes que se formen en ellas o que reciban, en los cuales se anotarán: 1o. El número de orden de cada uno; 2o. Los nombres de las partes; 3o. La fecha de la última actuación; 4o. La fecha de la salida o la mención de que se encuentra archivada.
+				Art. 486.- En las materias relativas al trabajo y a los conflictos que sean su consecuencia, ningún acto de procedimiento será declarado nulo por vicio de forma.
+
+				En los casos de omisión de una mención substancial, de mención incompleta, ambigua u oscura que impida o dificulte el ejercicio del derecho de defensa o la sustanciación y solución del asunto, los tribunales de trabajo pueden de oficio, o a solicitud de parte, conceder un término de no más de tres días a quien corresponda, para la nueva redacción o la corrección del acto viciado, cuando esto último sea posible.
+
+				La nulidad por vicios no formales sólo puede ser declarada en los casos de irregularidades que perjudiquen derechos de las partes o que impidan o dificulten la aplicación de la ley.
+
+				Art. 487.- Ninguna demanda relativa a conflictos de trabajo puede ser objeto de discusión y juicio sin previo intento de conciliación, salvo en materia de calificación de huelgas o paros y de ejecución de sentencias.
+
+				En las materias sumarias el intento de conciliación y la discusión se realizan en la primera audiencia.
+
+				Se reputan sumarias relativas a la ejecución de convenios colectivos y de laudos sobre conflictos económicos, a los ofrecimientos reales y la consignación y al desalojo de viviendas.
+
+					Art. 488.- Las notificaciones de las actas, ordenanzas y demás actuaciones que se redacten en los tribunales, y las de las actas y documentos que se depositen en las secretarías de dichos tribunales, deben ser practicadas dentro de las veinte y cuatro horas de su fecha o de su depósito.
+
+					Art. 489.- En los procedimientos ante los tribunales de trabajo, las notificaciones deben ser hechas por la vía postal o telegráfica, según lo exija el caso, a diligencia de los secretarios o mediante acto de alguacil a requerimiento de parte interesada.
+
+					Las demandas introductivas de instancia ante los juzgados de trabajo deben ser notificadas por alguacil.
+
+					Art. 490.- La parte interesada notificará a la contraparte, por acto de alguacil un día después del depósito, copia del inventario del depósito de actas, escritos o documentos hecho en la secretaría del tribunal.
+
+					Art. 491.- En las contestaciones que se inicien o que cursen en los tribunales de trabajo, las partes que depositen escritos o documentos están obligadas a acompañarlos de un número de copias igual, por lo menos, al de las personas que figuren como partes contrarias.
+
+					Art. 492.- En los escritos en que figuren como parte una asociación de empleadores o de trabajadores, se indicará el número y la fecha del registro de la asociación.
+
+					Art. 493.- No se admitirá escrito alguno que contenga términos groseros o expresiones injuriosas contra las partes o sus mandatarios, ni contra las autoridades o funcionarios.
+
+					Art. 494.- Los tribunales de trabajo pueden solicitar de las oficinas públicas asociaciones de empleadores y de trabajadores y de cualesquiera personas en general, todos los datos e informaciones que tengan relación con los asuntos que cursen en ellos.
+
+					Las oficinas públicas, asociaciones y personas a quienes las sea dirigida una solicitud de datos e informaciones están obligados a facilitarlos, sin dilación, o dentro del término señalado por el tribunal.
+
+					Art. 495.- Los plazos de procedimientos para las actuaciones que deban practicar las partes son francos y se aumentarán en razón de la distancia en la proporción de un día por cada treinta kilómetros o fracción de más de quince.
+
+					Los días no laborales comprendidos en un plazo no son computables en éste.
+
+					Si el plazo vence en día no laborable, se prorroga hasta el siguiente.
+
+					No puede realizarse actuación alguna en los días no laborables, ni antes de las seis de la mañana o después de las seis de la tarde en los demás.
+
+					Art. 496.- En el curso de las audiencias, el presidente de los tribunales de trabajo tiene a su cargo el mantenimiento del orden.
+
+					Obligará a las partes o a sus mandatarios a expresarse con moderación y respeto, y al público, a observar la compostura y el silencio debidos.
+
+					Puede suspender el uso de la palabra a los primeros en caso de desobediencia, y reclamar el auxilio de la fuerza pública para hacer desalojar la sala, en caso de alteración del orden.
+
+					Art. 497.- Para cada asunto que curse en cualquier tribunal de trabajo se formará un expediente que comprenda todos los escritos y documentos presentados por las partes y las actuaciones verificadas en dicho tribunal u ordenadas por éste.
+
+					El secretario debe anotar al pie de todos los escritos y documentos que reciba la hora y fecha en que le hayan sido entregados antes de pasarlos al expediente del cual deben formar parte.
+
+					Art. 498.- La secretaría del tribunal de trabajo en la cual se inicie o continúe un expediente cuidará de que los escritos, documentos y demás papeles del mismo estén unidos, ordenados, foliados y sellados con el sello de la secretaría.
+
+					Estos escritos, documentos y demás papeles deben tener margen suficiente que permita su costura, engrape o encuadernación sin dificultar su lectura.
+
+					Al recibir el primer escrito o documento, o al practicar la primera actuación según sea el caso, la secretaría iniciará un índice que continuará llenando a medida que se agreguen otros escritos, documentos o actuaciones.
+
+					Art. 499.- Cada expediente debe estar protegido por cubierta de papel resistente, en cuya cara anterior se escribirá:
+
+					1o. El número de orden que le corresponde;
+
+					2o. La fecha de iniciación del asunto;
+
+					3o. La naturaleza del mismo;
+
+					4o. Los nombres de las partes y los de sus mandatarios, si los hay;
+
+					5o. La fecha de la conciliación, si la hubo, caso en el cual pasará definitivamente al archivo; y si no la ha habido, la sentencia, recursos o incidentes, hasta la actuación final, con la cual deberá ser archivado.
+
+					Sólo puede ordenarse la expedición de copias a las partes mientras el asunto está pendiente de decisión o es susceptible de algún recurso.
+
+					Art. 500.- Las secretarías de los tribunales de trabajo tendrán índice de todos los expedientes que se formen en ellas o que reciban, en los cuales se anotarán:
+
+					1o. El número de orden de cada uno;
+
+					2o. Los nombres de las partes;
+
+					3o. La fecha de la última actuación;
+
+					4o. La fecha de la salida o la mención de que se encuentra archivada.
 
 					CAPÍTULO II: DE LAS ACCIONES Y DE SU ACUMULACIÓN
 
-					\nArt. 501.- Tiene acceso a los tribunales de trabajo, en calidad de parte toda persona con interés en hacer que se le reconozca o proteja algún derecho o situación jurídica, cuyo beneficio lo otorguen las leyes de trabajo o derive de algún contrato de trabajo. \nArt. 502.- Es optativo de toda persona que figure como parte en un proceso ante los tribunales de trabajo actuar por sí misma o por mandatario. En este último caso, sin embargo, se exigirá, aun de oficio, el depósito del poder a menos que la parte esté presente en las actuaciones de su mandatario, que declare el mandato en secretaría o que esté representada por un abogado. \nArt. 503.- La presencia de la parte representada puede ser ordenada de oficio, si así lo exige la mejor substanciación de la causa y nada le impide obtemperar al requerimiento. \nArt. 504.- En materia laboral las costas del procedimiento están regidas por el derecho común. \nArt. 505.- Todo demandante, tanto principal como incidental, está obligado a acumular en una sola demanda las acciones que pueda ejercitar contra el demandado. La inobservancia de la regla que antecede extingue las acciones no acumuladas, cuando estas no deriven de disposiciones cuyo carácter es de orden público. El demandante sólo tendrá derecho a la repetición de las costas de la primera demanda, si procede, cuando las acciones no acumuladas deriven de disposiciones cuyo carácter sea el indicado en el párrafo que antecede. \nArt. 506.- El juez acumulará de oficio: 1o. Las demandas entre las mismas partes, cuando la sustanciación y juicio en común sea posible sin perjuicios de derechos; 2o. Las demandas intentadas por un empleador contra dos o más trabajadores, o la de éstos contra aquél, cuando tengan la misma causa o idéntico objeto y se encuentren en la misma etapa del proceso. \nArt. 507.- El juez puede acumular las demandas de un empleador contra dos o más trabajadores, o las de éstos contra aquél aunque tengan causas y objetos distintos, cuando la sustanciación y juicio en común es posible sin perjuicio de derechos. El cúmulo de acciones o de demandas no implica su indivisibilidad.
+					Art. 501.- Tiene acceso a los tribunales de trabajo, en calidad de parte toda persona con interés en hacer que se le reconozca o proteja algún derecho o situación jurídica, cuyo beneficio lo otorguen las leyes de trabajo o derive de algún contrato de trabajo.
+
+					Art. 502.- Es optativo de toda persona que figure como parte en un proceso ante los tribunales de trabajo actuar por sí misma o por mandatario.
+
+					En este último caso, sin embargo, se exigirá, aun de oficio, el depósito del poder a menos que la parte esté presente en las actuaciones de su mandatario, que declare el mandato en secretaría o que esté representada por un abogado.
+
+					Art. 503.- La presencia de la parte representada puede ser ordenada de oficio, si así lo exige la mejor substanciación de la causa y nada le impide obtemperar al requerimiento.
+
+					Art. 504.- En materia laboral las costas del procedimiento están regidas por el derecho común.
+
+					Art. 505.- Todo demandante, tanto principal como incidental, está obligado a acumular en una sola demanda las acciones que pueda ejercitar contra el demandado.
+
+					La inobservancia de la regla que antecede extingue las acciones no acumuladas, cuando estas no deriven de disposiciones cuyo carácter es de orden público.
+
+					El demandante sólo tendrá derecho a la repetición de las costas de la primera demanda, si procede, cuando las acciones no acumuladas deriven de disposiciones cuyo carácter sea el indicado en el párrafo que antecede.
+
+					Art. 506.- El juez acumulará de oficio:
+
+					1o. Las demandas entre las mismas partes, cuando la sustanciación y juicio en común sea posible sin perjuicios de derechos;
+
+					2o. Las demandas intentadas por un empleador contra dos o más trabajadores, o la de éstos contra aquél, cuando tengan la misma causa o idéntico objeto y se encuentren en la misma etapa del proceso.
+
+					Art. 507.- El juez puede acumular las demandas de un empleador contra dos o más trabajadores, o las de éstos contra aquél aunque tengan causas y objetos distintos, cuando la sustanciación y juicio en común es posible sin perjuicio de derechos.
+
+					El cúmulo de acciones o de demandas no implica su indivisibilidad.
 
 					CAPÍTULO III: DEL PROCEDIMIENTO ANTE LOS JUZGADOS DE TRABAJO
 
@@ -1811,103 +2326,615 @@ Art. 102.- Si no se comprueba la justa causa invocada como fundamento de la dimi
 
 					I: DEL PROCEDIMIENTO PRELIMINAR
 
-					\nArt. 508.- En toda materia ordinaria relativa a conflictos jurídicos, la acción se inicia mediante demanda escrita de la parte que reclama dirigida al juez del tribunal competente y entre gada al secretario de dicho tribunal con los documentos que la justifique, si los hay, de todo lo cual se expedirá recibo. En las materias, sumarias de introducción, sustanciación y juicio de las demandas están sometidas a lo prescrito en el Título VII de este libro.
+					Art. 508.- En toda materia ordinaria relativa a conflictos jurídicos, la acción se inicia mediante demanda escrita de la parte que reclama dirigida al juez del tribunal competente y entregada al secretario de dicho tribunal con los documentos que la justifique, si los hay, de todo lo cual se expedirá recibo.
 
-					\nArt. 509.- El escrito de demanda debe expresar: 1o. La designación del tribunal ante el cual se acude y el lugar donde funcione; 2o. Los nombres, profesión, domicilio real y menciones relativas a la cédula del demandante, así como la indicación precisa de un domicilio de elección en el lugar en que tenga su asiento el tribunal amparado; 3o. Los nombres y residencias de los empleadores, o los domicilios de elección de éstos, si existe contrato de trabajo escrito en el cual conste dicha elección; 4o. La enunciación suscinta, pero ordenada y precisa, de los hechos, la del lugar donde ha ocurrido y su fecha exacta o aproximada; 5o. El objeto de la demanda y una breve exposición de las razones que le sirven de fundamento; 6o. La fecha de la redacción del escrito y la firma del demandante, o la de su mandatario, si lo tiene; y si no tiene ninguno ni sabe firmar, la de una persona que no desempeñe cargo en el tribunal y que, a ruego suyo, lo haga en presencia del secretario, lo cual éste certificará. \nArt. 510.- La parte que carezca de actitud para la redacción del escrito de demanda puede utilizar los servicios del secretario del tribunal o del empleado que éste indique. La formalidad de la firma está sometida a lo prescrito en el ordinal 6o. del artículo 509. \nArt. 511.- En las cuarenta y ocho horas subsiguientes a la entrega mencionada en el artículo 508 el presidente del juzgado designará al juez que conocerá la demanda. Dentro de las cuarenta y ocho horas subsiguientes, el juez autorizará la notificación de la demanda, y los documentos depositados con ella a la persona demandada, así como su citación a la audiencia que se fije en el mismo auto mediante alguacil del tribunal que conoce el caso. Entre al fecha de la citación y la de la audiencia deberá mediar un término no menor de tres días francos. \nArt. 512.- Para la notificación prescrita en el artículo 511, el alguacil observará lo dispuesto en los artículos 68 y 69 del código de Procedimiento Civil. El acta de notificación enunciará: 1o. Lugar y fecha de la actuación del alguacil; 2o. Fecha del auto que autoriza la notificación y designación del tribunal cuyo juez lo haya dictado; 3o. Nombres y residencia del alguacil, y designación del tribunal en el cual desempeñe sus funciones; 4o. Declaración del alguacil de haberse trasladado al lugar donde debe hacerse la notificación, e indicación de los nombres y calidad de la persona con quien hable y a quien entregue las copias del escrito de la demanda, de los documentos y del auto, así como de su propia acta; 5o. Monto de los honorarios de la actuación y firma del alguacil. \nArt. 513.- La parte demandada depositará su escrito de defensa en la secretaría del juzgado ante el cual se le haya citado, antes de la hora fijada para la audiencia. Con el depósito de su escrito, hará también el de los documentos que sirvan de base a su defensa si los tiene, así como el de las copias requeridas por el artículo 491. \nArt. 514.- El escrito de la parte demandada contendrá las siguientes enunciaciones: 1o. Designación del juzgado al cual se dirija; 2o. Nombre, profesión y domicilio real y menciones relativas a la cédula personal de identidad de la parte demandada, e indicación precisa de un domicilio de elección en el lugar donde tenga su asiento el tribunal apoderado; 3o. Nombre, profesión y domicilio real de la parte demandante y fechas del escrito de ésta, del auto del juez y de la notificación de la demanda; 4o. Conformidad o reparos de la parte demandada en cuanto a los hechos expuestos por la demandante, y si hay lugar, exposición suscinta de otros hechos, del lugar donde han ocurrido y su fecha, exacta o aproximada. 5o. Exposición sumaria de los medios y alegatos opuestos a la demanda; 6o. Fecha del escrito y firma de la parte demandada o de su mandatario, si lo tiene. Si la parte demandada no sabe firmar ni tiene mandatario que lo haga por ella, se observará lo prescrito en el ordinal 6o. del artículo 509. Lo dispuesto en el artículo 510 es aplicable a la parte demandada. \nArt. 515.- La parte demandada puede incluir en su escrito de defensa, salvo su derecho de hacerlo oralmente en audiencia, las demandas reconvencionales que sean procedentes, con exposición, en tal caso, de forma sumaria, de los hechos y el lugar donde han ocurrido y su fecha, exacta o aproximada, así como el objeto de dichas demandas y sus fundamentos.
+					En las materias, sumarias de introducción, sustanciación y juicio de las demandas están sometidas a lo prescrito en el Título VII de este libro.
+
+					Art. 509.- El escrito de demanda debe expresar:
+
+					1o. La designación del tribunal ante el cual se acude y el lugar donde funcione;
+
+					2o. Los nombres, profesión, domicilio real y menciones relativas a la cédula del demandante, así como la indicación precisa de un domicilio de elección en el lugar en que tenga su asiento el tribunal amparado;
+
+					3o. Los nombres y residencias de los empleadores, o los domicilios de elección de éstos, si existe contrato de trabajo escrito en el cual conste dicha elección;
+
+					4o. La enunciación suscinta, pero ordenada y precisa, de los hechos, la del lugar donde ha ocurrido y su fecha exacta o aproximada;
+
+					5o. El objeto de la demanda y una breve exposición de las razones que le sirven de fundamento;
+
+					6o. La fecha de la redacción del escrito y la firma del demandante, o la de su mandatario, si lo tiene; y si no tiene ninguno ni sabe firmar, la de una persona que no desempeñe cargo en el tribunal y que, a ruego suyo, lo haga en presencia del secretario, lo cual éste certificará.
+
+					Art. 510.- La parte que carezca de actitud para la redacción del escrito de demanda puede utilizar los servicios del secretario del tribunal o del empleado que éste indique.
+
+					La formalidad de la firma está sometida a lo prescrito en el ordinal 6o. del artículo 509.
+
+					Art. 511.- En las cuarenta y ocho horas subsiguientes a la entrega mencionada en el artículo 508 el presidente del juzgado designará al juez que conocerá la demanda.
+
+					Dentro de las cuarenta y ocho horas subsiguientes, el juez autorizará la notificación de la demanda, y los documentos depositados con ella a la persona demandada, así como su citación a la audiencia que se fije en el mismo auto mediante alguacil del tribunal que conoce el caso.
+
+					Entre al fecha de la citación y la de la audiencia deberá mediar un término no menor de tres días francos.
+
+					Art. 512.- Para la notificación prescrita en el artículo 511, el alguacil observará lo dispuesto en los artículos 68 y 69 del código de Procedimiento Civil.
+
+					El acta de notificación enunciará:
+
+					1o. Lugar y fecha de la actuación del alguacil;
+
+					2o. Fecha del auto que autoriza la notificación y designación del tribunal cuyo juez lo haya dictado;
+
+					3o. Nombres y residencia del alguacil, y designación del tribunal en el cual desempeñe sus funciones;
+
+					4o. Declaración del alguacil de haberse trasladado al lugar donde debe hacerse la notificación, e indicación de los nombres y calidad de la persona con quien hable y a quien entregue las copias del escrito de la demanda, de los documentos y del auto, así como de su propia acta;
+
+					5o. Monto de los honorarios de la actuación y firma del alguacil.
+
+					Art. 513.- La parte demandada depositará su escrito de defensa en la secretaría del juzgado ante el cual se le haya citado, antes de la hora fijada para la audiencia.
+
+					Con el depósito de su escrito, hará también el de los documentos que sirvan de base a su defensa si los tiene, así como el de las copias requeridas por el artículo 491.
+
+					Art. 514.- El escrito de la parte demandada contendrá las siguientes enunciaciones:
+
+					1o. Designación del juzgado al cual se dirija;
+
+					2o. Nombre, profesión y domicilio real y menciones relativas a la cédula personal de identidad de la parte demandada, e indicación precisa de un domicilio de elección en el lugar donde tenga su asiento el tribunal apoderado;
+
+					3o. Nombre, profesión y domicilio real de la parte demandante y fechas del escrito de ésta, del auto del juez y de la notificación de la demanda;
+
+					4o. Conformidad o reparos de la parte demandada en cuanto a los hechos expuestos por la demandante, y si hay lugar, exposición suscinta de otros hechos, del lugar donde han ocurrido y su fecha, exacta o aproximada.
+
+					5o. Exposición sumaria de los medios y alegatos opuestos a la demanda;
+
+					6o. Fecha del escrito y firma de la parte demandada o de su mandatario, si lo tiene.
+
+					Si la parte demandada no sabe firmar ni tiene mandatario que lo haga por ella, se observará lo prescrito en el ordinal 6o. del artículo 509.
+
+					Lo dispuesto en el artículo 510 es aplicable a la parte demandada.
+
+					Art. 515.- La parte demandada puede incluir en su escrito de defensa, salvo su derecho de hacerlo oralmente en audiencia, las demandas reconvencionales que sean procedentes, con exposición, en tal caso, de forma sumaria, de los hechos y el lugar donde han ocurrido y su fecha, exacta o aproximada, así como el objeto de dichas demandas y sus fundamentos.
 
 					II: DE LA AUDIENCIA DE CONCILIACIÓN
 
-					\nArt. 516.- El día y la hora fijado para la comparecencia, reunidos el juez y los vocales en audiencia pública con asistencia del secretario, el primero declarará la constitución del juzgado en atribuciones del tribunal de conciliación, y ordenará la lectura de los escritos de las partes. \nArt. 517.- El juez, una vez leídos los escritos por el secretario, precisará los puntos controvertidos de la demanda y ofrecerá la palabra a los vocales para que traten de conciliar a las partes por cuantos medios lícitos aconsejen la prudencia, el buen juicio y la equidad. \nArt. 518.- En el curso de su actuación como conciliadores, los vocales harán a las partes las reflexiones que consideren oportunas, procurando convencerlas de la conveniencia de un avenimiento. Les insinuarán soluciones razonables y agotarán, en suma, todos los medios persuasivos a su alcance, conservando, en todo caso, el carácter de mediadores imparciales que les impone su condición de miembros del tribunal. \nArt. 519.- Durante esta actuación conciliadora de los vocales, el juez sólo puede intervenir para mantener el orden en la audiencia, conforme a lo dispuesto en el artículo 496. Sin embargo, si se hiciere alguna proposición en pugna con disposiciones legales de orden público, lo advertirá a las partes o a los vocales, según el caso, invitándoles a ensayar otras soluciones o a eliminar de la propuesta, si fuere posible, las condiciones prohibidas. \nArt. 520.- La audiencia de conciliación terminará inmediatamente después de haberse logrado un avenimiento, o cuando el juez considere inútil continuarla, en vista de la actitud de las partes o de alguna de ellas. Es potestativo del juez suspender la audiencia para continuarla en fecha posterior, cuando se lo pidan de común acuerdo las partes con el propósito de hacer más fácil su conciliac ión. En este caso, la declaración del juez por la cual fija el día y hora para continuar la audiencia, vale citación para las partes. \nArt. 521.- En caso de que la audiencia termine por conciliación de las partes el juez ordenará que se redacte el acta correspondiente haciendo constar en ellas los términos de lo convenido. El acta una vez firmada por los miembros del tribunal y por el secretario, producirá los efectos de una sentencia irrevocable. \nArt. 522.- Si no se logra la conciliación, el juez señalará día y hora para la audiencia de producción y discusión de las pruebas, dispondrá que se redacte acta de lo ocurrido y declarará terminada la audiencia. El acta la firmarán los miembros del tribunal y el secretario. La audiencia indicada en este artículo no podrá tener efecto antes de los tres días subsiguientes al de su fijación. La declaración del juez relativa al día y hora de esta segunda audiencia vale citación para las partes presentes. Si alguna de ellas está ausente será citada por el secretario. \nArt. 523.- Es obligatoria la comparecencia personal del empleador o su representante autorizado a la audiencia de conciliación. \nArt. 524.- Salvo prueba en contrario, la no comparecencia de ambas partes basta para que se presuma su conciliación y autoriza al juez a ordenar que el expediente sea definitivamente archivado.
+					Art. 516.- El día y la hora fijado para la comparecencia, reunidos el juez y los vocales en audiencia pública con asistencia del secretario, el primero declarará la constitución del juzgado en atribuciones del tribunal de conciliación, y ordenará la lectura de los escritos de las partes.
+
+					Art. 517.- El juez, una vez leídos los escritos por el secretario, precisará los puntos controvertidos de la demanda y ofrecerá la palabra a los vocales para que traten de conciliar a las partes por cuantos medios lícitos aconsejen la prudencia, el buen juicio y la equidad.
+
+					Art. 518.- En el curso de su actuación como conciliadores, los vocales harán a las partes las reflexiones que consideren oportunas, procurando convencerlas de la conveniencia de un avenimiento.
+
+					Les insinuarán soluciones razonables y agotarán, en suma, todos los medios persuasivos a su alcance, conservando, en todo caso, el carácter de mediadores imparciales que les impone su condición de miembros del tribunal.
+
+					Art. 519.- Durante esta actuación conciliadora de los vocales, el juez sólo puede intervenir para mantener el orden en la audiencia, conforme a lo dispuesto en el artículo 496.
+
+					Sin embargo, si se hiciere alguna proposición en pugna con disposiciones legales de orden público, lo advertirá a las partes o a los vocales, según el caso, invitándoles a ensayar otras soluciones o a eliminar de la propuesta, si fuere posible, las condiciones prohibidas.
+
+					Art. 520.- La audiencia de conciliación terminará inmediatamente después de haberse logrado un avenimiento, o cuando el juez considere inútil continuarla, en vista de la actitud de las partes o de alguna de ellas.
+
+					Es potestativo del juez suspender la audiencia para continuarla en fecha posterior, cuando se lo pidan de común acuerdo las partes con el propósito de hacer más fácil su conciliac ión.
+
+					En este caso, la declaración del juez por la cual fija el día y hora para continuar la audiencia, vale citación para las partes.
+
+					Art. 521.- En caso de que la audiencia termine por conciliación de las partes el juez ordenará que se redacte el acta correspondiente haciendo constar en ellas los términos de lo convenido.
+
+					El acta una vez firmada por los miembros del tribunal y por el secretario, producirá los efectos de una sentencia irrevocable.
+
+					Art. 522.- Si no se logra la conciliación, el juez señalará día y hora para la audiencia de producción y discusión de las pruebas, dispondrá que se redacte acta de lo ocurrido y declarará terminada la audiencia.
+
+					El acta la firmarán los miembros del tribunal y el secretario. La audiencia indicada en este artículo no podrá tener efecto antes de los tres días subsiguientes al de su fijación.
+
+					La declaración del juez relativa al día y hora de esta segunda audiencia vale citación para las partes presentes.
+
+					Si alguna de ellas está ausente será citada por el secretario.
+
+					Art. 523.- Es obligatoria la comparecencia personal del empleador o su representante autorizado a la audiencia de conciliación.
+
+					Art. 524.- Salvo prueba en contrario, la no comparecencia de ambas partes basta para que se presuma su conciliación y autoriza al juez a ordenar que el expediente sea definitivamente archivado.
 
 					SECCIÓN SEGUNDA: DEL PROCEDIMIENTO DE JUICIO
 
 					I: DE LA PRODUCCIÓN Y DISCUSIÓN DE LAS PRUEBAS
 
-					\nArt. 525.- El día y hora fijados para la comparecencia de las partes, se reunirán en audiencia pública el juez y los vocales, asistidos del secretario, y el primero declarará la constitución del juzgado en atribuciones de tribunal de juicio y conflictos jurídicos. Seguidamente ofrecerá la palabra a las partes para que declaren si después de la primera audiencia ha intervenido algún avenimiento entre ellas y para que, en caso contrario, traten de lograrlo antes de procederse a la producción y discusión de las pruebas. \nArt. 526.- Los vocales intervendrán en la segunda tentativa de conciliación con las mismas facultades y los mismos deberes que la ley les confiere para la primera. Transcurrido un tiempo razonable sin que se haya logrado la conciliación de las partes el juez les invitará a producir las pruebas de sus respectivas pretensiones, debiendo hacerlo primero la demandante. \nArt. 527.- El juez sin perjuicio de las sustanciaciones del caso procurará que la producción de las pruebas se verifiquen en el más breve término posible. Puede disponer la celebración a puertas cerradas de la audiencia, o de parte de ella cuando el interés de mantener el orden, el de evitar que se divulguen secretos técnicos o cualquier otra causa grave lo justifiquen. \nArt. 528.- En la misma audiencia de la producción de pruebas, o en la siguiente, si lo avanzado de la hora no permite hacerlo en ella, se procederá a la discusión de las que se hayan presentado así como a las del objeto de la demanda. Cuando no sea suficiente una audiencia para la producción de las pruebas, el juez puede ordenar su continuación en una nueva audiencia, en la cual las partes presentarán sus medios de prueba, concluirán al fondo y el asunto quedará en estado de fallo. \nArt. 529.- Cada una de las partes, en primer término la demandante, tiene facultad para hacer sus observaciones en cuanto a las pruebas producidas, y exponer sus argumentos respecto al objeto de la demanda. \nArt. 530.- El juez puede declarar terminada la discusión cuando se considere suficientemente edificado. Puede también, en el curso de la discusión o al finalizar ésta, solicitar de las partes informaciones adicionales o aclaraciones sobre hechos, alegaciones de derecho situaciones relativas al caso discutido. \nArt. 531.- Agotados los turnos el juez ordenará al secretario hacer constar en acta, sumariamente, todo lo ocurrido en la audiencia. Esta acta la firmarán los miembros del tribunal y el secretario. En el curso de las cuarenta y ocho horas siguientes pueden las partes ampliar sus observaciones y argumentos, en escritos mecanografiados a dos espacios. \nArt. 532.- La falta de comparecencia de una o de las dos partes a la audiencia de producción y discusión de las pruebas no suspende el procedimiento.
+					Art. 525.- El día y hora fijados para la comparecencia de las partes, se reunirán en audiencia pública el juez y los vocales, asistidos del secretario, y el primero declarará la constitución del juzgado en atribuciones de tribunal de juicio y conflictos jurídicos.
+
+					Seguidamente ofrecerá la palabra a las partes para que declaren si después de la primera audiencia ha intervenido algún avenimiento entre ellas y para que, en caso contrario, traten de lograrlo antes de procederse a la producción y discusión de las pruebas.
+
+					Art. 526.- Los vocales intervendrán en la segunda tentativa de conciliación con las mismas facultades y los mismos deberes que la ley les confiere para la primera.
+
+					Transcurrido un tiempo razonable sin que se haya logrado la conciliación de las partes el juez les invitará a producir las pruebas de sus respectivas pretensiones, debiendo hacerlo primero la demandante.
+
+					Art. 527.- El juez sin perjuicio de las sustanciaciones del caso procurará que la producción de las pruebas se verifiquen en el más breve término posible.
+
+					Puede disponer la celebración a puertas cerradas de la audiencia, o de parte de ella cuando el interés de mantener el orden, el de evitar que se divulguen secretos técnicos o cualquier otra causa grave lo justifiquen.
+
+					Art. 528.- En la misma audiencia de la producción de pruebas, o en la siguiente, si lo avanzado de la hora no permite hacerlo en ella, se procederá a la discusión de las que se hayan presentado así como a las del objeto de la demanda.
+
+					Cuando no sea suficiente una audiencia para la producción de las pruebas, el juez puede ordenar su continuación en una nueva audiencia, en la cual las partes presentarán sus medios de prueba, concluirán al fondo y el asunto quedará en estado de fallo.
+
+					Art. 529.- Cada una de las partes, en primer término la demandante, tiene facultad para hacer sus observaciones en cuanto a las pruebas producidas, y exponer sus argumentos respecto al objeto de la demanda.
+
+					Art. 530.- El juez puede declarar terminada la discusión cuando se considere suficientemente edificado.
+
+					Puede también, en el curso de la discusión o al finalizar ésta, solicitar de las partes informaciones adicionales o aclaraciones sobre hechos, alegaciones de derecho situaciones relativas al caso discutido.
+
+					Art. 531.- Agotados los turnos el juez ordenará al secretario hacer constar en acta, sumariamente, todo lo ocurrido en la audiencia.
+
+					Esta acta la firmarán los miembros del tribunal y el secretario.
+
+					En el curso de las cuarenta y ocho horas siguientes pueden las partes ampliar sus observaciones y argumentos, en escritos mecanografiados a dos espacios.
+
+					Art. 532.- La falta de comparecencia de una o de las dos partes a la audiencia de producción y discusión de las pruebas no suspende el procedimiento.
 
 					II: DE LA SENTENCIA
 
-					\nArt. 533.- La apreciación de las pruebas, la decisión del caso y la redacción de la sentencia corresponden al juez quien puede hacer consultas a los vocales acerca de hechos o materias de carácter técnico que sean del conocimientos de éstos. \nArt. 534.- El juez suplirá de oficio cualquier medio de derecho y decidirá en una sola sentencia sobre el fondo y sobre los incidentes, si los ha habido, excepto en los casos de irregularidades de forma. \nArt. 535.- La sentencia será pronunciada en los quince días siguientes a la expiración del término señalado a las partes para presentar sus escritos de ampliación, cuando se trate de conflictos individuales, y en los treinta días, si se trata de conflictos jurídicos colectivos. Cuando no se dictare sentencia dentro del plazo señalado, la parte más diligente podrá solicitar a la Suprema Corte de Justicia o al presidente del tribunal o de la corte, si se trata del Distrito Nacional y del Distrito Judicial de Santiago, que del caso sea apoderado otra jurisdicción del mismo grado u otra sala del mismo tribunal, para que dicte sentencia en los plazos precedentemente indicados. En caso de falta o reincidencia es aplicable la sanción establecida en el artículo V de la ley 291 del 23 de Enero de 1991. \nArt. 536.- Si el juez ordenare cualquier medida de instrucción, el término no comenzará a contarse sino desde el día siguiente al de la ejecución de la medida ordenada. \nArt. 537.- La sentencia se pronunciará en nombre de la República y debe enunciar: 1o. La fecha y lugar de su pronunciamiento; 2o. La designación del tribunal; 3o. Los nombres, profesión y domicilio de las partes, y los de sus representantes, si los tuvieren; 4o. Los pedimentos de las partes; 5o. Una enunciación suscinta de los actos de procedimiento cursados en el caso; 6o. La enunciación sumaria de los hechos comprobados; 7o. Los fundamentos y el dispositivo; 8o. La firma del juez. En la fijación de condenaciones, el juez tendrá en cuenta la variación en el valor de la moneda durante el tiempo que mediare entre la fecha de la demanda y la fecha en que se pronunció la sentencia. La variación en el valor de la moneda será determinada por la evolución del índice general de los precios al consumidor elaborado por el Banco Central de la República Dominicana. \nArt. 538.- En las cuarenta y ocho horas del pronunciamiento de toda sentencia, el secretario enviará a cada una de las partes, por entrega especial, con acuse de recibo, una copia del dispositivo. Cuando la parte demandada no haya elegido domicilio el envío se le hará al lugar donde el alguacil hubo notificado el escrito introductivo de la demanda. \nArt. 539.- Las sentencias de los juzgados de trabajo en materia de conflictos de derechos serán ejecutorias a contar del tercer día de la notificación, salvo el derecho de la parte que haya sucumbido de consignar una suma equivalente al duplo de las condenaciones pronunciadas. Cuando la consignación se realice después de comenzada la ejecución, ésta quedará suspendida en el estado en que se encuentre. En los casos de peligro en la demora, el juez presidente puede ordenar en la misma sentencia la ejecución inmediatamente después de la notificación. Los efectos de la consignación en tal caso, se regirán por lo dispuesto en el segundo párrafo de este artículo. \nArt. 540.- Se reputa contradictoria toda sentencia dictada por un tribunal de trabajo.
+					Art. 533.- La apreciación de las pruebas, la decisión del caso y la redacción de la sentencia corresponden al juez quien puede hacer consultas a los vocales acerca de hechos o materias de carácter técnico que sean del conocimientos de éstos.
+
+					Art. 534.- El juez suplirá de oficio cualquier medio de derecho y decidirá en una sola sentencia sobre el fondo y sobre los incidentes, si los ha habido, excepto en los casos de irregularidades de forma.
+
+					Art. 535.- La sentencia será pronunciada en los quince días siguientes a la expiración del término señalado a las partes para presentar sus escritos de ampliación, cuando se trate de conflictos individuales, y en los treinta días, si se trata de conflictos jurídicos colectivos.
+
+					Cuando no se dictare sentencia dentro del plazo señalado, la parte más diligente podrá solicitar a la Suprema Corte de Justicia o al presidente del tribunal o de la corte, si se trata del Distrito Nacional y del Distrito Judicial de Santiago, que del caso sea apoderado otra jurisdicción del mismo grado u otra sala del mismo tribunal, para que dicte sentencia en los plazos precedentemente indicados.
+
+					En caso de falta o reincidencia es aplicable la sanción establecida en el artículo V de la ley 291 del 23 de Enero de 1991.
+
+					Art. 536.- Si el juez ordenare cualquier medida de instrucción, el término no comenzará a contarse sino desde el día siguiente al de la ejecución de la medida ordenada.
+
+					Art. 537.- La sentencia se pronunciará en nombre de la República y debe enunciar:
+
+					1o. La fecha y lugar de su pronunciamiento;
+
+					2o. La designación del tribunal;
+
+					3o. Los nombres, profesión y domicilio de las partes, y los de sus representantes, si los tuvieren;
+
+					4o. Los pedimentos de las partes;
+
+					5o. Una enunciación suscinta de los actos de procedimiento cursados en el caso;
+
+					6o. La enunciación sumaria de los hechos comprobados;
+
+					7o. Los fundamentos y el dispositivo;
+
+					8o. La firma del juez.
+
+					En la fijación de condenaciones, el juez tendrá en cuenta la variación en el valor de la moneda durante el tiempo que mediare entre la fecha de la demanda y la fecha en que se pronunció la sentencia. La variación en el valor de la moneda será determinada por la evolución del índice general de los precios al consumidor elaborado por el Banco Central de la República Dominicana.
+
+					Art. 538.- En las cuarenta y ocho horas del pronunciamiento de toda sentencia, el secretario enviará a cada una de las partes, por entrega especial, con acuse de recibo, una copia del dispositivo.
+
+					Cuando la parte demandada no haya elegido domicilio el envío se le hará al lugar donde el alguacil hubo notificado el escrito introductivo de la demanda.
+
+					Art. 539.- Las sentencias de los juzgados de trabajo en materia de conflictos de derechos serán ejecutorias a contar del tercer día de la notificación, salvo el derecho de la parte que haya sucumbido de consignar una suma equivalente al duplo de las condenaciones pronunciadas.
+
+					Cuando la consignación se realice después de comenzada la ejecución, ésta quedará suspendida en el estado en que se encuentre. En los casos de peligro en la demora, el juez presidente puede ordenar en la misma sentencia la ejecución inmediatamente después de la notificación.
+
+					Los efectos de la consignación en tal caso, se regirán por lo dispuesto en el segundo párrafo de este artículo.
+
+					Art. 540.- Se reputa contradictoria toda sentencia dictada por un tribunal de trabajo.
 					`,
 			},
 			{
 				title: 'TÍTULO III: DE LAS PRUEBAS',
 				content: `CAPÍTULO I: DISPOSICIONES GENERALES
 
-					\nArt. 541.- La existencia de un hecho o de un derecho contestado, en todas las materias relativas a los conflictos jurídicos, puede establecerse por los siguientes modos de prueba: 1o. Las actas auténticas o las privadas; 2o. Las actas y registros de las autoridades administrativas de trabajo; 3o. Los libros, libretas, registros y otros papeles que las leyes o los reglamentos de trabajo exijan a empleadores o trabajadores; 4o. El testimonio; 5o. Las presunciones del hombre; 6o. La inspección directa de lugares o cosas; 7o. Los informes periciales; 8o. La confesión; 9o. El juramento. \nArt. 542.- La admisibilidad de cualquiera de los modos de prueba señalados en el artículo que antecede queda subordinada a que su producción se realice en el tiempo y en la forma determinada por este código. Los jueces gozan de un poder soberano de apreciación en el conocimiento de estos modos de prueba.
+				Art. 541.- La existencia de un hecho o de un derecho contestado, en todas las materias relativas a los conflictos jurídicos, puede establecerse por los siguientes modos de prueba:
+
+				1o. Las actas auténticas o las privadas;
+
+				2o. Las actas y registros de las autoridades administrativas de trabajo;
+
+				3o. Los libros, libretas, registros y otros papeles que las leyes o los reglamentos de trabajo exijan a empleadores o trabajadores;
+
+				4o. El testimonio;
+
+				5o. Las presunciones del hombre;
+
+				6o. La inspección directa de lugares o cosas;
+
+				7o. Los informes periciales;
+
+				8o. La confesión;
+
+				9o. El juramento.
+
+				Art. 542.- La admisibilidad de cualquiera de los modos de prueba señalados en el artículo que antecede queda subordinada a que su producción se realice en el tiempo y en la forma determinada por este código.
+
+				Los jueces gozan de un poder soberano de apreciación en el conocimiento de estos modos de prueba.
 
 					CAPÍTULO II: DE LA PRUEBA ESCRITA
 
-					\nArt. 543.- La parte que se desee hacer valer como modo de prueba un acta auténtica o privada actas o registros de las autoridades administrativas de trabajo o libros, libretas, registros o papeles de los señalados en el ordinal 3o. del artículo 541 está obligada a depositarlos en la secretaría del tribunal de trabajo correspondiente, con un escrito inicial, según lo prescrito en los artículos 508 y 513. \nArt. 544.- No obstante lo dispuesto en el artículo que antecede, es facultativo para el juez oídas las partes autorizar, con carácter de medida de instrucción, la producción posterior al depósito del escrito inicial, de uno o más de los documentos señalados en dicho artículo: 1o. Cuando la parte que lo solicite no haya podido producirlos en la fecha del depósito del escrito inicial, a pesar de haber hecho esfuerzo razonables para ello y siempre que en dicho escrito, o en la declaración depositada con éste, se haya reservado la facultad de solicitar su admisión en el curso de los procedimientos, especificando el documento de que se trata; 2o. Cuando la parte que lo solicite demuestre satisfactoriamente que en la fecha del depósito de su escrito inicial desconocía la existencia del documento cuya producción posterior pretende hacer o cuando la fecha de éste fuere posterior a la del depósito de su escrito inicial. \nArt. 545.- La solicitud de autorización indicada en el artículo 544 debe hacerse por escrito que depositará la parte interesada junto con el documento cuya producción pretenda hacer, indicando el hecho o el derecho que se proponga probar con él. El secretario del tribunal remitirá inmediatamente copia del escrito y del documento a la parte contraria, para que en las cuarenta y ocho horas subsiguientes comunique por secretaría su asentimiento o sus observaciones a lo solicitado. \nArt. 546.- En las cuarenta y ocho horas subsiguientes al vencimiento del plazo señalado en la última parte del artículo el juez concederá o negará lo solicitado, por ordenanza que comunicará el secretario a las partes un día después de su fecha a más tardar. La ordenanza que autorice la producción señalará a cada una de las partes un término de tres días ni mayor de cinco para que exponga en secretaría verbalmente o por escrito sus respectivos medios en relación con la nueva producción. El término señalado a la parte contra quien se haya producido el documento correrá a contar de la notificación hecha por la contraria. \nArt. 547.- La producción de las actas o registros de las autoridades administrativas de trabajo se hará siempre mediante copias certificadas por el jefe de la oficina en la cual existan los originales de los mismos. Las partes podrán hacerse certificar por el departamento de Trabajo o por la autoridad local que ejerza sus funciones copias del contenido de sus respectivos libros, libretas, registros o papeles que hayan de producir en una contestación cuando el uso al cual están destinados éstos o alguna disposición legal o reglamentaria no permitan depositarlos en la secretaría.
+					Art. 543.- La parte que se desee hacer valer como modo de prueba un acta auténtica o privada actas o registros de las autoridades administrativas de trabajo o libros, libretas, registros o papeles de los señalados en el ordinal 3o. del artículo 541 está obligada a depositarlos en la secretaría del tribunal de trabajo correspondiente, con un escrito inicial, según lo prescrito en los artículos 508 y 513.
+
+					Art. 544.- No obstante lo dispuesto en el artículo que antecede, es facultativo para el juez oídas las partes autorizar, con carácter de medida de instrucción, la producción posterior al depósito del escrito inicial, de uno o más de los documentos señalados en dicho artículo:
+
+					1o. Cuando la parte que lo solicite no haya podido producirlos en la fecha del depósito del escrito inicial, a pesar de haber hecho esfuerzo razonables para ello y siempre que en dicho escrito, o en la declaración depositada con éste, se haya reservado la facultad de solicitar su admisión en el curso de los procedimientos, especificando el documento de que se trata;
+
+					2o. Cuando la parte que lo solicite demuestre satisfactoriamente que en la fecha del depósito de su escrito inicial desconocía la existencia del documento cuya producción posterior pretende hacer o cuando la fecha de éste fuere posterior a la del depósito de su escrito inicial.
+
+					Art. 545.- La solicitud de autorización indicada en el artículo 544 debe hacerse por escrito que depositará la parte interesada junto con el documento cuya producción pretenda hacer, indicando el hecho o el derecho que se proponga probar con él.
+
+					El secretario del tribunal remitirá inmediatamente copia del escrito y del documento a la parte contraria, para que en las cuarenta y ocho horas subsiguientes comunique por secretaría su asentimiento o sus observaciones a lo solicitado.
+
+					Art. 546.- En las cuarenta y ocho horas subsiguientes al vencimiento del plazo señalado en la última parte del artículo el juez concederá o negará lo solicitado, por ordenanza que comunicará el secretario a las partes un día después de su fecha a más tardar.
+
+					La ordenanza que autorice la producción señalará a cada una de las partes un término de tres días ni mayor de cinco para que exponga en secretaría verbalmente o por escrito sus respectivos medios en relación con la nueva producción.
+
+					El término señalado a la parte contra quien se haya producido el documento correrá a contar de la notificación hecha por la contraria.
+
+					Art. 547.- La producción de las actas o registros de las autoridades administrativas de trabajo se hará siempre mediante copias certificadas por el jefe de la oficina en la cual existan los originales de los mismos.
+
+					Las partes podrán hacerse certificar por el departamento de Trabajo o por la autoridad local que ejerza sus funciones copias del contenido de sus respectivos libros, libretas, registros o papeles que hayan de producir en una contestación cuando el uso al cual están destinados éstos o alguna disposición legal o reglamentaria no permitan depositarlos en la secretaría.
 
 					CAPÍTULO III: DEL TESTIMONIO
 
-					\nArt. 548.- La audición de testigos debe efectuarse en la audiencia de producción de pruebas. Sólo pueden ser oídos los que figuren en lista depositada dos días antes de la audiencia, por lo menos, en la secretaría del tribunal, donde podrá cada parte solicitar la copia correspondiente. En cada lista se enunciarán: 1o. Los nombres, profesión, domicilio y residencia de cada testigo; 2o. Los nombres, profesión y domicilio del empleador a quien preste servicios, si el testigo es un trabaja dor, o la clase de negocio a la cual se dedique si es empleador o la declaración de que el testigo no es ni trabajador ni empleador; 3o. Los hechos sobre los cuales puede declarar el testigo. \nArt. 549.- No pueden admitirse testimonio contra el contenido de una acta escrita cuya validez haya sido reconocida o declarada. El acta cuyas firmas o contenidos no hayan sido objeto de contestación se tendrá como reconocida. \nArt. 550.- Antes de comenzar la audición de los testigos, el juez pedirá a las partes que precisen lo que se propongan probar con ella. Los hechos no contestados, los que tengan relación con la prohibición contenida en el artículo 549 y los que carezcan de pertinencia serán excluidos por el juez, de oficio o a solicitud de parte. \nArt. 551.- No pueden declarar como testigos los menores de quince años salvo cuando se trate de trabajadores. Sin embargo, el juez puede admitir o disponer que se oiga como simple relato lo que sea del conocimiento de los menores de quince años no trabajadores cuyo discernimiento fuere presumible, en caso de falta o insuficiencia de otro elemento de prueba. \nArt. 552.- Los testigos declararán por separado y no podrán hacer uso de escrito, diagrama o dibujo alguno. Antes de declarar, cada testigo dirá, a invitación del juez, su nombre, profesión, domicilio y residencia, si es pariente o afín de una de las partes, en qué grado, y luego prestará juramento o hará solemne promesa de decir la verdad. \nArt. 553.- Serán excluidos como testigos, a solicitud de parte: 1o. El pariente o afín de una de las partes, en línea directa sea cual fuere el grado, y en la colateral hasta cuarto grado inclusive; 2o. El cónyuge de una de las partes o la persona que lo haya sido; 3o. La persona que viva bajo el mismo techo con una de las partes, a cualquier título que sea; 4o. La persona que sostenga o haya sostenido una litis con una de las partes en el curso de los dos años anteriores al caso para el cual se requiere su declaración; 5o. La que mantenga una actitud notoriamente hostil o de manifiesta enemistad respecto de una de las partes o de su mandatario; 6o. La que haya estado ligada a alguna de las partes por algún contrato de trabajo terminado por voluntad unilateral, con justa causa o sin ella, en el curso de los seis meses anteriores al caso para el cual se requiere su declaración; 7o. La que haya sido condenada en virtud de una sentencia irrevocable por crimen, o por robo, estafa, abuso de confianza o falso testimonio. En todo caso, el juez presidente puede admitir la tacha de cualquier testigo siempre que haya grave sospecha de que tiene interés en deponer en favor o en contra de una de las partes. \nArt. 554.- La parte interesada en hacer excluir la audición de un testigo por una de las causas enumeradas en el artículo 553, debe proponer la tacha correspondiente antes de que el testigo preste juramento o haga promesa de decir la verdad. El juez interrogará al testigo tachado acerca de los hechos en los cuales se funde la causa invocada y decidirá seguidamente. \nArt. 555.- El juez señalará al testigo que no haya sido objeto de tacha o cuya tacha no haya sido admitida, los hechos sobre los cuales habrá de versar su declaración de acuerdo con la indicación que conste en la lista depositada por la parte interesada y le pedirá que los relate. Una vez terminada la relación de los hechos, el juez, los vocales y en último término las partes, podrán interrogar al testigo o pedirle explicaciones acerca de los hechos comprendidos en su relación o conexión con ésta, así como de cualesquiera circunstancias que puedan poner de manifiesto su veracidad o su imparcialidad. El juez podrá intervenir en el interrogatorio que hagan los vocales o las partes sea para concretar o explicar al testigo las preguntas, ya para limitarlas, cuando sea procedente, ya en fin, para excluirlas, en el caso de que a juicio suyo, insinúen la contestación que desee obtener quien las haya hecho. \nArt. 556.- El juez podrá, también limitar hasta tres el número de testigos que presente cada una de las partes para deponer del mismo hecho, caso en el cual deberá escoger, para su audición, los que señale la parte que los haya requerido. \nArt. 557.- En el acta de audiencia debe hacerse constar sumariamente la declaración de cada testigo así como las preguntas que se le hayan hecho y las respuestas correspondientes.
+					Art. 548.- La audición de testigos debe efectuarse en la audiencia de producción de pruebas.
+
+					Sólo pueden ser oídos los que figuren en lista depositada dos días antes de la audiencia, por lo menos, en la secretaría del tribunal, donde podrá cada parte solicitar la copia correspondiente.
+
+					En cada lista se enunciarán:
+
+					1o. Los nombres, profesión, domicilio y residencia de cada testigo;
+
+					2o. Los nombres, profesión y domicilio del empleador a quien preste servicios, si el testigo es un trabaja dor, o la clase de negocio a la cual se dedique si es empleador o la declaración de que el testigo no es ni trabajador ni empleador;
+
+					3o. Los hechos sobre los cuales puede declarar el testigo.
+
+					Art. 549.- No pueden admitirse testimonio contra el contenido de una acta escrita cuya validez haya sido reconocida o declarada.
+
+					El acta cuyas firmas o contenidos no hayan sido objeto de contestación se tendrá como reconocida.
+
+					Art. 550.- Antes de comenzar la audición de los testigos, el juez pedirá a las partes que precisen lo que se propongan probar con ella.
+
+					Los hechos no contestados, los que tengan relación con la prohibición contenida en el artículo 549 y los que carezcan de pertinencia serán excluidos por el juez, de oficio o a solicitud de parte.
+
+					Art. 551.- No pueden declarar como testigos los menores de quince años salvo cuando se trate de trabajadores.
+
+					Sin embargo, el juez puede admitir o disponer que se oiga como simple relato lo que sea del conocimiento de los menores de quince años no trabajadores cuyo discernimiento fuere presumible, en caso de falta o insuficiencia de otro elemento de prueba.
+
+					Art. 552.- Los testigos declararán por separado y no podrán hacer uso de escrito, diagrama o dibujo alguno.
+
+					Antes de declarar, cada testigo dirá, a invitación del juez, su nombre, profesión, domicilio y residencia, si es pariente o afín de una de las partes, en qué grado, y luego prestará juramento o hará solemne promesa de decir la verdad.
+
+					Art. 553.- Serán excluidos como testigos, a solicitud de parte:
+
+					1o. El pariente o afín de una de las partes, en línea directa sea cual fuere el grado, y en la colateral hasta cuarto grado inclusive;
+
+					2o. El cónyuge de una de las partes o la persona que lo haya sido;
+
+					3o. La persona que viva bajo el mismo techo con una de las partes, a cualquier título que sea;
+
+					4o. La persona que sostenga o haya sostenido una litis con una de las partes en el curso de los dos años anteriores al caso para el cual se requiere su declaración;
+
+					5o. La que mantenga una actitud notoriamente hostil o de manifiesta enemistad respecto de una de las partes o de su mandatario;
+
+					6o. La que haya estado ligada a alguna de las partes por algún contrato de trabajo terminado por voluntad unilateral, con justa causa o sin ella, en el curso de los seis meses anteriores al caso para el cual se requiere su declaración;
+
+					7o. La que haya sido condenada en virtud de una sentencia irrevocable por crimen, o por robo, estafa, abuso de confianza o falso testimonio.
+
+					En todo caso, el juez presidente puede admitir la tacha de cualquier testigo siempre que haya grave sospecha de que tiene interés en deponer en favor o en contra de una de las partes.
+
+					Art. 554.- La parte interesada en hacer excluir la audición de un testigo por una de las causas enumeradas en el artículo 553, debe proponer la tacha correspondiente antes de que el testigo preste juramento o haga promesa de decir la verdad.
+
+					El juez interrogará al testigo tachado acerca de los hechos en los cuales se funde la causa invocada y decidirá seguidamente.
+
+					Art. 555.- El juez señalará al testigo que no haya sido objeto de tacha o cuya tacha no haya sido admitida, los hechos sobre los cuales habrá de versar su declaración de acuerdo con la indicación que conste en la lista depositada por la parte interesada y le pedirá que los relate.
+
+					Una vez terminada la relación de los hechos, el juez, los vocales y en último término las partes, podrán interrogar al testigo o pedirle explicaciones acerca de los hechos comprendidos en su relación o conexión con ésta, así como de cualesquiera circunstancias que puedan poner de manifiesto su veracidad o su imparcialidad.
+
+					El juez podrá intervenir en el interrogatorio que hagan los vocales o las partes sea para concretar o explicar al testigo las preguntas, ya para limitarlas, cuando sea procedente, ya en fin, para excluirlas, en el caso de que a juicio suyo, insinúen la contestación que desee obtener quien las haya hecho.
+
+					Art. 556.- El juez podrá, también limitar hasta tres el número de testigos que presente cada una de las partes para deponer del mismo hecho, caso en el cual deberá escoger, para su audición, los que señale la parte que los haya requerido.
+
+					Art. 557.- En el acta de audiencia debe hacerse constar sumariamente la declaración de cada testigo así como las preguntas que se le hayan hecho y las respuestas correspondientes.
 
 					CAPÍTULO IV: DE LA INSPECCIÓN DIRECTA DE LUGARES Y DE COSAS
 
-					\nArt. 558.- Cuando los hechos expuestos por las partes en sus respectivos escritos o en el curso de la audiencia de conciliación resulte útil a la sustanciación de la causa la inspección directa de alguna fábrica, taller o cualquier lugar de trabajo dependencia o accesorio del mismo o que tenga relación inmediata con la ejecución de contratos de trabajo, el juez podrá ordenar a solicitud de la parte, por insinuación de uno de los vocales o de oficio, el traslado del tribunal a la fábrica, taller o lugar del cual se trate. Tendrá igual facultad, cuando la utilidad de la inspección resulte de las observaciones y exposiciones que hagan las partes en la audiencia de producción y discusión de pruebas o en las ampliaciones subsiguientes: \nArt. 559.- En el caso previsto en la primera parte del artículo 558, el juez podrá disponer que la audiencia de producción y discusión de pruebas, en su primera etapa o en ambas tenga lugar en la misma fábrica, taller o lugar objeto de la inspección. \nArt. 560.- Cuando la utilidad de la inspección sólo se refiera a una o más cosas cuyo desplazamiento es posible con poco o ningún gasto o perjuicio de su propietario y sin interrupción apreciable del trabajo, la inspección podrá hacerse en el local donde se constituya el tribunal. \nArt. 561.- La inspección directa podrá ser ordenada en el curso de cualquier audiencia, comprendida la de conciliación o mediante ordenanza. En el primer caso, la indicación del lugar, día y hora por el juez, al ordenarla, valdrá citación a las partes presentes o debidamente representadas. Cuando la inspección haya de verificarse en virtud de ordenanza, el secretario citará las partes, para que estén presentes, si lo desean. Se procederá del mismo modo cuando la inspección haya sido ordenada en audiencia, respecto de la parte no compareciente o no representada. \nArt. 562.- Entre la fecha de la citación y la de la inspección debe haber un término que permita a las partes estar presentes o hacerse representar. En los casos de inspección de lugar ordenada en audiencia, el juez podrá disponer que el traslado se efectúe inmediata mente, y aunque la audiencia continúe en el lugar objeto de la inspección, siempre que las partes se encuentren presentes o debidamente representadas. Podrá procederse de igual modo en los casos de inspección de cosas cuyo desplazamiento inmediato es posible, según se prescribe en el artículo 560. \nArt. 563.- El secretario redactará acta de toda inspección.
+					Art. 558.- Cuando los hechos expuestos por las partes en sus respectivos escritos o en el curso de la audiencia de conciliación resulte útil a la sustanciación de la causa la inspección directa de alguna fábrica, taller o cualquier lugar de trabajo dependencia o accesorio del mismo o que tenga relación inmediata con la ejecución de contratos de trabajo, el juez podrá ordenar a solicitud de la parte, por insinuación de uno de los vocales o de oficio, el traslado del tribunal a la fábrica, taller o lugar del cual se trate.
+
+					Tendrá igual facultad, cuando la utilidad de la inspección resulte de las observaciones y exposiciones que hagan las partes en la audiencia de producción y discusión de pruebas o en las ampliaciones subsiguientes:
+
+					Art. 559.- En el caso previsto en la primera parte del artículo 558, el juez podrá disponer que la audiencia de producción y discusión de pruebas, en su primera etapa o en ambas tenga lugar en la misma fábrica, taller o lugar objeto de la inspección.
+
+					Art. 560.- Cuando la utilidad de la inspección sólo se refiera a una o más cosas cuyo desplazamiento es posible con poco o ningún gasto o perjuicio de su propietario y sin interrupción apreciable del trabajo, la inspección podrá hacerse en el local donde se constituya el tribunal.
+
+					Art. 561.- La inspección directa podrá ser ordenada en el curso de cualquier audiencia, comprendida la de conciliación o mediante ordenanza. En el primer caso, la indicación del lugar, día y hora por el juez, al ordenarla, valdrá citación a las partes presentes o debidamente representadas.
+
+					Cuando la inspección haya de verificarse en virtud de ordenanza, el secretario citará las partes, para que estén presentes, si lo desean.
+
+					Se procederá del mismo modo cuando la inspección haya sido ordenada en audiencia, respecto de la parte no compareciente o no representada.
+
+					Art. 562.- Entre la fecha de la citación y la de la inspección debe haber un término que permita a las partes estar presentes o hacerse representar.
+
+					En los casos de inspección de lugar ordenada en audiencia, el juez podrá disponer que el traslado se efectúe inmediatamente, y aunque la audiencia continúe en el lugar objeto de la inspección, siempre que las partes se encuentren presentes o debidamente representadas.
+
+					Podrá procederse de igual modo en los casos de inspección de cosas cuyo desplazamiento inmediato es posible, según se prescribe en el artículo 560.
+
+					Art. 563.- El secretario redactará acta de toda inspección.
 
 					CAPÍTULO V: DE LOS INFORMES PERICIALES
 
-					\nArt. 564.- El juez podrá ordenar, a solicitud de parte o de oficio, que se proceda a un examen de peritos, cuando la naturaleza o las circunstancias del litigio exijan conocimientos especiales. \nArt. 565.- El examen puede ser ordenado en el curso de una audiencia o por ordenanza. En uno u otro, el juez debe indicar: 1o. Los nombres de uno o más peritos; 2o. La facultad de las partes de sustituir por otros o aún por uno solo de su elección los designados por el juez; 3o. El objeto preciso sobre el cual habrá de versar el examen; 4o. El día y la hora en que deben prestar juramento los peritos designados o sus sustitutos. \nArt. 566.- El secretario enviará copia de la ordenanza a las partes y a los peritos en las veinticuatro horas de su fecha. Si el examen es ordenado en el curso de una audiencia el secretario enviará copia del acta a los peritos en el término señalado en este artículo. En el caso de que las partes hagan uso de la facultad de escoger los peritos en sustitución de los designados por el juez, la más diligente lo comunicará al secretario, en el escrito redactado y firmado por ellas, o por declaraciones en secretaría, de la cual se redactará acta que firmarán dichas partes, si saben y pueden hacerlo, con el secretario. Este enviará copia del escrito o del acta de declaración tanto a los peritos sustituidos como a los sustitutos, en el término indicado en la primera parte del presente artículo. \nArt. 567.- Las partes que no usen de la facultad de escoger peritos por si mismas pueden recusar los designados por el juez, antes de la fecha fijada para el juramento. Los peritos elegidos por ellas sólo pueden ser recusados cuando la causa de recusación o el conocimiento de su existencia sean posteriores a la elección. \nArt. 568.- Pueden actuar como peritos los mayores de dieciséis años, en el caso de tratarse de trabajadores. En cualquier otro caso los peritos deben tener no menos de dieciocho años. Pueden ser recusados como perito la persona comprendida en cualquiera de los casos señalados por el artículo 553. El perito cuya recusación sea admitida debe ser sustituido por otro designado en la misma sentencia por el juez. Se procederá de igual modo en los casos de no aceptación de un perito o de que causas de fuerza mayor le impidan desempeñar sus funciones. En los casos señalados por los dos párrafos que anteceden, la partes conservarán en cuanto al sustituto, la facultad que les acuerda el ordinal 2o. del artículo 565. \nArt. 569.- Los peritos deben prestar juramento ante el juez en el día y la hora indicados. Cuando su actuación deba realizarse en un municipio distinto del asiento del tribunal pueden prestar juramento ante el juez de paz del mismo, y si funcionare en él más de uno, ante el que señale el juez de todo lo cual se dará conocimiento oportuno a las partes para que se encuentren presentes si lo desean. \nArt. 570.- El acta de juramentación de los peritos indicará la fecha, hora y lugar en que se dará comienzo a las operaciones. La parte que no comparezca a la presentación de juramento puede tomar conocimiento de la fecha, hora y lugar indicados en el acta, en la secretaría del tribunal ante el cual se haya prestado. \nArt. 571.- Las partes están obligadas a dar a los peritos todas las informaciones que éstos les soliciten, en relación con la materia objeto de su examen. Pueden darles, además las que consideren útiles, aun cuando no les sean solicitadas. \nArt. 572.- Las partes pueden hacerse acompañar de técnicos o personas entendidas cuando asistan a un examen pericial. La intervención de estas personas se limitará a ilustrar y aconsejar a la parte a quien acompañen sin que en caso alguno puedan discutir con los peritos ni tratar de influir en ninguna forma en el resultado de las operaciones que estos realicen. \nArt. 573.- Los peritos redactarán y firmarán un sólo informe en el cual harán constar la opinión de la mayoría y los motivos en que se funde. Cuando hubiere opiniones distintas, las indicarán con sus motivos, pero sin dar a conocer los nombres de sus respectivos sustentadores. \nArt. 574.- El informe será depositado en la secretaría del tribunal, acompañado de las copias correspondientes y de la del juramento, cuando haya sido prestado ante al juez de paz, en el término de quince días a contar del que siga al juramento. Este término puede ser aumentado por el juez en casos justificados a solicitud de los peritos.
+					Art. 564.- El juez podrá ordenar, a solicitud de parte o de oficio, que se proceda a un examen de peritos, cuando la naturaleza o las circunstancias del litigio exijan conocimientos especiales.
+
+					Art. 565.- El examen puede ser ordenado en el curso de una audiencia o por ordenanza.
+
+					En uno u otro, el juez debe indicar:
+
+					1o. Los nombres de uno o más peritos;
+
+					2o. La facultad de las partes de sustituir por otros o aún por uno solo de su elección los designados por el juez;
+
+					3o. El objeto preciso sobre el cual habrá de versar el examen;
+
+					4o. El día y la hora en que deben prestar juramento los peritos designados o sus sustitutos.
+
+					Art. 566.- El secretario enviará copia de la ordenanza a las partes y a los peritos en las veinticuatro horas de su fecha.
+
+					Si el examen es ordenado en el curso de una audiencia el secretario enviará copia del acta a los peritos en el término señalado en este artículo.
+
+					En el caso de que las partes hagan uso de la facultad de escoger los peritos en sustitución de los designados por el juez, la más diligente lo comunicará al secretario, en el escrito redactado y firmado por ellas, o por declaraciones en secretaría, de la cual se redactará acta que firmarán dichas partes, si saben y pueden hacerlo, con el secretario.
+
+					Este enviará copia del escrito o del acta de declaración tanto a los peritos sustituidos como a los sustitutos, en el término indicado en la primera parte del presente artículo.
+
+					Art. 567.- Las partes que no usen de la facultad de escoger peritos por si mismas pueden recusar los designados por el juez, antes de la fecha fijada para el juramento.
+
+					Los peritos elegidos por ellas sólo pueden ser recusados cuando la causa de recusación o el conocimiento de su existencia sean posteriores a la elección.
+
+					Art. 568.- Pueden actuar como peritos los mayores de dieciséis años, en el caso de tratarse de trabajadores.
+
+					En cualquier otro caso los peritos deben tener no menos de dieciocho años.
+
+					Pueden ser recusados como perito la persona comprendida en cualquiera de los casos señalados por el artículo 553.
+
+					El perito cuya recusación sea admitida debe ser sustituido por otro designado en la misma sentencia por el juez.
+
+					Se procederá de igual modo en los casos de no aceptación de un perito o de que causas de fuerza mayor le impidan desempeñar sus funciones.
+
+					En los casos señalados por los dos párrafos que anteceden, la partes conservarán en cuanto al sustituto, la facultad que les acuerda el ordinal 2o. del artículo 565.
+
+					Art. 569.- Los peritos deben prestar juramento ante el juez en el día y la hora indicados.
+
+					Cuando su actuación deba realizarse en un municipio distinto del asiento del tribunal pueden prestar juramento ante el juez de paz del mismo, y si funcionare en él más de uno, ante el que señale el juez de todo lo cual se dará conocimiento oportuno a las partes para que se encuentren presentes si lo desean.
+
+					Art. 570.- El acta de juramentación de los peritos indicará la fecha, hora y lugar en que se dará comienzo a las operaciones.
+
+					La parte que no comparezca a la presentación de juramento puede tomar conocimiento de la fecha, hora y lugar indicados en el acta, en la secretaría del tribunal ante el cual se haya prestado.
+
+					Art. 571.- Las partes están obligadas a dar a los peritos todas las informaciones que éstos les soliciten, en relación con la materia objeto de su examen. Pueden darles, además las que consideren útiles, aun cuando no les sean solicitadas.
+
+					Art. 572.- Las partes pueden hacerse acompañar de técnicos o personas entendidas cuando asistan a un examen pericial.
+
+					La intervención de estas personas se limitará a ilustrar y aconsejar a la parte a quien acompañen sin que en caso alguno puedan discutir con los peritos ni tratar de influir en ninguna forma en el resultado de las operaciones que estos realicen.
+
+					Art. 573.- Los peritos redactarán y firmarán un sólo informe en el cual harán constar la opinión de la mayoría y los motivos en que se funde.
+
+					Cuando hubiere opiniones distintas, las indicarán con sus motivos, pero sin dar a conocer los nombres de sus respectivos sustentadores.
+
+					Art. 574.- El informe será depositado en la secretaría del tribunal, acompañado de las copias correspondientes y de la del juramento, cuando haya sido prestado ante al juez de paz, en el término de quince días a contar del que siga al juramento.
+
+					Este término puede ser aumentado por el juez en casos justificados a solicitud de los peritos.
 
 					CAPÍTULO VI: DE LA CONFESIÓN
 
-					'\nArt. 575.- El juez podrá ordenar la comparecencia personal de las partes en cualquier estado de la causa, sea de oficio o a solicitud de una de ellas. \nArt. 576.- La ordenanza de comparecencia personal indicará el día, hora y lugar en que debe verificarse y dispondrá la citación de las partes tres días, por los menos, antes de la fecha fijada para la audiencia. Cuando la comparecencia es ordenada en le curso de una audiencia, las partes presentes o debidamente representadas se tendrán como citadas. La comparecencia de las asociaciones de empleadores o de trabajadores se hará por medio de sus representantes; la de las demás personas morales, por sus respectivos gerentes o administradores. En ningún caso podrá ordenarse la comparecencia de una asociación u otra persona moral cuyo representante, gerente o administrador no tenga conocimiento personal de los hechos controvertidos. \nArt. 577.- La solicitud de comparecencia personal hecha por una de las partes vale promesa suya de comparecer personalmente. \nArt. 578.- El día de la audiencia la parte que haya solicitado la comparecencia indicará al juez, en forma concreta, los hechos sobre los cuales desea que se interrogue a la otra. Esta última puede luego de haber respondido al interrogatorio, solicitar que se interrogue a la primera sobre los mismos hechos o sobre otros que tengan relación con las cuestiones de hecho o de derecho en discusión. \nArt. 579.- El juez podrá negarse a transmitir a una de las partes las preguntas sugeridas por la otra: 1o. Cuando se trate de hechos no concluyentes o no pertinentes; 2o. Cuando las preguntas mismas o sus respuestas puedan referirse a hechos o circunstancias que ataque el honor o la consideración de la parte interrogada, de su cónyuge, o de uno de sus parientes o afines más próximos. \nArt. 580.- Una parte puede negarse a contestar una pregunta: 1o. En el caso previsto en el ordinal 2o. del artículo que antecede; 2o. Cuando se trate de hechos extraños al proceso o de hechos en los cuales por no haber intervenido personalmente la parte interrogada, carezca ésta de información suficiente para responder; 3o. Cuando la pregunta tenga relación con procedimientos o métodos de trabajo, descubrimientos o invenciones cuyo secreto no desee revelar la parte interrogada y tenga derecho a ello. \nArt. 581.- La falta de comparecencia o la negativa a contestar de una de las partes sin causa justificada, puede ser admitida como presunción contra ella. \nArt. 582.- El acta de interrogatorio enunciará sumariamente las preguntas hechas por el juez, requeridas o no por las partes, y sus respectivas contestaciones. Será redactada en la misma audiencia y leída allí mismo a las partes, quienes manifestarán su conformidad o reparos y firmarán, si saben y quieren hacerlo, con el juez, los vocales y el secretario. De todo esto se dará constancia al final del acta.
+					Art. 575.- El juez podrá ordenar la comparecencia personal de las partes en cualquier estado de la causa, sea de oficio o a solicitud de una de ellas.
+
+					Art. 576.- La ordenanza de comparecencia personal indicará el día, hora y lugar en que debe verificarse y dispondrá la citación de las partes tres días, por los menos, antes de la fecha fijada para la audiencia.
+
+					Cuando la comparecencia es ordenada en le curso de una audiencia, las partes presentes o debidamente representadas se tendrán como citadas.
+
+					La comparecencia de las asociaciones de empleadores o de trabajadores se hará por medio de sus representantes; la de las demás personas morales, por sus respectivos gerentes o administradores.
+
+					En ningún caso podrá ordenarse la comparecencia de una asociación u otra persona moral cuyo representante, gerente o administrador no tenga conocimiento personal de los hechos controvertidos.
+
+					Art. 577.- La solicitud de comparecencia personal hecha por una de las partes vale promesa suya de comparecer personalmente.
+
+					Art. 578.- El día de la audiencia la parte que haya solicitado la comparecencia indicará al juez, en forma concreta, los hechos sobre los cuales desea que se interrogue a la otra.
+
+					Esta última puede luego de haber respondido al interrogatorio, solicitar que se interrogue a la primera sobre los mismos hechos o sobre otros que tengan relación con las cuestiones de hecho o de derecho en discusión.
+
+					Art. 579.- El juez podrá negarse a transmitir a una de las partes las preguntas sugeridas por la otra:
+
+					1o. Cuando se trate de hechos no concluyentes o no pertinentes;
+
+					2o. Cuando las preguntas mismas o sus respuestas puedan referirse a hechos o circunstancias que ataque el honor o la consideración de la parte interrogada, de su cónyuge, o de uno de sus parientes o afines más próximos.
+
+					Art. 580.- Una parte puede negarse a contestar una pregunta:
+
+					1o. En el caso previsto en el ordinal 2o. del artículo que antecede;
+
+					2o. Cuando se trate de hechos extraños al proceso o de hechos en los cuales por no haber intervenido personalmente la parte interrogada, carezca ésta de información suficiente para responder;
+
+					3o. Cuando la pregunta tenga relación con procedimientos o métodos de trabajo, descubrimientos o invenciones cuyo secreto no desee revelar la parte interrogada y tenga derecho a ello.
+
+					Art. 581.- La falta de comparecencia o la negativa a contestar de una de las partes sin causa justificada, puede ser admitida como presunción contra ella.
+
+					Art. 582.- El acta de interrogatorio enunciará sumariamente las preguntas hechas por el juez, requeridas o no por las partes, y sus respectivas contestaciones.
+
+					Será redactada en la misma audiencia y leída allí mismo a las partes, quienes manifestarán su conformidad o reparos y firmarán, si saben y quieren hacerlo, con el juez, los vocales y el secretario.
+
+					De todo esto se dará constancia al final del acta.
 
 					CAPÍTULO VII: DEL JURAMENTO
 
-					\nArt. 583.- El juramento sólo puede ser deferido o referido en audiencia.
+					Art. 583.- El juramento sólo puede ser deferido o referido en audiencia.
 
 					SECCIÓN PRIMERA: DEL JURAMENTO DECISORIO
 
-					\nArt. 584.- En los procedimientos relativos a los conflictos jurídicos cualquiera de las partes podrá deferir a la otra el juramento decisorio, sobre uno o más hechos concretos personales a la última, en los casos de ausencia de cualquier otro modo de prueba útil. El litigante a quien le sea deferido el juramento puede a su vez, referirlo a su adversario. Se tendrá como probado todo hecho sobre el cual se defiera el juramento, cuando la parte a quien sea deferido se niega a prestarlo o a referirlo, sin causa justificada. Deberá sucumbir en sus pretensiones la parte que se negare a prestar el juramento que le haya sido referido.
+					Art. 584.- En los procedimientos relativos a los conflictos jurídicos cualquiera de las partes podrá deferir a la otra el juramento decisorio, sobre uno o más hechos concretos personales a la última, en los casos de ausencia de cualquier otro modo de prueba útil.
+
+					El litigante a quien le sea deferido el juramento puede a su vez, referirlo a su adversario.
+
+					Se tendrá como probado todo hecho sobre el cual se defiera el juramento, cuando la parte a quien sea deferido se niega a prestarlo o a referirlo, sin causa justificada.
+
+					Deberá sucumbir en sus pretensiones la parte que se negare a prestar el juramento que le haya sido referido.
 
 					SECCIÓN SEGUNDA: DEL JURAMENTO SUPLETORIO
 
-					\nArt. 585.- Sólo puede deferirse de oficio el juramento en el caso de hechos cuya prueba sea incompleta. El juramento deferido de oficio no puede ser referido.
+					Art. 585.- Sólo puede deferirse de oficio el juramento en el caso de hechos cuya prueba sea incompleta.
+
+					El juramento deferido de oficio no puede ser referido.
 					`,
 			},
 			{
 				title: 'TÍTULO IV: DE LOS INCIDENTES DE PROCEDIMIENTOS',
 				content: `CAPÍTULO I: DE LOS MEDIOS DE INADMISIÓN DE LA ACCIÓN
 
-					\nArt. 586.- Los medios deducidos de la prescripción extintiva, de la aquiescencia válida, de la falta de calidad o de interés, de la falta de registro en el caso de las asociaciones de carácter laboral, de las cosa juzgada o de cualquier otro medio que sin contradecir al fondo de la acción la hagan definitivamente inadmisible, pueden proponerse en cualquier estado de causa, salvo la posibilidad para el juez de condenar a daños y perjui cios a los que se hayan abstenido, con intención dilatoria de invocarlos con anterioridad.
+				Art. 586.- Los medios deducidos de la prescripción extintiva, de la aquiescencia válida, de la falta de calidad o de interés, de la falta de registro en el caso de las asociaciones de carácter laboral, de las cosa juzgada o de cualquier otro medio que sin contradecir al fondo de la acción la hagan definitivamente inadmisible, pueden proponerse en cualquier estado de causa, salvo la posibilidad para el juez de condenar a daños y perjui cios a los que se hayan abstenido, con intención dilatoria de invocarlos con anterioridad.
 
 					CAPÍTULO II: DE LAS EXCEPCIONES DE DECLINATORIA
 
-					\nArt. 587.- La declinatoria por causa de incompetencia en razón de la materia puede ser solicitada en todo estado de causa por cualquiera de las partes. Si ninguna de éstas la solicitare, el juez la ordenará de oficio. \nArt. 588.- La declinatoria por causa de incompetencia territorial, de litispendencia o de conexidad sólo puede ser ordenada a solicitud de la parte demandada antes de la producción y discusión de las pruebas. \nArt. 589.- La excepción de declinatoria se juzgará con lo principal.
+					Art. 587.- La declinatoria por causa de incompetencia en razón de la materia puede ser solicitada en todo estado de causa por cualquiera de las partes.
+
+					Si ninguna de éstas la solicitare, el juez la ordenará de oficio.
+
+					Art. 588.- La declinatoria por causa de incompetencia territorial, de litispendencia o de conexidad sólo puede ser ordenada a solicitud de la parte demandada antes de la producción y discusión de las pruebas.
+
+					Art. 589.- La excepción de declinatoria se juzgará con lo principal.
 
 					CAPÍTULO III: DE LAS EXCEPCIONES DE NULIDAD
 
-					\nArt. 590.- Será declarada nula toda diligencia o actuación verificada antes de la expiración del plazo legal que deba precederle o después de expirado aquel en el cual haya debido ser verificada: 1o. Cuando la inobservancia del plazo perjudique el derecho de defensa de una de las partes o derechos consagrados por este código con carácter de orden público; 2o. Cuando impida o dificulte la aplicación de este código o de los reglamentos de trabajo. También será declarada nula toda diligencia o actuación practicada por terceros en nombre de cualquiera de las partes en violación de lo prescrito por el artículo 502 relativo al mandato. \nArt. 591.- En los casos previstos por este capítulo la nulidad puede ser pronunciada, aun de oficio, en cualquier estado de la causa. \nArt. 592.- La sentencia que admita la nulidad, fijará la fecha para conocer del asunto, si fuere pertinente. El juez puede, si la nulidad, a juicio de éste, no le impide conocer y juzgar el caso, en la misma sentencia, pero por disposiciones distintas, estatuir sobre la nulidad y el fondo del litigio, salvo poner previamente a las partes en mora de concluir sobre el fondo, en una próxima audiencia.
+					Art. 590.- Será declarada nula toda diligencia o actuación verificada antes de la expiración del plazo legal que deba precederle o después de expirado aquel en el cual haya debido ser verificada:
+
+					1o. Cuando la inobservancia del plazo perjudique el derecho de defensa de una de las partes o derechos consagrados por este código con carácter de orden público;
+
+					2o. Cuando impida o dificulte la aplicación de este código o de los reglamentos de trabajo.
+
+					También será declarada nula toda diligencia o actuación practicada por terceros en nombre de cualquiera de las partes en violación de lo prescrito por el artículo 502 relativo al mandato.
+
+					Art. 591.- En los casos previstos por este capítulo la nulidad puede ser pronunciada, aun de oficio, en cualquier estado de la causa.
+
+					Art. 592.- La sentencia que admita la nulidad, fijará la fecha para conocer del asunto, si fuere pertinente. El juez puede, si la nulidad, a juicio de éste, no le impide conocer y juzgar el caso, en la misma sentencia, pero por disposiciones distintas, estatuir sobre la nulidad y el fondo del litigio, salvo poner previamente a las partes en mora de concluir sobre el fondo, en una próxima audiencia.
 
 					CAPÍTULO IV: DE LAS EXCEPCIONES DE IRREGULARIDAD DE FORMA
 
-					\nArt. 593.- La parte que tenga interés en que se ordene la nueva redacción o la corrección de un acta viciada en los casos de omisión de una mención sustancial de mención incompleta, ambigua u oscura, puede solicitarlo por escrito dirigido al juez u oralmente en audiencia, antes de toda discusión. \nArt. 594.- Cuando la solicitud se haga en audiencia y el acta emane de la parte adversa, esta puede optemperar inmediatamente, dictando en la misma audiencia la nueva redacción o la corrección del acta o de la parte del acta señalada como irregular, o prometiendo hacerlo en el curso de los tres días siguientes. En el primer caso, la audiencia podrá continuar si la parte que propuso la excepción no tuviere interés evidente en oponerse. Cuando hubiere oposición legítima de la parte que haya propuesto la excepción, o cuando la nueva redacción o corrección del acta irregular hubiera de hacerse después de la audiencia, el juez ordenará la suspensión de ésta y fijará día y hora para continuarla. \nArt. 595.- En todos los casos de nueva redacción o de corrección de actas señaladas como comienzo de un plazo para una diligencia o actuación, dicho plazo comenzará a contar de la fecha de la nueva redacción o de la corrección de las mismas . \nArt. 596.- El juez puede ordenar de oficio, antes de toda discusión, la nueva redacción o la corrección del acta en la cual, a juicio suyo, se haya omitido una mención sustancial, o que contenga mención incompleta, ambigua u oscura. La ordenanza que disponga la nueva redacción o la corrección del acta, acordará un plazo de tres días para su ejecución. Se procederá del mismo modo cuando ordene la nueva redacción o corrección en audiencia, salvo el caso previsto en la primera parte del artículo 594. Las excepciones previstas en éste código, deben bajo pena de inadmisibilidad presentarse simultáneamente antes de toda defensa al fondo o medio de inadmisión.
+					Art. 593.- La parte que tenga interés en que se ordene la nueva redacción o la corrección de un acta viciada en los casos de omisión de una mención sustancial de mención incompleta, ambigua u oscura, puede solicitarlo por escrito dirigido al juez u oralmente en audiencia, antes de toda discusión.
+
+					Art. 594.- Cuando la solicitud se haga en audiencia y el acta emane de la parte adversa, esta puede optemperar inmediatamente, dictando en la misma audiencia la nueva redacción o la corrección del acta o de la parte del acta señalada como irregular, o prometiendo hacerlo en el curso de los tres días siguientes.
+
+					En el primer caso, la audiencia podrá continuar si la parte que propuso la excepción no tuviere interés evidente en oponerse.
+
+					Cuando hubiere oposición legítima de la parte que haya propuesto la excepción, o cuando la nueva redacción o corrección del acta irregular hubiera de hacerse después de la audiencia, el juez ordenará la suspensión de ésta y fijará día y hora para continuarla.
+
+					Art. 595.- En todos los casos de nueva redacción o de corrección de actas señaladas como comienzo de un plazo para una diligencia o actuación, dicho plazo comenzará a contar de la fecha de la nueva redacción o de la corrección de las mismas.
+
+					Art. 596.- El juez puede ordenar de oficio, antes de toda discusión, la nueva redacción o la corrección del acta en la cual, a juicio suyo, se haya omitido una mención sustancial, o que contenga mención incompleta, ambigua u oscura.
+
+					La ordenanza que disponga la nueva redacción o la corrección del acta, acordará un plazo de tres días para su ejecución.
+
+					Se procederá del mismo modo cuando ordene la nueva redacción o corrección en audiencia, salvo el caso previsto en la primera parte del artículo 594.
+
+					Las excepciones previstas en éste código, deben bajo pena de inadmisibilidad presentarse simultáneamente antes de toda defensa al fondo o medio de inadmisión.
 					`,
 			},
 			{
 				title: 'TÍTULO V: DE LA RECUSACIÓN',
 				content:
-					'\nArt. 597.- Cualquiera de los miembros de un juzgado de trabajo puede ser recusado: 1o. Cuando tenga algún interés personal en el asunto, o cuando lo tenga su cónyuge o quien lo hubiese sido o algún pariente o afín en línea directa o pariente en línea colateral hasta el cuarto grado inclusive; 2o. Cuando viva con una de las partes bajo el mismo techo a cualquier título que sea; 3o. C uando haya opinado sobre el asunto; 4o. Cuando sostenga o haya sostenido una litis con una de las partes en el curso de los dos años anteriores, o cuando la sostenga o la hubiere sostenido en igual término su cónyuge, uno de sus parientes o afines de segundo grado en línea colateral; 5o. Cuando mantenga una actitud notoriamente hostil o de manifiesta enemistad respecto de una de las partes o de su mandatario. Cualquiera de los vocales puede ser recusado; además, cuando haya estado ligado a una de las partes por algún contrato de trabajo terminado por voluntad unilateral, con justa causa o sin ella, en el curso de los seis meses anteriores a la introducción de la demanda de que se trata. \nArt. 598.- El miembro de un juzgado de trabajo que se encuentre en uno de los casos de recusación enumerados en el artículo 597 debe declararlo a los demás y solicitar su exclusión de quien deba acordarla. Puede solicitarla, además, cuando circunstancias particulares, que no está obligado a revelar, no le permitan actuar con plena independencia o imparcialidad. \nArt. 599.- La recusación debe ser solicitada en escrito depositado en la secretaría del tribunal apoderado del asunto, antes de que este se encuentre en estado de ser juzgado. También puede ser solicitada por declaración verbal en la Secretaría. De esta declaración se levantará acta que firmará la parte recusante o su mandatario, si sabe y puede hacerlo, con el secretario. \nArt. 600.- El secretario dará copia del escrito o del acta del miembro recusado, en las veinte y cuatro horas siguientes al depósito o a la declaración para que admita o niegue los hechos señalados como causa de la recusación. El miembro recusado admitirá o negará estos hechos, en escrito o por declaración en secretaría, en las cuarenta y ocho horas de la entrega de la copia mencionada en el presente artículo. La contestación del miembro recusado debe estar sumariamente motivada cuando niegue los hechos alegados por la parte recusante. En este caso, el secretario enviará un expediente a la corte de trabajo en las cuarenta y ocho horas subsiguientes al depósito de la contestación o a la declaración del miembro recusado. \nArt. 601.- La recusación será decidida por la corte de trabajo en los cincos días de la recepción del expediente. La decisión pronunciada al respecto no será susceptible de ningún recurso. ',
+					`Art. 597.- Cualquiera de los miembros de un juzgado de trabajo puede ser recusado:
+
+					1o. Cuando tenga algún interés personal en el asunto, o cuando lo tenga su cónyuge o quien lo hubiese sido o algún pariente o afín en línea directa o pariente en línea colateral hasta el cuarto grado inclusive;
+
+					2o. Cuando viva con una de las partes bajo el mismo techo a cualquier título que sea;
+
+					3o. C uando haya opinado sobre el asunto;
+
+					4o. Cuando sostenga o haya sostenido una litis con una de las partes en el curso de los dos años anteriores, o cuando la sostenga o la hubiere sostenido en igual término su cónyuge, uno de sus parientes o afines de segundo grado en línea colateral;
+
+					5o. Cuando mantenga una actitud notoriamente hostil o de manifiesta enemistad respecto de una de las partes o de su mandatario.
+
+					Cualquiera de los vocales puede ser recusado; además, cuando haya estado ligado a una de las partes por algún contrato de trabajo terminado por voluntad unilateral, con justa causa o sin ella, en el curso de los seis meses anteriores a la introducción de la demanda de que se trata.
+
+					Art. 598.- El miembro de un juzgado de trabajo que se encuentre en uno de los casos de recusación enumerados en el artículo 597 debe declararlo a los demás y solicitar su exclusión de quien deba acordarla.
+
+					Puede solicitarla, además, cuando circunstancias particulares, que no está obligado a revelar, no le permitan actuar con plena independencia o imparcialidad.
+
+					Art. 599.- La recusación debe ser solicitada en escrito depositado en la secretaría del tribunal apoderado del asunto, antes de que este se encuentre en estado de ser juzgado.
+
+					También puede ser solicitada por declaración verbal en la Secretaría.
+
+					De esta declaración se levantará acta que firmará la parte recusante o su mandatario, si sabe y puede hacerlo, con el secretario.
+
+					Art. 600.- El secretario dará copia del escrito o del acta del miembro recusado, en las veinte y cuatro horas siguientes al depósito o a la declaración para que admita o niegue los hechos señalados como causa de la recusación.
+
+					El miembro recusado admitirá o negará estos hechos, en escrito o por declaración en secretaría, en las cuarenta y ocho horas de la entrega de la copia mencionada en el presente artículo.
+
+					La contestación del miembro recusado debe estar sumariamente motivada cuando niegue los hechos alegados por la parte recusante.
+
+					En este caso, el secretario enviará un expediente a la corte de trabajo en las cuarenta y ocho horas subsiguientes al depósito de la contestación o a la declaración del miembro recusado.
+
+					Art. 601.- La recusación será decidida por la corte de trabajo en los cincos días de la recepción del expediente.
+
+					La decisión pronunciada al respecto no será susceptible de ningún recurso. `,
 			},
 			{
 				title: 'TÍTULO VI: DE LA INTERVENCIÓN',
 				content: `CAPÍTULO I: DE LA INTERVENCIÓN VOLUNTARIA
 
-					\nArt. 602.- El tercero que tenga interés legítimo en un conflicto de trabajo puede intervenir en él como parte. \nArt. 603.- La intervención se iniciará mediante escrito depositado en la secretaría del tribunal, con los documentos que justifiquen el interés de la parte interviniente y los que sirvan de base a sus pretensiones si los hubiere. El escrito inicial debe contener: 1o. La designación del tribunal al cual se dirija; 2o. Los nombres, profesión, domicilio y menciones relativas a la cédula personal de identidad de la parte interviniente y la indicación precisa de un domicilio de elección en el mismo lugar donde tenga su asiento el tribunal; 3o. Los nombres, profesión y domicilio real respectivos del demandante y demandado; 4o. El interés legít imo que se alegue para intervenir; 5o. El objeto de la intervención y una exposición sumaria de los medios de hecho y de derecho en los cuales se funde; 6o. La fecha del escrito y la firma del tercero interviniente o de su mandatario. \nArt. 604.- En ningún caso será admisible la intervención después de celebrada la audiencia de producción y discusión de pruebas. \nArt. 605.- La intervención no detendrá el curso regular de los procedimientos, pero podrá prolongarlo en cuanto fuere necesario para garantizar los derechos de defensa de terceros intervinientes o de la parte que requiera la intervención de un tercero, según se prescribe en el capítulo siguiente. \nArt. 606.- Cuando el propio interés de la parte interviniente no sea contrario al de una de las partes principales, las actuaciones y diligencias de la primera se ejecutarán en los plazos señalados por este Código a dicha parte. En el caso contrario, la parte interviniente gozará de plazos iguales a los acordados a las partes principales, pero sus actuaciones y diligencias deberán ser ejecutadas antes que las de éstas.
+				Art. 602.- El tercero que tenga interés legítimo en un conflicto de trabajo puede intervenir en él como parte.
+
+				Art. 603.- La intervención se iniciará mediante escrito depositado en la secretaría del tribunal, con los documentos que justifiquen el interés de la parte interviniente y los que sirvan de base a sus pretensiones si los hubiere.
+
+				El escrito inicial debe contener:
+
+				1o. La designación del tribunal al cual se dirija;
+
+				2o. Los nombres, profesión, domicilio y menciones relativas a la cédula personal de identidad de la parte interviniente y la indicación precisa de un domicilio de elección en el mismo lugar donde tenga su asiento el tribunal;
+
+				3o. Los nombres, profesión y domicilio real respectivos del demandante y demandado;
+
+				4o. El interés legít imo que se alegue para intervenir;
+
+				5o. El objeto de la intervención y una exposición sumaria de los medios de hecho y de derecho en los cuales se funde;
+
+				6o. La fecha del escrito y la firma del tercero interviniente o de su mandatario.
+
+					Art. 604.- En ningún caso será admisible la intervención después de celebrada la audiencia de producción y discusión de pruebas.
+
+					Art. 605.- La intervención no detendrá el curso regular de los procedimientos, pero podrá prolongarlo en cuanto fuere necesario para garantizar los derechos de defensa de terceros intervinientes o de la parte que requiera la intervención de un tercero, según se prescribe en el capítulo siguiente.
+
+					Art. 606.- Cuando el propio interés de la parte interviniente no sea contrario al de una de las partes principales, las actuaciones y diligencias de la primera se ejecutarán en los plazos señalados por este Código a dicha parte. En el caso contrario, la parte interviniente gozará de plazos iguales a los acordados a las partes principales, pero sus actuaciones y diligencias deberán ser ejecutadas antes que las de éstas.
 
 					CAPÍTULO II: DE LA INTERVENCIÓN FORZOSA
 
-					\nArt. 607.- Cualquiera de las partes puede requerir la intervención de un tercero. \nArt. 608.- La parte que tenga interés en requerir la intervención se ceñirá a las reglas prescritas para la demanda introductiva de la acción. \nArt. 609. La intervención y la demanda principal se decidirán por una misma sentencia.
+					Art. 607.- Cualquiera de las partes puede requerir la intervención de un tercero.
+
+					Art. 608.- La parte que tenga interés en requerir la intervención se ceñirá a las reglas prescritas para la demanda introductiva de la acción.
+
+					Art. 609. La intervención y la demanda principal se decidirán por una misma sentencia.
 					`,
 			},
 			{
 				title: 'TÍTULO VII: DEL PROCEDIMIENTO SUMARIO',
 				content:
-					'\nArt. 610.- El procedimiento establecido en este capítulo sólo se aplica en las materias enumeradas en el último párrafo del artículo 487. \nArt. 611.- La parte que pretenda exigir el cumplimiento de un convenio colectivo o de un laudo sobre condiciones de trabajo, o el pago de daños y perjuicios a falta de dicho cumplimiento, debe hacerlo mediante demanda escrita dirigida al juez del tribunal competente o por declaración en la secretaría de dicho tribunal. \nArt. 612.- El escrito de demanda o la declaración que la contenga expresará:1o. Los nombres, domicilio y demás menciones necesarias para la identificación de la demandante y de la demandada así como el último domicilio elegido por una y otra en el convenio colectivo o en los procedimientos de arbitraje, y el que elija la primera si se propone cambiarlo; 2o. La fecha del convenio o del laudo cuyo cumplimiento se persigue y la fecha y el número de su registro en el departamento de trabajo; 3o. Los daños y perjuicios reclamados, en caso de persistencia en el incumplimiento del convenio o del laudo, con las bases del avalúo de los mismos; 4o. La fecha del escrito de demanda o de declaración y la firma de la parte, si se trata de demanda escrita. \nArt. 613.- En las veinte y cuatro horas de la entrega del escrito o de la fecha de la declaración el juez autorizará la notificación de la demanda a la parte demandada y su citación para la audiencia que fije en el mismo auto. Entre la fecha de la citación y la de la audiencia mediará un término de no menos de un día franco. \nArt. 614.- La notificación de la demanda y la citación se practicarán conforme a lo prescrito en el artículo 512. \nArt. 615.- El día y hora fijados para la comparecencia, reunidos el juez y los vocales en audiencia pública, con asistencia del secretario, el primero declarará constituido el juzgado en sus atribuciones de conciliación y juicio y pedirá a las partes que expongan, sin discutirlas, sus respectivas pretensiones. \nArt. 616.- Oír a las partes se procederá de acuerdo con lo establecido en los artículos 517, 518 y 519. Transcurrido un tiempo razonable sin que se logre la conciliación de las partes, el juez ofrecerá la palabra a éstas para la discusión del caso y les pedirá que depositen en secretaría sus respectivas conclusiones motivadas. \nArt. 617.- La sentencia será pronunciada en los ocho días subsiguientes a la discusión, salvo el caso de que la sustanciación del asunto exija alguna medida de instrucción o la celebración de nueva audiencia en el cual las partes deben presentar sus conclusiones al fondo. En dicho caso el término correrá un día después de la ejecución de la medida ordenada o de la celebración de la nueva audiencia. Se declaran comunes a la presente materia los artículos 533, 534, 536, 537, 538 y 539. \nArt. 618.- La apelación de las sentencias pronunciadas en materia sumaria debe interponerse en los diez días de su notificación, en la forma establecida para la materia ordinaria. La sustanciación y el juicio del recurso y la notificación de la sentencia se practicarán conforme a lo prescrito en el presente título.',
+					`Art. 610.- El procedimiento establecido en este capítulo sólo se aplica en las materias enumeradas en el último párrafo del artículo 487.
+
+					Art. 611.- La parte que pretenda exigir el cumplimiento de un convenio colectivo o de un laudo sobre condiciones de trabajo, o el pago de daños y perjuicios a falta de dicho cumplimiento, debe hacerlo mediante demanda escrita dirigida al juez del tribunal competente o por declaración en la secretaría de dicho tribunal.
+
+					Art. 612.- El escrito de demanda o la declaración que la contenga expresará:
+
+					1o. Los nombres, domicilio y demás menciones necesarias para la identificación de la demandante y de la demandada así como el último domicilio elegido por una y otra en el convenio colectivo o en los procedimientos de arbitraje, y el que elija la primera si se propone cambiarlo;
+
+					2o. La fecha del convenio o del laudo cuyo cumplimiento se persigue y la fecha y el número de su registro en el departamento de trabajo;
+
+					3o. Los daños y perjuicios reclamados, en caso de persistencia en el incumplimiento del convenio o del laudo, con las bases del avalúo de los mismos;
+
+					4o. La fecha del escrito de demanda o de declaración y la firma de la parte, si se trata de demanda escrita.
+
+					Art. 613.- En las veinte y cuatro horas de la entrega del escrito o de la fecha de la declaración el juez autorizará la notificación de la demanda a la parte demandada y su citación para la audiencia que fije en el mismo auto.
+
+					Entre la fecha de la citación y la de la audiencia mediará un término de no menos de un día franco.
+
+					Art. 614.- La notificación de la demanda y la citación se practicarán conforme a lo prescrito en el artículo 512.
+
+					Art. 615.- El día y hora fijados para la comparecencia, reunidos el juez y los vocales en audiencia pública, con asistencia del secretario, el primero declarará constituido el juzgado en sus atribuciones de conciliación y juicio y pedirá a las partes que expongan, sin discutirlas, sus respectivas pretensiones.
+
+					Art. 616.- Oír a las partes se procederá de acuerdo con lo establecido en los artículos 517, 518 y 519.
+
+					Transcurrido un tiempo razonable sin que se logre la conciliación de las partes, el juez ofrecerá la palabra a éstas para la discusión del caso y les pedirá que depositen en secretaría sus respectivas conclusiones motivadas.
+
+					Art. 617.- La sentencia será pronunciada en los ocho días subsiguientes a la discusión, salvo el caso de que la sustanciación del asunto exija alguna medida de instrucción o la celebración de nueva audiencia en el cual las partes deben presentar sus conclusiones al fondo.
+
+					En dicho caso el término correrá un día después de la ejecución de la medida ordenada o de la celebración de la nueva audiencia.
+
+					Se declaran comunes a la presente materia los artículos 533, 534, 536, 537, 538 y 539.
+
+					Art. 618.- La apelación de las sentencias pronunciadas en materia sumaria debe interponerse en los diez días de su notificación, en la forma establecida para la materia ordinaria.
+
+					La sustanciación y el juicio del recurso y la notificación de la sentencia se practicarán conforme a lo prescrito en el presente título.`,
 			},
 			{
 				title: 'TÍTULO VIII: DE LOS RECURSOS',
@@ -1915,54 +2942,228 @@ Art. 102.- Si no se comprueba la justa causa invocada como fundamento de la dimi
 
 				SECCIÓN PRIMERA: DISPOSICIONES GENERALES
 
-					\nArt. 619.- Puede ser impugnada mediante recurso de apelación toda sentencia dictada por un juzgado de trabajo en materia de conflictos jurídicos, con excepción: 1o. De las relativas a demandas cuya cuantía sea inferior a diez salarios mínimos; 2o. De las que este código se declara no susceptibles de dichos recursos. Las sentencias que decidan sobre competencia son apelables en todos los casos. \nArt. 620.- Sólo puede interponer recurso de apelación contra una sentencia quien a figurado en ella como parte.
+				Art. 619.- Puede ser impugnada mediante recurso de apelación toda sentencia dictada por un juzgado de trabajo en materia de conflictos jurídicos, con excepción:
+
+				1o. De las relativas a demandas cuya cuantía sea inferior a diez salarios mínimos;
+
+				2o. De las que este código se declara no susceptibles de dichos recursos.
+
+				Las sentencias que decidan sobre competencia son apelables en todos los casos.
+
+				Art. 620.- Sólo puede interponer recurso de apelación contra una sentencia quien a figurado en ella como parte.
 
 					SECCIÓN SEGUNDA: DEL PROCEDIMIENTO PRELIMINAR
 
-					\nArt. 621.- La apelación debe ser interpuesta mediante escrito depositado en la secretaría de la corte competente, en el término de un mes a contar de la notificación de la sentencia impugnada. \nArt. 622.- También puede ser interpuesto por declaración de la parte o de su mandatario en la secretaría. En este último caso, el secretario redactará acta de la declaración la cual firmará con él la parte apelante o su mandatario, si sabe y puede hacerlo. \nArt. 623.- El escrito de apelación debe contener: 1o. Los nombres, profesión y domicilio real del apelante, las enunciaciones legales relativas a su cédula personal de identidad y la indicación precisa de un domicilio de elección en el lugar donde tenga su asiento la corte de trabajo ante la cual se recurra; 2o. La fecha de la sentencia contra la cual se apela y los nombres, profesión y domicilio real de las personas que hayan figurado como partes de la misma; 3o. El objeto de la apelación y una exposición sumaria de los medios de hecho y de derecho en los cuales se funde; 3o. El objeto de la apelación y una exposición sumaria de los medios de hecho y de derecho en los cuales se funde; 4o. La fecha del escrito y la firma del apelante o la de su mandatario. \nArt. 624.- En el caso de la apelación se haga por declaración en secretaría, debe contener las enunciaciones señaladas en los tres primeros ordinales del artículo 623. \nArt. 625.- En los primeros cinco días que sigan al depósito del escrito o a la declaración, el secretario enviará copia a la parte adversa, sin perjuicio del derecho de recurrente de notificar su apelación a su contraparte. \nArt. 626.- En el curso de los diez días que sigan a la notificación indicada en el artículo 625, la parte intimada debe depositar en la secretaría de la corte su escrito de defensa, el cual expresará: 1o. Los nombres, profesión y domicilio real de dicha parte, las enunciaciones relativas a su cédula personal de identidad y la indicación precisa de un domicilio de elección en el lugar de donde tenga su asiento la corte; 2o. La fecha de la notificación del escrito de apelación o del acta de declaración; 3o. Los medios de hecho y de derecho que la intimada oponga a los de la apelante así como los suyos propios en el caso de que se constituya apelante incidental y sus pedimentos; 4o. La fecha del escrito y la firma de la intimada o la de su mandatario. \nArt. 627.- La defensa puede ser producida por declaración en secretaría caso en el cual el secretario redactará acta contra expresión de las enunciaciones señaladas en los tres primeros ordinales del artículo 626, la cual firmará la intimada o su mandatario, si sabe y puede hacerlo. \nArt. 628.- El escrito o el acta serán notificados por el secretario a la apelante en las cuarenta y ocho horas del depósito o de la declaración. En el mismo término pasará el secretario todo el expediente a la corte. \nArt. 629.- El juez presidente fijará el día y hora para conocer del recurso en las cuarenta y ocho horas de haber sido pasado el expediente a la corte. Entre la fecha de su ordenanza y la de la audiencia deberá mediar un término no menor de ocho días. \nArt. 630.- El secretario remitirá a las partes sendas copias de la ordenanza en las veinte y cuatro horas de su fecha dirigidas a los domicilios respectivamente elegidos en sus escritos. Estas notificaciones valdrán citación a las partes para la audiencia señalada en la ordenanza. \nArt. 631.- Puede admitirse la producción de nuevos documentos en los casos previstos por el artículo 544. La solicitud de autorización se depositará en la secretaría de la corte con los documentos cuya producción se pretenda hacer, ocho días antes, por lo menos, del fijado en la audiencia. \nArt. 632.- Depositada la solicitud, se procederá conforme a lo dispuesto en la última parte del artículo 545 y en la primera parte del artículo 546.
+					Art. 621.- La apelación debe ser interpuesta mediante escrito depositado en la secretaría de la corte competente, en el término de un mes a contar de la notificación de la sentencia impugnada.
+
+					Art. 622.- También puede ser interpuesto por declaración de la parte o de su mandatario en la secretaría.
+
+					En este último caso, el secretario redactará acta de la declaración la cual firmará con él la parte apelante o su mandatario, si sabe y puede hacerlo.
+
+					Art. 623.- El escrito de apelación debe contener:
+
+					1o. Los nombres, profesión y domicilio real del apelante, las enunciaciones legales relativas a su cédula personal de identidad y la indicación precisa de un domicilio de elección en el lugar donde tenga su asiento la corte de trabajo ante la cual se recurra;
+
+					2o. La fecha de la sentencia contra la cual se apela y los nombres, profesión y domicilio real de las personas que hayan figurado como partes de la misma; 3o. El objeto de la apelación y una exposición sumaria de los medios de hecho y de derecho en los cuales se funde;
+
+					3o. El objeto de la apelación y una exposición sumaria de los medios de hecho y de derecho en los cuales se funde;
+
+					4o. La fecha del escrito y la firma del apelante o la de su mandatario.
+
+					Art. 624.- En el caso de la apelación se haga por declaración en secretaría, debe contener las enunciaciones señaladas en los tres primeros ordinales del artículo 623.
+
+					Art. 625.- En los primeros cinco días que sigan al depósito del escrito o a la declaración, el secretario enviará copia a la parte adversa, sin perjuicio del derecho de recurrente de notificar su apelación a su contraparte.
+
+					Art. 626.- En el curso de los diez días que sigan a la notificación indicada en el artículo 625, la parte intimada debe depositar en la secretaría de la corte su escrito de defensa, el cual expresará:
+
+					1o. Los nombres, profesión y domicilio real de dicha parte, las enunciaciones relativas a su cédula personal de identidad y la indicación precisa de un domicilio de elección en el lugar de donde tenga su asiento la corte;
+
+					2o. La fecha de la notificación del escrito de apelación o del acta de declaración;
+
+					3o. Los medios de hecho y de derecho que la intimada oponga a los de la apelante así como los suyos propios en el caso de que se constituya apelante incidental y sus pedimentos;
+
+					4o. La fecha del escrito y la firma de la intimada o la de su mandatario.
+
+					Art. 627.- La defensa puede ser producida por declaración en secretaría caso en el cual el secretario redactará acta contra expresión de las enunciaciones señaladas en los tres primeros ordinales del artículo 626, la cual firmará la intimada o su mandatario, si sabe y puede hacerlo.
+
+					Art. 628.- El escrito o el acta serán notificados por el secretario a la apelante en las cuarenta y ocho horas del depósito o de la declaración.
+
+					En el mismo término pasará el secretario todo el expediente a la corte.
+
+					Art. 629.- El juez presidente fijará el día y hora para conocer del recurso en las cuarenta y ocho horas de haber sido pasado el expediente a la corte.
+
+					Entre la fecha de su ordenanza y la de la audiencia deberá mediar un término no menor de ocho días.
+
+					Art. 630.- El secretario remitirá a las partes sendas copias de la ordenanza en las veinte y cuatro horas de su fecha dirigidas a los domicilios respectivamente elegidos en sus escritos.
+
+					Estas notificaciones valdrán citación a las partes para la audiencia señalada en la ordenanza.
+
+					Art. 631.- Puede admitirse la producción de nuevos documentos en los casos previstos por el artículo 544.
+
+					La solicitud de autorización se depositará en la secretaría de la corte con los documentos cuya producción se pretenda hacer, ocho días antes, por lo menos, del fijado en la audiencia.
+
+					Art. 632.- Depositada la solicitud, se procederá conforme a lo dispuesto en la última parte del artículo 545 y en la primera parte del artículo 546.
 
 					SECCIÓN TERCERA: DE LA AUDIENCIA
 
-					\nArt. 633.- El día y la hora fijados se reunirán la corte en audiencia pública. El presidente ofrecerá la palabra a las partes para que declaren si en el tiempo transcurrido después de la apelación ha intervenido algún avenimiento entre ellas, y para que, en caso contrario, traten de lograrlo antes de procederse a la discusión del recurso. \nArt. 634.- Se declara común a esta materia lo prescrito en la primera parte del artículo 527. \nArt. 635.- Transcurrido el tiempo suficiente, a juicio del presidente, sin que se haya logrado conciliación de las partes, dicho funcionario dará por terminada la tentativa final de conciliación y ofrecerá la palabra a las partes para la discusión del recurso. \nArt. 636.- El presidente puede declarar terminada la discusión cuando la corte se considere suficientemente edificada. En el curso de la discusión, o al finalizar ésta, los jueces podrán solicitar de las partes o de una de ellas, informaciones adicionales o aclaraciones sobre los hechos, alegaciones de derecho o situaciones relativas al caso discutido. \nArt. 637.- Agotados los turnos, se procederá conforme a lo dispuesto en el artículo 531.
+					Art. 633.- El día y la hora fijados se reunirán la corte en audiencia pública.
+
+					El presidente ofrecerá la palabra a las partes para que declaren si en el tiempo transcurrido después de la apelación ha intervenido algún avenimiento entre ellas, y para que, en caso contrario, traten de lograrlo antes de procederse a la discusión del recurso.
+
+					Art. 634.- Se declara común a esta materia lo prescrito en la primera parte del artículo 527.
+
+					Art. 635.- Transcurrido el tiempo suficiente, a juicio del presidente, sin que se haya logrado conciliación de las partes, dicho funcionario dará por terminada la tentativa final de conciliación y ofrecerá la palabra a las partes para la discusión del recurso.
+
+					Art. 636.- El presidente puede declarar terminada la discusión cuando la corte se considere suficientemente edificada.
+
+					En el curso de la discusión, o al finalizar ésta, los jueces podrán solicitar de las partes o de una de ellas, informaciones adicionales o aclaraciones sobre los hechos, alegaciones de derecho o situaciones relativas al caso discutido.
+
+					Art. 637.- Agotados los turnos, se procederá conforme a lo dispuesto en el artículo 531.
 
 					SECCIÓN CUARTA: DE LA SENTENCIA
 
-					\nArt. 638.- Se declara aplicable a la materia de este sección lo dispuesto en los artículos 533 a 540 ambos inclusive, con las modificaciones que siguen: 1o. El término para el pronunciamiento de las sentencias será de un mes, a contar de la expiración del señalado a las partes para presentar sus escritos de ampliación, salvo lo dispuesto en el artículo 536; 2o. La redacción de las sentencias corresponderá al presidente o al juez que este designe en cada caso.
+					Art. 638.- Se declara aplicable a la materia de este sección lo dispuesto en los artículos 533 a 540 ambos inclusive, con las modificaciones que siguen:
+
+					1o. El término para el pronunciamiento de las sentencias será de un mes, a contar de la expiración del señalado a las partes para presentar sus escritos de ampliación, salvo lo dispuesto en el artículo 536;
+
+					2o. La redacción de las sentencias corresponderá al presidente o al juez que este designe en cada caso.
 
 					CAPÍTULO II: DE LA CASACIÓN
 
 					SECCIÓN PRIMERA: DISPOSICIONES GENERALES
 
-					\nArt. 639.- Salvo lo establecido de otro modo en este capítulo, son aplicables a la presente materia las disposiciones de la ley sobre procedimiento de casación.
+					Art. 639.- Salvo lo establecido de otro modo en este capítulo, son aplicables a la presente materia las disposiciones de la ley sobre procedimiento de casación.
 
 					SECCIÓN SEGUNDA: DEL PROCEDIMIENTO
 
-					\nArt. 640.- El recurso de casación se interpondrá mediante escrito dirigido a la Suprema Corte de Justicia y depositado en la Secretaría del Tribunal que haya dictado la sentencia, acompañado de los documentos, si los hubiere. \nArt. 641.- No será admisible el recurso después de un mes a contar de la notificación de la sentencia ni cuando ésta imponga una condenación que no exceda de veinte salarios mínimos. \nArt. 642.- El escrito enunciará: 1o. Los nombres, profesión y domicilio real de la parte recurrente, las menciones relativas a su cédula personal de identidad, la designación del abogado que lo presentará, y la indicación del domicilio del mismo, que deberá estar situado permanentemente o de modo accidental y para los efectos del caso, en la capital de la República, y en el cual se reputará de pleno derecho que el intimante hace elección de domicilio a menos que en el mismo escrito se hiciere constar otra elección, que no podrá ser fuera de dicha ciudad; 2o. La designación del tribunal que haya pronunciado la sentencia contra la cual se recurre y la fecha de ésta; 3o. Los nombres y domicilios reales de las personas que hayan figurado como partes en la sentencia impugnada; 4o. Los medios en los cuales se funde el recurso, y las conclusiones; 5o. La fecha del escrito y la firma del abogado del recurrente. \nArt. 643.- En los cinco días que sigan al depósito del escrito, el recurrente debe notificar copia del mismo a la parte contraria, el secretario en el mismo plazo remitirá el expediente completo y un inventario en duplicado de las piezas del mismo al secretario de la Suprema Corte de Justicia, quien en los tres días de su recibo devolverá, firmado por él, uno de los duplicados al secretario remitente. \nArt. 644.- En los quince días de la notificación del escrito introductivo del recurso, la parte intimada debe depositar en la Secretaría de la Suprema Corte de Justicia su escrito de defensa, y notificar a la parte recurrente en los tres días de su depósito copia de dicho escrito, con constitución de abogado y designación de domicilio según lo prescrito por el ordinal 1o. del artículo 642. \nArt. 645.- Vencido el término de quince días señalado en el artículo 644, o hecho el depósito del escrito de la parte intimada en el curso del mismo, el secretario pasará el expediente al Presidente de la Suprema Corte de Justicia, quien fijará la audiencia correspondiente mediante auto, sin previo relato ni dictamen del Procurador General de la República. \nArt. 646.- La Suprema Corte de Justicia debe fallar dentro de los treinta días de haberse celebrado la audiencia. Su sentencia se ajustará a lo prescrito por los artículos 23 y de la Ley sobre Procedimiento de Casación \nArt. 647.- En los cinco días que sigan al de la fecha de la sentencia, el secretario de la Suprema Corte de Justicia remitirá copia certificada a la secretaría del tribunal que haya pronunciado la sentencia recurrida, si ésta ha sido casada. En igual término remitirá el expediente a la secretaría del tribunal de envío o la de aquel del cual proceda la sentencia recurrida si ésta no ha sido casada.
+					Art. 640.- El recurso de casación se interpondrá mediante escrito dirigido a la Suprema Corte de Justicia y depositado en la Secretaría del Tribunal que haya dictado la sentencia, acompañado de los documentos, si los hubiere.
+
+					Art. 641.- No será admisible el recurso después de un mes a contar de la notificación de la sentencia ni cuando ésta imponga una condenación que no exceda de veinte salarios mínimos.
+
+					Art. 642.- El escrito enunciará:
+
+					1o. Los nombres, profesión y domicilio real de la parte recurrente, las menciones relativas a su cédula personal de identidad, la designación del abogado que lo presentará, y la indicación del domicilio del mismo, que deberá estar situado permanentemente o de modo accidental y para los efectos del caso, en la capital de la República, y en el cual se reputará de pleno derecho que el intimante hace elección de domicilio a menos que en el mismo escrito se hiciere constar otra elección, que no podrá ser fuera de dicha ciudad;
+
+					2o. La designación del tribunal que haya pronunciado la sentencia contra la cual se recurre y la fecha de ésta;
+
+					3o. Los nombres y domicilios reales de las personas que hayan figurado como partes en la sentencia impugnada;
+
+					4o. Los medios en los cuales se funde el recurso, y las conclusiones;
+
+					5o. La fecha del escrito y la firma del abogado del recurrente.
+
+					Art. 643.- En los cinco días que sigan al depósito del escrito, el recurrente debe notificar copia del mismo a la parte contraria, el secretario en el mismo plazo remitirá el expediente completo y un inventario en duplicado de las piezas del mismo al secretario de la Suprema Corte de Justicia, quien en los tres días de su recibo devolverá, firmado por él, uno de los duplicados al secretario remitente.
+
+					Art. 644.- En los quince días de la notificación del escrito introductivo del recurso, la parte intimada debe depositar en la Secretaría de la Suprema Corte de Justicia su escrito de defensa, y notificar a la parte recurrente en los tres días de su depósito copia de dicho escrito, con constitución de abogado y designación de domicilio según lo prescrito por el ordinal 1o. del artículo 642.
+
+					Art. 645.- Vencido el término de quince días señalado en el artículo 644, o hecho el depósito del escrito de la parte intimada en el curso del mismo, el secretario pasará el expediente al Presidente de la Suprema Corte de Justicia, quien fijará la audiencia correspondiente mediante auto, sin previo relato ni dictamen del Procurador General de la República.
+
+					Art. 646.- La Suprema Corte de Justicia debe fallar dentro de los treinta días de haberse celebrado la audiencia.
+
+					Su sentencia se ajustará a lo prescrito por los artículos 23 y de la Ley sobre Procedimiento de Casación
+
+					Art. 647.- En los cinco días que sigan al de la fecha de la sentencia, el secretario de la Suprema Corte de Justicia remitirá copia certificada a la secretaría del tribunal que haya pronunciado la sentencia recurrida, si ésta ha sido casada.
+
+					En igual término remitirá el expediente a la secretaría del tribunal de envío o la de aquel del cual proceda la sentencia recurrida si ésta no ha sido casada.
 
 					CAPÍTULO III: DE LA TERCERÍA
 
-					\nArt. 648.- El tercero cuyos derechos sean perjudicados por una sentencia, puede intentar contra ésta recurso de tercería. Pueden intentarlo además el causahabiente de una de las partes, cuando sea víctima de un fraude. \nArt. 649.- La tercería principal debe ser intentada ante el tribunal que haya pronunciado la sentencia. La incidental se promoverá ante el tribunal que conozca de lo principal, si éste es de grado igual o superior al que pronunció la sentencia. \nArt. 650.- La tercería principal se intentará, sustanciará y juzgará como cualquier acción principal relativa a un conflicto jurídico. La incidental puede ser promovida por escrito depositado en la secretaría del tribunal o por declaración de la parte o de su mandatario, debiendo contener, en cualquier caso, las enunciaciones señaladas en el artículo 509. \nArt. 651.- En los casos de tercería principal, el tribunal puede suspender la ejecución de la sentencia objeto de dicho recurso. En los casos de tercería incidental puede suspender el curso de los procedimientos sobre lo principal. \nArt. 652.- El tribunal que admita la tercería retractará o reformará la sentencia en todo cuanto perjudique los derechos del tercero que la hubiere intentado. En caso de inadmisión puede, por la misma sentencia, condenar al tercero al pago de daños y perjuicios en favor de la parte que resulte perjudicada, si se establece que aquél intentó o promovió el recurso de mala fe o como consecuencia de un error grosero. Puede también declarar solidariamente obligada al pago de esos daños y perjuicios a la parte a quien el tercero hubiese intentado favorecer con su recurso, si se establece en cualquier forma la existencia de algún acuerdo entre ambos.
+					Art. 648.- El tercero cuyos derechos sean perjudicados por una sentencia, puede intentar contra ésta recurso de tercería. Pueden intentarlo además el causahabiente de una de las partes, cuando sea víctima de un fraude.
+
+					Art. 649.- La tercería principal debe ser intentada ante el tribunal que haya pronunciado la sentencia.
+
+					La incidental se promoverá ante el tribunal que conozca de lo principal, si éste es de grado igual o superior al que pronunció la sentencia.
+
+					Art. 650.- La tercería principal se intentará, sustanciará y juzgará como cualquier acción principal relativa a un conflicto jurídico.
+
+					La incidental puede ser promovida por escrito depositado en la secretaría del tribunal o por declaración de la parte o de su mandatario, debiendo contener, en cualquier caso, las enunciaciones señaladas en el artículo 509.
+
+					Art. 651.- En los casos de tercería principal, el tribunal puede suspender la ejecución de la sentencia objeto de dicho recurso.
+
+					En los casos de tercería incidental puede suspender el curso de los procedimientos sobre lo principal.
+
+					Art. 652.- El tribunal que admita la tercería retractará o reformará la sentencia en todo cuanto perjudique los derechos del tercero que la hubiere intentado.
+
+					En caso de inadmisión puede, por la misma sentencia, condenar al tercero al pago de daños y perjuicios en favor de la parte que resulte perjudicada, si se establece que aquél intentó o promovió el recurso de mala fe o como consecuencia de un error grosero.
+
+					Puede también declarar solidariamente obligada al pago de esos daños y perjuicios a la parte a quien el tercero hubiese intentado favorecer con su recurso, si se establece en cualquier forma la existencia de algún acuerdo entre ambos.
 					`,
 			},
 			{
 				title: 'TÍTULO IX: DE ALGUNOS PROCEDIMIENTOS ESPECIALES',
 				content: `CAPÍTULO I: DE LOS OFRECIMIENTOS REALES Y DE LA CONSIGNACIÓN
 
-					\nArt. 653.- Todo empleador o trabajador que desee liberarse de la obligación de pagar una suma de dinero que provenga de contratos de trabajo o de convenios colectivos o haya sido contraída en ocasión de la ejecución de los mismos, puede consignarla en la colecturía de Rentas Internas correspondiente al lugar en que tenga su domicilio el acreedor, previo ofrecimiento real de pago no aceptado por el último. \nArt. 654.- El ofrecimiento, la consignación y sus efectos se regirán por el derecho común. \nArt. 655.- La demanda en validez o en nulidad de los ofrecimientos o de la consignación se introducirá ante el juzgado de trabajo correspondiente y se sustanciará y fallará según las reglas establecidas para la materia sumaria.
+				Art. 653.- Todo empleador o trabajador que desee liberarse de la obligación de pagar una suma de dinero que provenga de contratos de trabajo o de convenios colectivos o haya sido contraída en ocasión de la ejecución de los mismos, puede consignarla en la colecturía de Rentas Internas correspondiente al lugar en que tenga su domicilio el acreedor, previo ofrecimiento real de pago no aceptado por el último.
+
+				Art. 654.- El ofrecimiento, la consignación y sus efectos se regirán por el derecho común.
+
+					Art. 655.- La demanda en validez o en nulidad de los ofrecimientos o de la consignación se introducirá ante el juzgado de trabajo correspondiente y se sustanciará y fallará según las reglas establecidas para la materia sumaria.
 
 					CAPÍTULO II: DEL DESALOJO DE VIVIENDAS
 
-					\nArt. 656.- Los trabajadores que al vencimiento del término señalado en el ordinal 10o. del artículo 44 no haya entregado las viviendas del empleador, ocupadas por ellos en virtud de un contrato de trabajo ya terminado, pueden ser expulsados por sentencia del juzgado de trabajo competente a instancia del empleador. \nArt. 657.- La demanda en desalojo se iniciará, sustanciará y fallará conforme a las reglas prescritas para la materia sumaria.
+					Art. 656.- Los trabajadores que al vencimiento del término señalado en el ordinal 10o. del artículo 44 no haya entregado las viviendas del empleador, ocupadas por ellos en virtud de un contrato de trabajo ya terminado, pueden ser expulsados por sentencia del juzgado de trabajo competente a instancia del empleador.
+
+					Art. 657.- La demanda en desalojo se iniciará, sustanciará y fallará conforme a las reglas prescritas para la materia sumaria.
 
 					CAPÍTULO III: DE LA CALIFICACIÓN DE LAS HUELGAS Y LOS PAROS
 
-					\nArt. 658.- En los casos de huelga o paro declarados después de cumplidas las prescripciones del artículo 407 sobre huelgas, que el artículo 415 hace comunes a los paros, la corte de trabajo competente para la calificación de la huelga o del paro, queda amparada de la instancia correspondiente por el auto que dicte el presidente de dicha corte conforme a lo dispuesto en el artículo 683. \nArt. 659.- El día y hora fijados en el auto mencionado en el artículo 658, la corte se reunirá en audiencia pública. El presidente ofrecerá la palabra a las partes para que hagan la exposición del caso y produzcan los medios y pruebas tendientes a justificar la calificación de la huelga o del paro. La parte que haya declarado la huelga o el paro será la primera en el uso de la palabra. Se declara común el procedimiento de calificación, lo prescrito en el artículo 636. \nArt. 660.- La corte pronunciará sentencia dentro de los cinco días subsiguientes a la fecha en que termina la audiencia. Si el conflicto es de derecho, la sentencia de calificación debe decidir dicho conflicto. Si es económico, se procederá conforme al artículo 685. La sentencia de calificación se notificará a las partes en las cuarenta y ocho horas de su fecha y no estará sujeta a ningún recurso. \nArt. 661.- En los casos de huelga o paro declarados en violación de lo prescrito por los artículos 403, 406 y 407, la corte de trabajo competente para su calificación puede proceder a ésta a solicitud de parte o de la Secretaría de Estado de Trabajo y aún de oficio, dentro de los cinco días de conocer la existencia de la huelga o del paro. Cuando actúe en virtud de solicitud, bastará que el solicitante afirme la existencia del estado de huelga o paro. \nArt. 662.- El auto del presidente de la corte con que se inicie la intervención de ésta, se sujetará a lo prescrito por el artículo 683.
+					Art. 658.- En los casos de huelga o paro declarados después de cumplidas las prescripciones del artículo 407 sobre huelgas, que el artículo 415 hace comunes a los paros, la corte de trabajo competente para la calificación de la huelga o del paro, queda amparada de la instancia correspondiente por el auto que dicte el presidente de dicha corte conforme a lo dispuesto en el artículo 683.
+
+					Art. 659.- El día y hora fijados en el auto mencionado en el artículo 658, la corte se reunirá en audiencia pública.
+
+					El presidente ofrecerá la palabra a las partes para que hagan la exposición del caso y produzcan los medios y pruebas tendientes a justificar la calificación de la huelga o del paro.
+
+					La parte que haya declarado la huelga o el paro será la primera en el uso de la palabra.
+
+					Se declara común el procedimiento de calificación, lo prescrito en el artículo 636.
+
+					Art. 660.- La corte pronunciará sentencia dentro de los cinco días subsiguientes a la fecha en que termina la audiencia. Si el conflicto es de derecho, la sentencia de calificación debe decidir dicho conflicto. Si es económico, se procederá conforme al artículo 685.
+
+					La sentencia de calificación se notificará a las partes en las cuarenta y ocho horas de su fecha y no estará sujeta a ningún recurso.
+
+					Art. 661.- En los casos de huelga o paro declarados en violación de lo prescrito por los artículos 403, 406 y 407, la corte de trabajo competente para su calificación puede proceder a ésta a solicitud de parte o de la Secretaría de Estado de Trabajo y aún de oficio, dentro de los cinco días de conocer la existencia de la huelga o del paro.
+
+					Cuando actúe en virtud de solicitud, bastará que el solicitante afirme la existencia del estado de huelga o paro.
+
+					Art. 662.- El auto del presidente de la corte con que se inicie la intervención de ésta, se sujetará a lo prescrito por el artículo 683.
 
 					La corte procederá conforme a lo dispuesto en los artículos 659 y 660.
 
 					CAPÍTULO IV: DE LA EJECUCIÓN DE LA SENTENCIA
 
-					\nArt. 663.- La ejecución por vía de embargo de la sentencia de los tribunales de trabajo compete al tribunal de trabajo que dictó la sentencia, y se regirá por el procedimiento sumario previsto en este código y, supletoriamente, por el derecho común, en la medida en que no sea incompatible con las normas y principios que rigen el proceso en materia de trabajo. En el embargo inmobiliario regirán los artículos 149, 150, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165 y 166 de la Ley de Fomento Agrícola No. 6186 de fecha 12 de Febrero de 1963. En el embargo retentivo, el tercero embargado pagará en manos del ejecutante el importe de las condenaciones, a presentación de sentencia con autoridad irrevocable de la cosa juzgada. Para tales fines, el ejecutante se proveerá de una copia certificada por el tribunal que dictó la sentencia. \nArt. 664.- Una vez iniciada la ejecución de las sentencia se llevará a efecto sin nulidades de procedimiento. La ejecución acordada podrá ser suspendida o paralizada a petición del ejecutante. \nArt. 665.- Transcurrido un mes sin que el ejecutante haya intimado la continuación del procedimiento, el tribunal requerirá a éste que manifieste, en término de cinco días, si las ejecución ha de seguir adelante y solicite lo que a su derecho convenga con la advertencia de que transcurrido este último plazo se archivarán provisional o definitivamente las actuaciones del caso. \nArt. 666.- En los casos de ejecución de estas sentencias o de otro título ejecutorio, el presidente de la corte puede ordenar, en referimiento, todas las medidas que no colidan con ninguna contestación seria o que se justifiquen por la existencia de un diferendo. \nArt. 667.- El presidente de la corte puede siempre prescribir en referimiento a las medidas conservatorias que se impongan, sea para prevenir un daño inminente, sea para hacer cesar una perturbación manifiestamente ilícita . En los casos en que la existencia de la obligación no es seriamente discutible, puede acordar una garantía al acreedor. Puede asimismo, establecer fianzas, astreintes o fijar las indemnizaciones pertinentes. \nArt. 668.- Tendrá también las facultades reconocidas por la Ley 834 de 1978 y el Código de Procedimiento Civil al juez de los referimientos en la medida que no sean incompatibles con las normas y principios que rigen el proceso en materia de trabajo. \nArt. 669.- Queda prohibida toda transacción o renuncia de los derechos reconocidos por sentencias de los tribunales de trabajo favorables al trabajador. \nArt. 670.- Si no se encontrase bienes del ejecutado a éstos fuesen insuficientes el tribunal declarará la insolvencia provisional, total o parcial, hasta que se conozcan bienes del ejecutado y ordenará el pago de la condenación según los mecanismos establecidos de los artículos 465 y 466. \nArt. 671.- La ejecución de la sentencia que disponga el desalojo del trabajador cuando éste ocupe vivienda por razón de su contrato o como accesorio a éste, se hará no obstante apelación o cualquier otro recurso. El plazo de gracia no podrá exceder de un mes. \nArt. 672.- Cuando la sentencia acuerde indemnización en materia de responsabilidad que implique reparación de daños y perjuicios por parte del trabajador, la ejecución, a cargo del empleador, debe respetar el salario mínimo, y no podrá sobrepasar del quince por ciento de la retribución ordinaria del trabajador. \nArt. 673.- En todo lo no previsto en este Título, regirá el derecho común excepto en cuanto a la competencia y al procedimiento sumario establecido en este Código.
+					Art. 663.- La ejecución por vía de embargo de la sentencia de los tribunales de trabajo compete al tribunal de trabajo que dictó la sentencia, y se regirá por el procedimiento sumario previsto en este código y, supletoriamente, por el derecho común, en la medida en que no sea incompatible con las normas y principios que rigen el proceso en materia de trabajo.
+
+					En el embargo inmobiliario regirán los artículos 149, 150, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165 y 166 de la Ley de Fomento Agrícola No. 6186 de fecha 12 de Febrero de 1963.
+
+					En el embargo retentivo, el tercero embargado pagará en manos del ejecutante el importe de las condenaciones, a presentación de sentencia con autoridad irrevocable de la cosa juzgada.
+
+					Para tales fines, el ejecutante se proveerá de una copia certificada por el tribunal que dictó la sentencia.
+
+					Art. 664.- Una vez iniciada la ejecución de las sentencia se llevará a efecto sin nulidades de procedimiento.
+
+					La ejecución acordada podrá ser suspendida o paralizada a petición del ejecutante.
+
+					Art. 665.- Transcurrido un mes sin que el ejecutante haya intimado la continuación del procedimiento, el tribunal requerirá a éste que manifieste, en término de cinco días, si las ejecución ha de seguir adelante y solicite lo que a su derecho convenga con la advertencia de que transcurrido este último plazo se archivarán provisional o definitivamente las actuaciones del caso.
+
+					Art. 666.- En los casos de ejecución de estas sentencias o de otro título ejecutorio, el presidente de la corte puede ordenar, en referimiento, todas las medidas que no colidan con ninguna contestación seria o que se justifiquen por la existencia de un diferendo.
+
+					Art. 667.- El presidente de la corte puede siempre prescribir en referimiento a las medidas conservatorias que se impongan, sea para prevenir un daño inminente, sea para hacer cesar una perturbación manifiestamente ilícita.
+
+					En los casos en que la existencia de la obligación no es seriamente discutible, puede acordar una garantía al acreedor.
+
+					Puede asimismo, establecer fianzas, astreintes o fijar las indemnizaciones pertinentes.
+
+					Art. 668.- Tendrá también las facultades reconocidas por la Ley 834 de 1978 y el Código de Procedimiento Civil al juez de los referimientos en la medida que no sean incompatibles con las normas y principios que rigen el proceso en materia de trabajo.
+
+					Art. 669.- Queda prohibida toda transacción o renuncia de los derechos reconocidos por sentencias de los tribunales de trabajo favorables al trabajador.
+
+					Art. 670.- Si no se encontrase bienes del ejecutado a éstos fuesen insuficientes el tribunal declarará la insolvencia provisional, total o parcial, hasta que se conozcan bienes del ejecutado y ordenará el pago de la condenación según los mecanismos establecidos de los artículos 465 y 466.
+
+					Art. 671.- La ejecución de la sentencia que disponga el desalojo del trabajador cuando éste ocupe vivienda por razón de su contrato o como accesorio a éste, se hará no obstante apelación o cualquier otro recurso. El plazo de gracia no podrá exceder de un mes.
+
+					Art. 672.- Cuando la sentencia acuerde indemnización en materia de responsabilidad que implique reparación de daños y perjuicios por parte del trabajador, la ejecución, a cargo del empleador, debe respetar el salario mínimo, y no podrá sobrepasar del quince por ciento de la retribución ordinaria del trabajador.
+
+					Art. 673.- En todo lo no previsto en este Título, regirá el derecho común excepto en cuanto a la competencia y al procedimiento sumario establecido en este Código.
 					`,
 			},
 			{
@@ -1970,45 +3171,199 @@ Art. 102.- Si no se comprueba la justa causa invocada como fundamento de la dimi
 					'TÍTULO X: DEL PROCEDIMIENTO PARA LA SOLUCIÓN DE LOS CONFLICTOS ECONÓMICOS',
 				content: `CAPÍTULO I: DE LA CONCILIACIÓN
 
-					\nArt. 674.- La parte interesada en la solución de un conflicto económico no resuelto por avenimiento directo solicitará la mediación de la Secretaría de Estado de Trabajo, mediante escrito fechado y firmado que exprese: 1o. Los nombres, domicilio y demás enunciaciones necesarias para la identificación de la parte interesada, incluso la fecha y número de su registro en el departamento de trabajo, si es una asociación laboral, así como los nombres, domicilio y demás enunciaciones necesarias para la identificación de la parte contraria; 2o. Las condiciones de trabajo cuya adopción o modificación pretenda obtener la parte interesada, y las razones en que base sus pretensiones; 3o. Los motivos que oponga la parte contraria para no aceptarlas. El escrito debe ser acompañado de las copias necesarias para su comunicación a aquél o aquéllos respecto de quienes se solicite la intervención administrativa. \nArt. 675.- En las cuarenta y ocho horas subsiguientes al depósito o recibo del escrito el secretario de Estado de Trabajo ordenará la consiguiente distribución de las copias recibidas con dicho escrito y designará como mediador a uno de los funcionarios o empleados de su dependencia u ofrecerá su propia mediación. La designación de mediador será comunicada a las partes en el mismo término indicado en este artículo. \nArt. 676.- El mediador, en las cuarenta y ocho horas de su designación citará a las partes por vía telegráfica para que estén presentes en el lugar, día y hora que señale, y una vez reunidas tratará de conciliarlas, actuando, para el efecto conforme a lo dispuesto en los artículos 581, 519 y 520. Entre la fecha de la citación y la de su reunión con el mediador habrá no menos de tres días ni más de cinco. \nArt. 677.- Salvo disposiciones contrarias del Secretario de Estado de Trabajo, la reunión debe tener lugar en uno de los locales de trabajo de las empresas que participen en el conflicto, o en uno de los lugares más próximos al centro de trabajo correspondiente, a juicio del mediador. \nArt. 678.- En caso de conciliación, se redactará un acta en la cual se exprese lo convenido. En caso contrario, o cuando la parte respecto de quien se ha promovido la intervención administrativa no comparece el mediador lo certificará a solicitud de la interesada. \nArt. 679.- El mediador informará a la Secretaría de Estado de Trabajo, del resultado de su misión en los tres días subsiguientes al de la última reunión celebrada con las partes. La no comparecencia sin causa justificada de una cualquiera de las partes, constituye una infracción. En los casos de inasistencia de una de las partes legalmente citadas, el mediador levantará acta de infracción conforme a lo establecido en el artículo 439 del Código de Trabajo, debiendo canalizarla al tribunal represivo competente, a través del Director de Mediación, Conciliación y Arbitraje.
+				Art. 674.- La parte interesada en la solución de un conflicto económico no resuelto por avenimiento directo solicitará la mediación de la Secretaría de Estado de Trabajo, mediante escrito fechado y firmado que exprese:
+
+				1o. Los nombres, domicilio y demás enunciaciones necesarias para la identificación de la parte interesada, incluso la fecha y número de su registro en el departamento de trabajo, si es una asociación laboral, así como los nombres, domicilio y demás enunciaciones necesarias para la identificación de la parte contraria;
+
+				2o. Las condiciones de trabajo cuya adopción o modificación pretenda obtener la parte interesada, y las razones en que base sus pretensiones;
+
+				3o. Los motivos que oponga la parte contraria para no aceptarlas.
+
+				El escrito debe ser acompañado de las copias necesarias para su comunicación a aquél o aquéllos respecto de quienes se solicite la intervención administrativa.
+
+				Art. 675.- En las cuarenta y ocho horas subsiguientes al depósito o recibo del escrito el secretario de Estado de Trabajo ordenará la consiguiente distribución de las copias recibidas con dicho escrito y designará como mediador a uno de los funcionarios o empleados de su dependencia u ofrecerá su propia mediación.
+
+				La designación de mediador será comunicada a las partes en el mismo término indicado en este artículo.
+
+					Art. 676.- El mediador, en las cuarenta y ocho horas de su designación citará a las partes por vía telegráfica para que estén presentes en el lugar, día y hora que señale, y una vez reunidas tratará de conciliarlas, actuando, para el efecto conforme a lo dispuesto en los artículos 581, 519 y 520.
+
+					Entre la fecha de la citación y la de su reunión con el mediador habrá no menos de tres días ni más de cinco.
+
+					Art. 677.- Salvo disposiciones contrarias del Secretario de Estado de Trabajo, la reunión debe tener lugar en uno de los locales de trabajo de las empresas que participen en el conflicto, o en uno de los lugares más próximos al centro de trabajo correspondiente, a juicio del mediador.
+
+					Art. 678.- En caso de conciliación, se redactará un acta en la cual se exprese lo convenido.
+
+					En caso contrario, o cuando la parte respecto de quien se ha promovido la intervención administrativa no comparece el mediador lo certificará a solicitud de la interesada.
+
+					Art. 679.- El mediador informará a la Secretaría de Estado de Trabajo, del resultado de su misión en los tres días subsiguientes al de la última reunión celebrada con las partes.
+
+					La no comparecencia sin causa justificada de una cualquiera de las partes, constituye una infracción.
+
+					En los casos de inasistencia de una de las partes legalmente citadas, el mediador levantará acta de infracción conforme a lo establecido en el artículo 439 del Código de Trabajo, debiendo canalizarla al tribunal represivo competente, a través del Director de Mediación, Conciliación y Arbitraje.
 
 					CAPÍTULO II: DEL ARBITRAJE
 
 					SECCIÓN PRIMERA: DE LA DESIGNACIÓN DE LOS ÁRBITROS
 
-					\nArt. 680.- Las partes designarán tres árbitros para la solución de todo conflicto económico no resuelto conciliatoriamente. En los casos de conflictos que afecten un servicio esencial, se presume que las partes delegan la facultad de designación de árbitros en el presidente de la corte de trabajo del lugar donde se ha suscitado el conflicto, cuando no la ejerzan por si misma dentro de los tres días subsiguientes al de su última reunión con el mediador, o cuando no declaran en igual término la designación que han hecho ante el Departamento de Trabajo o en la oficina del representante local. \nArt. 681.- Para actuar como árbitro se requiere ser ciudadano dominicano, mayor de edad y saber leer y escribir. En los casos previstos en el artículo 680, dos de los árbitros serán seleccionados de las nóminas de vocales mencionados en el artículo 468 en la forma indicada para la constitución de la corte de trabajo, y el tercero entre los jueces de dicha corte. \nArt. 682.- El presidente de la corte, en el caso de delegación, designará los árbitros y hará notificar los nombres de éstos a las partes en las cuarenta y ocho horas de solicitarlo la más diligente. La parte que dirija la solicitud depositará, con su escrito, certificaciones que comprueben que no ha habido conciliación administrativa y que no se ha hecho o declarado oportunamente la designación de árbitros. \nArt. 683.- Si se ha producido la huelga o el paro, previo cumplimiento de lo dispuesto por el artículo 407 el presidente de la corte, dentro de las veinticuatro horas de habérsele solici tado, o en los cinco días de haber conocido la existencia de la huelga o del paro, ordenará mediante auto: 1o. La reanudación de los trabajos dentro de los cuatro días; 2o. La citación de las partes ante la corte, para que ésta proceda a la calificación de la huelga o del paro. Cuando el presidente actúe en virtud de solicitud, ésta deberá acompañarse de prueba de que la parte que ha declarado la huelga o el paro ha cumplido lo prescrito por el artículo 407. \nArt. 684.- La notificación del auto indicado en el artículo la hará el secretario de la corte dentro de las cuarenta y ocho horas de su fecha y valdrá citación para la audiencia fijada en el mismo. Entre la fecha de la notificación mencionada en este artículo y la de la audiencia, mediará no menos de un día franco. \nArt. 685.- El presidente de la corte designará los árbitros y hará notificar los nombres de éstos a las partes, dentro de las cuarenta y ocho horas de habérsele notificado la sentencia de la corte que haya calificado la huelga o el paro. \nArt. 686.- Las disposiciones de este Código relativas a la recusación de los jueces y vocales de las cortes de trabajo, son comunes a la recusación de los árbitros. La sustitución de los árbitros recusados se hará conforme a lo dispuesto para su designación. El término para la sustitución comenzará a contar desde la notificación de la sentencia que admite la recusación.
+					Art. 680.- Las partes designarán tres árbitros para la solución de todo conflicto económico no resuelto conciliatoriamente.
+
+					En los casos de conflictos que afecten un servicio esencial, se presume que las partes delegan la facultad de designación de árbitros en el presidente de la corte de trabajo del lugar donde se ha suscitado el conflicto, cuando no la ejerzan por si misma dentro de los tres días subsiguientes al de su última reunión con el mediador, o cuando no declaran en igual término la designación que han hecho ante el Departamento de Trabajo o en la oficina del representante local.
+
+					Art. 681.- Para actuar como árbitro se requiere ser ciudadano dominicano, mayor de edad y saber leer y escribir.
+
+					En los casos previstos en el artículo 680, dos de los árbitros serán seleccionados de las nóminas de vocales mencionados en el artículo 468 en la forma indicada para la constitución de la corte de trabajo, y el tercero entre los jueces de dicha corte.
+
+					Art. 682.- El presidente de la corte, en el caso de delegación, designará los árbitros y hará notificar los nombres de éstos a las partes en las cuarenta y ocho horas de solicitarlo la más diligente.
+
+					La parte que dirija la solicitud depositará, con su escrito, certificaciones que comprueben que no ha habido conciliación administrativa y que no se ha hecho o declarado oportunamente la designación de árbitros.
+
+					Art. 683.- Si se ha producido la huelga o el paro, previo cumplimiento de lo dispuesto por el artículo 407 el presidente de la corte, dentro de las veinticuatro horas de habérsele solicitado, o en los cinco días de haber conocido la existencia de la huelga o del paro, ordenará mediante auto:
+
+					1o. La reanudación de los trabajos dentro de los cuatro días;
+
+					2o. La citación de las partes ante la corte, para que ésta proceda a la calificación de la huelga o del paro.
+
+					Cuando el presidente actúe en virtud de solicitud, ésta deberá acompañarse de prueba de que la parte que ha declarado la huelga o el paro ha cumplido lo prescrito por el artículo 407.
+
+					Art. 684.- La notificación del auto indicado en el artículo la hará el secretario de la corte dentro de las cuarenta y ocho horas de su fecha y valdrá citación para la audiencia fijada en el mismo.
+
+					Entre la fecha de la notificación mencionada en este artículo y la de la audiencia, mediará no menos de un día franco.
+
+					Art. 685.- El presidente de la corte designará los árbitros y hará notificar los nombres de éstos a las partes, dentro de las cuarenta y ocho horas de habérsele notificado la sentencia de la corte que haya calificado la huelga o el paro.
+
+					Art. 686.- Las disposiciones de este Código relativas a la recusación de los jueces y vocales de las cortes de trabajo, son comunes a la recusación de los árbitros.
+
+					La sustitución de los árbitros recusados se hará conforme a lo dispuesto para su designación.
+
+					El término para la sustitución comenzará a contar desde la notificación de la sentencia que admite la recusación.
 
 					SECCIÓN SEGUNDA: DEL PROCEDIMIENTO PRELIMINAR
 
-					\nArt. 687.- Las partes entregarán a los árbitros sendos memoriales de sus respectivas pretensiones en los tres días de su designación, si ha sido hecha por ellos, o en los que subsigan a la notificación prescrita por el artículo 682, si ha sido delegada. Los memoriales, firmados por las partes, indicarán los respectivos domicilios elegidos por éstas en el lugar donde funcione la corte de trabajo. \nArt. 688.- En las cuarenta y ocho horas que subsigan a la entrega de los memoriales o al vencimiento del término fijado para hacerlo, los árbitros citarán a las partes para que comparezcan en día y hora por ellos señalados. Entre las fechas de la citación y la de la comparecencia medirá un término no menor de cuarenta y ocho horas. Salvo disposición contraria de los árbitros, la discusión tendrá lugar en el local utilizado por el mediador para el intento de conciliación.
+					Art. 687.- Las partes entregarán a los árbitros sendos memoriales de sus respectivas pretensiones en los tres días de su designación, si ha sido hecha por ellos, o en los que subsigan a la notificación prescrita por el artículo 682, si ha sido delegada.
+
+					Los memoriales, firmados por las partes, indicarán los respectivos domicilios elegidos por éstas en el lugar donde funcione la corte de trabajo.
+
+					Art. 688.- En las cuarenta y ocho horas que subsigan a la entrega de los memoriales o al vencimiento del término fijado para hacerlo, los árbitros citarán a las partes para que comparezcan en día y hora por ellos señalados.
+
+					Entre las fechas de la citación y la de la comparecencia medirá un término no menor de cuarenta y ocho horas.
+
+					Salvo disposición contraria de los árbitros, la discusión tendrá lugar en el local utilizado por el mediador para el intento de conciliación.
 
 					SECCIÓN TERCERA: DE LA DISCUSIÓN DEL CONFLICTO
 
-					\nArt. 689.- El día y horas señalados para la comparecencia, los árbitros tratarán de conciliar a las partes usando de los medios que aconsejen la prudencia, el buen juicio y la equidad. En caso de conciliación, se procederá de acuerdo con lo que establece el artículo 678. En caso contrario, los árbitros invitarán a las partes a exponer y discutir sus respectivas pretensiones. \nArt. 690.- Los árbitros pueden pedir a las partes las explicaciones y aclaraciones que sean del caso con relación a las afirmaciones hechas por ellas.
+					Art. 689.- El día y horas señalados para la comparecencia, los árbitros tratarán de conciliar a las partes usando de los medios que aconsejen la prudencia, el buen juicio y la equidad.
+
+					En caso de conciliación, se procederá de acuerdo con lo que establece el artículo 678.
+
+					En caso contrario, los árbitros invitarán a las partes a exponer y discutir sus respectivas pretensiones.
+
+					Art. 690.- Los árbitros pueden pedir a las partes las explicaciones y aclaraciones que sean del caso con relación a las afirmaciones hechas por ellas.
 
 					SECCIÓN CUARTA: DE LA INVESTIGACIÓN DEL CASO
 
-					\nArt. 691.- Los árbitros, después de oír a las partes, practicarán una investigación del caso, para lo cual podrán asesorarse de dos comisiones, una de empleadores y otra de trabajadores, iguales en el número de sus componentes. Cuando el caso lo requiera, podrán disponer que la investigación la practiquen tres consultores técnicos designados por ellos. \nArt. 692.- La investigación tendrá como objetivo el estudio completo del conflicto planteado, de sus causas y circunstancias, de las condiciones de las empresas afectadas y de las del trabajo que en ellas se realiza así como de cuantos hechos puedan facilitar una solución de equidad que armonice los intereses en pugna y no sea contraria al interés social. Tanto los árbitros como los consultores técnicos que practiquen una investigación, estarán investidos de las facultades que concede el artículo 434 a los inspectores de trabajo, y sometidos a lo dispuesto en el artículo 437 en cuanto a las informaciones que obtengan en sus diligencias. \nArt. 693.- El término de la investigación no excederá en ningún caso de diez días. Los árbitros redactarán, dentro de dichos términos, un pliego en el cual expondrán el resultado obtenido y propondrán a las partes la solución que consideren más apropiada para poner fin al conflicto y prevenir su repetición. Cuando actúan consultores técnicos, éstos sugerirán la solución en el informe que redacten para los árbitros. \nArt. 694.- Los árbitros invitarán a las partes a tomar conocimiento del resultado de la investigación y de la solución propuesta o sugerida, para que aduzcan sus observaciones en una audiencia final que deberá celebrarse entre el tercero y el quinto día a contar de la fecha de la invitación. La invitación deberá ser diligenciada en la misma fecha de la redacción del pliego o en las veinticuatro horas de la producción del informe, y en ella se señalarán lugares, día y hora para la audiencia final.
+					Art. 691.- Los árbitros, después de oír a las partes, practicarán una investigación del caso, para lo cual podrán asesorarse de dos comisiones, una de empleadores y otra de trabajadores, iguales en el número de sus componentes.
+
+					Cuando el caso lo requiera, podrán disponer que la investigación la practiquen tres consultores técnicos designados por ellos.
+
+					Art. 692.- La investigación tendrá como objetivo el estudio completo del conflicto planteado, de sus causas y circunstancias, de las condiciones de las empresas afectadas y de las del trabajo que en ellas se realiza así como de cuantos hechos puedan facilitar una solución de equidad que armonice los intereses en pugna y no sea contraria al interés social.
+
+					Tanto los árbitros como los consultores técnicos que practiquen una investigación, estarán investidos de las facultades que concede el artículo 434 a los inspectores de trabajo, y sometidos a lo dispuesto en el artículo 437 en cuanto a las informaciones que obtengan en sus diligencias.
+
+					Art. 693.- El término de la investigación no excederá en ningún caso de diez días.
+
+					Los árbitros redactarán, dentro de dichos términos, un pliego en el cual expondrán el resultado obtenido y propondrán a las partes la solución que consideren más apropiada para poner fin al conflicto y prevenir su repetición.
+
+					Cuando actúan consultores técnicos, éstos sugerirán la solución en el informe que redacten para los árbitros.
+
+					Art. 694.- Los árbitros invitarán a las partes a tomar conocimiento del resultado de la investigación y de la solución propuesta o sugerida, para que aduzcan sus observaciones en una audiencia final que deberá celebrarse entre el tercero y el quinto día a contar de la fecha de la invitación.
+
+					La invitación deberá ser diligenciada en la misma fecha de la redacción del pliego o en las veinticuatro horas de la producción del informe, y en ella se señalarán lugares, día y hora para la audiencia final.
 
 					SECCIÓN QUINTA: DE LA AUDIENCIA FINAL
 
-					\nArt. 695.- El día y hora fijados las partes expondrán y discutirán sus observaciones al pliego redactado por los árbitros o al informe de los consultores técnicos. Los árbitros podrán pedirles cuantas aclaraciones o datos consideren pertinentes después de haberlas oído en sus observaciones y en la discusión de éstas. No podrá ordenarse ninguna investigación suplementaria, salvo cuando sea solicitada por acuerdo de las partes.
+					Art. 695.- El día y hora fijados las partes expondrán y discutirán sus observaciones al pliego redactado por los árbitros o al informe de los consultores técnicos.
+
+					Los árbitros podrán pedirles cuantas aclaraciones o datos consideren pertinentes después de haberlas oído en sus observaciones y en la discusión de éstas.
+
+					No podrá ordenarse ninguna investigación suplementaria, salvo cuando sea solicitada por acuerdo de las partes.
 
 					SECCIÓN SEXTA: DEL LAUDO
 
-					\nArt. 696.- Los árbitros decidirán el conflicto en los ocho días subsiguientes a la audiencia o en los que subsigan a la investigación suplementaria, en el caso de que ésta sea ordenada. \nArt. 697.- Cuando las partes acepten sin observaciones la solución propuesta en el pliego o insinuada en el informe, los árbitros la consagrarán en la parte dispositiva del laudo. \nArt. 698.- Todo laudo arbitral se hará ejecutivo por auto del presidente del juzgado de trabajo de la jurisdicción en que esté radicada la empresa. Para este efecto, la minuta del laudo será depositada por uno de los árbitros, dentro de las veinticuatro horas de su pronunciamiento, en la secretaría del tribunal. El laudo arbitral no está sujeto a ningún recurso. \nArt. 699.- El laudo produce los efectos de un convenio colectivo de condiciones de trabajo cuando resuelve un conflicto económico. Independientemente de otras enunciaciones que sean de lugar en cada caso, el laudo dispondrá lo que proceda sobre los salarios de los trabajadores durante la suspensión de las labores cuando en el curso del conflicto haya habido huelga o paro. \nArt. 700.- Se declaran comunes al procedimiento reglamentado en este título, las disposiciones de los artículos 486 a 500, ambos inclusive, en todo aquello que puedan ser aplicables.
+					Art. 696.- Los árbitros decidirán el conflicto en los ocho días subsiguientes a la audiencia o en los que subsigan a la investigación suplementaria, en el caso de que ésta sea ordenada.
+
+					Art. 697.- Cuando las partes acepten sin observaciones la solución propuesta en el pliego o insinuada en el informe, los árbitros la consagrarán en la parte dispositiva del laudo.
+
+					Art. 698.- Todo laudo arbitral se hará ejecutivo por auto del presidente del juzgado de trabajo de la jurisdicción en que esté radicada la empresa. Para este efecto, la minuta del laudo será depositada por uno de los árbitros, dentro de las veinticuatro horas de su pronunciamiento, en la secretaría del tribunal.
+
+					El laudo arbitral no está sujeto a ningún recurso.
+
+					Art. 699.- El laudo produce los efectos de un convenio colectivo de condiciones de trabajo cuando resuelve un conflicto económico.
+
+					Independientemente de otras enunciaciones que sean de lugar en cada caso, el laudo dispondrá lo que proceda sobre los salarios de los trabajadores durante la suspensión de las labores cuando en el curso del conflicto haya habido huelga o paro.
+
+					Art. 700.- Se declaran comunes al procedimiento reglamentado en este título, las disposiciones de los artículos 486 a 500, ambos inclusive, en todo aquello que puedan ser aplicables.
 					`,
 			},
 			{
 				title: 'TÍTULO XI: DE LA PRESCRIPCIÓN DE LAS ACCIONES',
 				content:
-					'\nArt. 701.- Las acciones en pago de horas extraordinarias de trabajo prescriben en el término de un mes. \nArt. 702.- Prescriben en el término de dos meses: 1o. Las acciones por causa de despido o dimisión; 2o. Las acciones en pago de las cantidades correspondientes al desahucio y al auxilio de cesantía. \nArt. 703.- Las demás acciones, contractuales o no contractuales, derivadas de las relaciones entre empleadores y trabajadores y las acciones entre trabajadores, prescriben en el término de tres meses. \nArt. 704.- El término señalado para la prescripción comienza en cualquier caso un día después de la terminación del contrato, sin que en ningún caso puedan reclamarse derechos nacidos con anterioridad al año de haberse terminado el contrato. \nArt. 705.- Se aplican a la presente materia las causas de interrupción del derecho común. ',
+					`Art. 701.- Las acciones en pago de horas extraordinarias de trabajo prescriben en el término de un mes.
+
+					Art. 702.- Prescriben en el término de dos meses:
+
+					1o. Las acciones por causa de despido o dimisión;
+
+					2o. Las acciones en pago de las cantidades correspondientes al desahucio y al auxilio de cesantía.
+
+					Art. 703.- Las demás acciones, contractuales o no contractuales, derivadas de las relaciones entre empleadores y trabajadores y las acciones entre trabajadores, prescriben en el término de tres meses.
+
+					Art. 704.- El término señalado para la prescripción comienza en cualquier caso un día después de la terminación del contrato, sin que en ningún caso puedan reclamarse derechos nacidos con anterioridad al año de haberse terminado el contrato.
+
+					Art. 705.- Se aplican a la presente materia las causas de interrupción del derecho común. `,
 			},
 			{
 				title:
 					'TÍTULO XII: DE LA APLICACIÓN DEL DERECHO COMÚN EN MATERIA DE ORGANIZACIÓN JUDICIAL, COMPETENCIA Y PROCEDIMIENTO',
 				content:
-					'\nArt. 706.- Son comunes a los tribunales de trabajo, en cuanto sean compatibles con la organización y competencia de éstos, las disposiciones de los artículos del 1 al 10, 14 al 20 y 24 al 26, todos inclusive, de la ley de Organización Judicial, así como las de los capítulos III, IV, VI, X, XX, XXII y XXIII de la misma ley, con las modalidades que se especifiquen a continuación: Habrá un juzgado de trabajo en el Distrito Nacional, dividido en seis salas y un juzgado de trabajo en el Distrito Judicial de Santiago dividido en dos salas. Cada sala está presidida por un juez que impartirá justicia conforme a las disposiciones de éste Código. El juzgado de trabajo tendrá un juez presidente cuyas atribuciones, además de las previstas en otras disposiciones de este código, son: 1o. Asignar las demandas, rotativas y cronológicamente, a cada sala del juzgado; 2o. Ejercer las funciones administrativas propias del juzgado; 3o. Conocer de las ejecuciones de las sentencias; 4o. Suplir las ausencias temporales de cualquier juez presidente de sala del juzgado de trabajo5o. Mantener la vigilancia necesaria para que los jueces presidentes cumplan con las obligaciones que les correspondan. Habrá una corte de trabajo en el Distrito Nacional con dos salas y una corte de trabajo en el Departamento Judicial de Santiago. Las disposiciones del párrafo precedente relativas al presidente del juzgado de trabajo y los jueces presidentes de salas, se declaran comunes al presidente de la corte y a los jueces presidentes de las salas de la Corte de Trabajo del Distrito Nacional. \nArt. 707.- Son asimismo comunes a los tribunales de trabajo, en las circunstancias señaladas en el artículo 706, las disposiciones del Código de Procedimiento Civil relativas a la verificación de escritura; la falsedad como incidente civil; la designación de jueces; la declinatoria por causa de parentesco o afinidad; las acciones en responsabilidad civil contra los jueces y la liquidación de daños y perjuicios. \nArt. 708.- Se aplican a los tribunales de trabajo con carácter supletorio, las disposiciones del Código de Procedimiento Civil sobre las audiencias, su publicidad y policía y las disposiciones generales establecidas en el Título Único de la segunda parte de dicho Código. \nArt. 709.- En las materias enumeradas en los artículos y 707, los procedimientos se adoptarán a la organización y competencia de los tribunales de trabajo y al propósito de celeridad tenido en cuenta al reglamentar el procedimiento ante dichos tribunales. \nArt. 710.- De toda sentencia sobre falsedad incidental se remitirá copia al Procurador General de la República en los tres días que subsigan al de su pronunciamiento. En ningún caso bastará lo decidido por los tribunales de Trabajo, en la materia mencionada en el presente artículo, para la persecución y juicio de carácter penal que pueda ser procedente. \nArt. 711.- Compete a los tribunales ordinarios el conocimiento de las infracciones penales previstas en este Código. En los casos de infracciones conexas a litigios en curso ante los tribunales de trabajo, la acción pública queda sobreseída hasta que dichos tribunales decidan definitivamente. La disposición que antecede es aplicable a los casos de conflictos económicos sometidos a conciliación y arbitraje. Las persecuciones y procedimientos penales en curso ante los tribunales ordinarios quedarán sobreseídos al iniciarse cualquier demanda ante los tribunales de trabajo o al promoverse cualquier conflicto económico, que deban ser resueltos de acuerdo con las disposiciones del Libro Séptimo del presente Código, hasta que recaiga la solución definitiva. ',
+					`Art. 706.- Son comunes a los tribunales de trabajo, en cuanto sean compatibles con la organización y competencia de éstos, las disposiciones de los artículos del 1 al 10, 14 al 20 y 24 al 26, todos inclusive, de la ley de Organización Judicial, así como las de los capítulos III, IV, VI, X, XX, XXII y XXIII de la misma ley, con las modalidades que se especifiquen a continuación:
+
+					Habrá un juzgado de trabajo en el Distrito Nacional, dividido en seis salas y un juzgado de trabajo en el Distrito Judicial de Santiago dividido en dos salas.
+
+					Cada sala está presidida por un juez que impartirá justicia conforme a las disposiciones de éste Código.
+
+					El juzgado de trabajo tendrá un juez presidente cuyas atribuciones, además de las previstas en otras disposiciones de este código, son:
+
+					1o. Asignar las demandas, rotativas y cronológicamente, a cada sala del juzgado;
+
+					2o. Ejercer las funciones administrativas propias del juzgado;
+
+					3o. Conocer de las ejecuciones de las sentencias;
+
+					4o. Suplir las ausencias temporales de cualquier juez presidente de sala del juzgado de trabajo
+
+					5o. Mantener la vigilancia necesaria para que los jueces presidentes cumplan con las obligaciones que les correspondan.
+
+					Habrá una corte de trabajo en el Distrito Nacional con dos salas y una corte de trabajo en el Departamento Judicial de Santiago.
+
+					Las disposiciones del párrafo precedente relativas al presidente del juzgado de trabajo y los jueces presidentes de salas, se declaran comunes al presidente de la corte y a los jueces presidentes de las salas de la Corte de Trabajo del Distrito Nacional.
+
+					Art. 707.- Son asimismo comunes a los tribunales de trabajo, en las circunstancias señaladas en el artículo 706, las disposiciones del Código de Procedimiento Civil relativas a la verificación de escritura; la falsedad como incidente civil; la designación de jueces; la declinatoria por causa de parentesco o afinidad; las acciones en responsabilidad civil contra los jueces y la liquidación de daños y perjuicios.
+
+					Art. 708.- Se aplican a los tribunales de trabajo con carácter supletorio, las disposiciones del Código de Procedimiento Civil sobre las audiencias, su publicidad y policía y las disposiciones generales establecidas en el Título Único de la segunda parte de dicho Código.
+
+					Art. 709.- En las materias enumeradas en los artículos y 707, los procedimientos se adoptarán a la organización y competencia de los tribunales de trabajo y al propósito de celeridad tenido en cuenta al reglamentar el procedimiento ante dichos tribunales.
+
+					Art. 710.- De toda sentencia sobre falsedad incidental se remitirá copia al Procurador General de la República en los tres días que subsigan al de su pronunciamiento.
+
+					En ningún caso bastará lo decidido por los tribunales de Trabajo, en la materia mencionada en el presente artículo, para la persecución y juicio de carácter penal que pueda ser procedente.
+
+					Art. 711.- Compete a los tribunales ordinarios el conocimiento de las infracciones penales previstas en este Código.
+
+					En los casos de infracciones conexas a litigios en curso ante los tribunales de trabajo, la acción pública queda sobreseída hasta que dichos tribunales decidan definitivamente.
+
+					La disposición que antecede es aplicable a los casos de conflictos económicos sometidos a conciliación y arbitraje.
+
+					Las persecuciones y procedimientos penales en curso ante los tribunales ordinarios quedarán sobreseídos al iniciarse cualquier demanda ante los tribunales de trabajo o al promoverse cualquier conflicto económico, que deban ser resueltos de acuerdo con las disposiciones del Libro Séptimo del presente Código, hasta que recaiga la solución definitiva. `,
 			},
 		],
 	},
@@ -2019,24 +3374,140 @@ Art. 102.- Si no se comprueba la justa causa invocada como fundamento de la dimi
 			{
 				title: 'TÍTULO I: DE LA RESPONSABILIDAD',
 				content:
-					'\nArt. 712.- Los empleadores, los trabajadores y los funcionarios y empleados de la Secretaría de Estado de Trabajo y de los tribunales de trabajo, son responsables civilmente de los actos que realicen en violación de las disposiciones de este Código, sin perjuicio de las sanciones penales o disciplinarias que les sean aplicables. El demandante queda liberado de la prueba del perjuicio. \nArt. 713.- La responsabilidad civil de las personas mencionadas en el artículo 712 está regida por el derecho civil, salvo disposición contraria del presente Código. Compete a los tribunales de trabajo conocer de las acciones de esta especie cuando sean promovidas contra empleadores, trabajadores o empleados de dichos tribunales. Compete el conocimiento de ellas a los tribunales ordinarios cuando sean promovidas contra funcionarios o empleados de la Secretaría de Estado de Trabajo. ',
+					`Art. 712.- Los empleadores, los trabajadores y los funcionarios y empleados de la Secretaría de Estado de Trabajo y de los tribunales de trabajo, son responsables civilmente de los actos que realicen en violación de las disposiciones de este Código, sin perjuicio de las sanciones penales o disciplinarias que les sean aplicables.
+
+					El demandante queda liberado de la prueba del perjuicio.
+
+					Art. 713.- La responsabilidad civil de las personas mencionadas en el artículo 712 está regida por el derecho civil, salvo disposición contraria del presente Código.
+
+					Compete a los tribunales de trabajo conocer de las acciones de esta especie cuando sean promovidas contra empleadores, trabajadores o empleados de dichos tribunales.
+
+					Compete el conocimiento de ellas a los tribunales ordinarios cuando sean promovidas contra funcionarios o empleados de la Secretaría de Estado de Trabajo. `,
 			},
 			{
 				title: 'TÍTULO II: DE LAS SANCIONES',
 				content:
-					'\nArt. 714.- Las sanciones por violación de las disposiciones de este Código pueden ser penales o disciplinarias. Las sanciones penales se aplican a empleadores y trabajadores. Las sanciones disciplinarias se aplican a los funcionarios y empleados de la Secretaría de Estado de Trabajo y de los tribunales de trabajo. \nArt. 715.- La aplicación de las sanciones penales que establece este Código y los reglamentos dictados o que dictare el Poder Ejecutivo en materia de trabajo, está a cargo de los juzgados de paz. Se puede proseguir la acción civil al mismo tiempo y en los mismos juicios. Sus decisiones al respecto son siempre impugnables por la apelación. En el Distrito Nacional y en el Distrito Judicial de Santiago, el ministerio público será ejercido por un abogado al servicio de la Secretaría de Estado de Trabajo. \nArt. 716.- Están sujetas a sanciones disciplinarias las faltas cometidas en relación con la aplicación de este Código por funcionarios y empleados mencionados en el artículo siempre que concurran las circunstancias siguientes: 1o. Que la falta concierna a una actuación legal reglamentaria que deba ser realizada administrativamente; 2o. Que la actuación de que se trate esté encomendada al funcionario o empleado por disposición legal reglamentaria o de carácter interno; 3o. Que no haya causa justificativa en favor del funcionario o empleado. \nArt. 717.- Las sanciones disciplinarias contra los funcionarios y empleados de la Secretaría de Estado de Trabajo son aplicables por el secretario del ramo. Están sujetas a recurso ante el Presidente de la República. \nArt. 718.- Las sanciones disciplinarias contra los funcionarios y empleados de los tribunales de trabajo son aplicadas por los jueces presidentes de éstos. No están sujetas a ningún recurso. \nArt. 719.- Las sanciones disciplinarias son las siguientes: 1o. Amonestación en privado; 2o. Amonestación ante el personal; 3o. Multa que no puede ser mayor de veinticinco por ciento del sueldo mensual del funcionario o empleados;4o. Suspensión temporal del funcionario o empleado, sin disfrute de sueldo hasta por un mes; 5o. Destitución. Esta última sanción sólo puede imponerla el Presidente de la República. \nArt. 720.- Las violaciones sujetas a sanciones penales, se clasifican en: 1o. Leves: cuando se desconozcan obligaciones meramente formales o documentales que no incidan en la seguridad de la persona ni en las condiciones de trabajo; 2o. Graves: cuando se transgredan normas referentes a los salarios mínimos, a la protección del salario, al descanso semanal, a las horas extraordinarias o a todas aquellas relativas a la seguridad e higiene del trabajo, siempre que no pongan en peligro ni amenacen poner en peligro la vida, la salud o la seguridad de los trabajadores. En materia de los derechos colectivos se reputan como grave el incumplimiento a las obligaciones estipuladas en el convenio colectivo; 3o. Muy graves: cuando se violen las normas sobre protección a la maternidad, edad mínima para el trabajo, protección de menores, empleo de extranjeros, inscripción y pago de las cuotas al Instituto Dominicano de Seguros Sociales, y todas aquellas relativas a la seguridad e higiene del trabajo, siempre que de la violación se derive peligro o riesgo de peligro para la vida, la salud o la seguridad de los trabajadores. En materia de derechos colectivos, se reputa como muy grave, la comisión de prácticas desleales contrarias a la libertad sindical. \nArt. 721.- Las violaciones que figuran en el artículo 720, son sancionadas del modo siguiente: 1o. Las leves, con multas de uno a tres salarios mínimos; 2o. Las graves, con multas de tres a seis salarios mínimos; 3o. Las muy graves, con multas de siete a doce salarios mínimos. En caso de reincidencia, se aumentará el importe de la multa en un cincuenta por ciento de su valor. \nArt. 722.- Cuando el infractor sea una persona moral, la pena de prisión se aplicará a los administradores gerentes, representantes o personas que tengan la dirección de la empresa. \nArt. 723.- Las disposiciones del artículo 463 del Código Penal son aplicables en esta materia. \nArt. 724.- La acción pública para la persecución de las infracciones previstas en los artículos 720 y 721 prescribe al año. ',
+					`Art. 714.- Las sanciones por violación de las disposiciones de este Código pueden ser penales o disciplinarias.
+
+					Las sanciones penales se aplican a empleadores y trabajadores.
+
+					Las sanciones disciplinarias se aplican a los funcionarios y empleados de la Secretaría de Estado de Trabajo y de los tribunales de trabajo.
+
+					Art. 715.- La aplicación de las sanciones penales que establece este Código y los reglamentos dictados o que dictare el Poder Ejecutivo en materia de trabajo, está a cargo de los juzgados de paz.
+
+					Se puede proseguir la acción civil al mismo tiempo y en los mismos juicios.
+
+					Sus decisiones al respecto son siempre impugnables por la apelación.
+
+					En el Distrito Nacional y en el Distrito Judicial de Santiago, el ministerio público será ejercido por un abogado al servicio de la Secretaría de Estado de Trabajo.
+
+					Art. 716.- Están sujetas a sanciones disciplinarias las faltas cometidas en relación con la aplicación de este Código por funcionarios y empleados mencionados en el artículo siempre que concurran las circunstancias siguientes:
+
+					1o. Que la falta concierna a una actuación legal reglamentaria que deba ser realizada administrativamente;
+
+					2o. Que la actuación de que se trate esté encomendada al funcionario o empleado por disposición legal reglamentaria o de carácter interno;
+
+					3o. Que no haya causa justificativa en favor del funcionario o empleado.
+
+					Art. 717.- Las sanciones disciplinarias contra los funcionarios y empleados de la Secretaría de Estado de Trabajo son aplicables por el secretario del ramo.
+
+					Están sujetas a recurso ante el Presidente de la República.
+
+					Art. 718.- Las sanciones disciplinarias contra los funcionarios y empleados de los tribunales de trabajo son aplicadas por los jueces presidentes de éstos.
+
+					No están sujetas a ningún recurso.
+
+					Art. 719.- Las sanciones disciplinarias son las siguientes:
+
+					1o. Amonestación en privado;
+
+					2o. Amonestación ante el personal;
+
+					3o. Multa que no puede ser mayor de veinticinco por ciento del sueldo mensual del funcionario o empleados;
+
+					4o. Suspensión temporal del funcionario o empleado, sin disfrute de sueldo hasta por un mes;
+
+					5o. Destitución.
+
+					Esta última sanción sólo puede imponerla el Presidente de la República.
+
+					Art. 720.- Las violaciones sujetas a sanciones penales, se clasifican en:
+
+					1o. Leves: cuando se desconozcan obligaciones meramente formales o documentales que no incidan en la seguridad de la persona ni en las condiciones de trabajo;
+
+					2o. Graves: cuando se transgredan normas referentes a los salarios mínimos, a la protección del salario, al descanso semanal, a las horas extraordinarias o a todas aquellas relativas a la seguridad e higiene del trabajo, siempre que no pongan en peligro ni amenacen poner en peligro la vida, la salud o la seguridad de los trabajadores. En materia de los derechos colectivos se reputan como grave el incumplimiento a las obligaciones estipuladas en el convenio colectivo;
+
+					3o. Muy graves: cuando se violen las normas sobre protección a la maternidad, edad mínima para el trabajo, protección de menores, empleo de extranjeros, inscripción y pago de las cuotas al Instituto Dominicano de Seguros Sociales, y todas aquellas relativas a la seguridad e higiene del trabajo, siempre que de la violación se derive peligro o riesgo de peligro para la vida, la salud o la seguridad de los trabajadores. En materia de derechos colectivos, se reputa como muy grave, la comisión de prácticas desleales contrarias a la libertad sindical.
+
+					Art. 721.- Las violaciones que figuran en el artículo 720, son sancionadas del modo siguiente:
+
+					1o. Las leves, con multas de uno a tres salarios mínimos;
+
+					2o. Las graves, con multas de tres a seis salarios mínimos;
+
+					3o. Las muy graves, con multas de siete a doce salarios mínimos.
+
+					En caso de reincidencia, se aumentará el importe de la multa en un cincuenta por ciento de su valor.
+
+					Art. 722.- Cuando el infractor sea una persona moral, la pena de prisión se aplicará a los administradores gerentes, representantes o personas que tengan la dirección de la empresa.
+
+					Art. 723.- Las disposiciones del artículo 463 del Código Penal son aplicables en esta materia.
+
+					Art. 724.- La acción pública para la persecución de las infracciones previstas en los artículos 720 y 721 prescribe al año. `,
 			},
 		],
 	},
 	{
 		title: 'LIBRO NOVENO: DISPOSICIONES FINALES',
 		content:
-			'\nArt. 725.- El empleador es responsable civilmente de los daños sufridos por el trabajador como consecuencia de un accidente de trabajo. \nArt. 726.- Accidente de trabajo es toda lesión corporal, permanente o transitoria, que sufra el trabajador en ocasión de la labor que ejecuta o como consecuencia de ésta. \nArt. 727.- Para que exista la responsabilidad por causa de accidente de trabajo no es necesario que sea imputable al empleador culpa, negligencia o imprudencia. \nArt. 728.- Todas las materias relativas a los seguros sociales y a los accidentes de trabajo están regidas por leyes especiales. No obstante, se dispone que la no inscripción del trabajador por parte del empleador en el Instituto Dominicano de Seguros Sociales o la falta de pago de las contribuciones correspondientes, obliga a este último a rembolsar el salario completo correspondiente a la ausencia del trabajador, los gastos en que incurra por motivo de enfermedad o del accidente, o a cubrir la pensión no recibida a causa de falta del empleador. \nArt. 729.- Están liberados de impuestos y derechos de toda naturaleza: 1o. Los contratos, los convenios colectivos y los reglamentos de trabajo; 2o. Las actas constitutivas de sindicatos, federaciones y confederaciones; 3o. Las actas y documentos relacionados con el procedimiento administrativo y judicial en materia de trabajo. \nArt. 730.- Cuando en el procedimiento ante los tribunales de trabajo actúen abogados recibirán los honorarios a que tienen derecho conforme a la ley 302 de 1964, modificada por la ley 9588. \nArt. 731.- Se deroga toda norma o disposición legal que prohíba el embargo de los bienes del empleador en perjuicio de los créditos de los trabajadores que hayan sido reconocidos por una sentencia definitiva con autoridad de la cosa juzgada. \nArt. 732.- La presente ley deroga también las Leyes 637 del 16 de Junio de 1944; 5055 del 19 de Diciembre de 1958; del 9 de octubre de 1972; 5432 del 24 de Noviembre de 1960; 5915 de 1962; Leyes 495 del 27 de Octubre de 1960; 195 del de Diciembre de 1980; 288 del 23 de Marzo de 1972; 80 del de Noviembre de 1979; 56 del 24 de Noviembre de 1965; del 17 de septiembre de 1955; 207 del 30 de Abril de 1984; 4667 del 12 de Abril de 1957; 95 del 17 de Septiembre de 1963; 4468 del 3 de Julio de 1956; 338 del 29 de Mayo de 1972; del 8 de Abril de 1961; 3229 del 8 de Marzo de 1952; 6069 del 6 de Octubre de 1962; 5360 del 16 de Mayo de 1960; 271 del 27 de Mayo de 1964; 4768 del 21 de Septiembre de 1957; del 5 de Diciembre de 1964; 80 del 5 de Diciembre de 1963; 664 del 12 de Marzo de 1965; 695 del 5 de Abril de 1965; del 13 de Mayo de 1964; 709 del 21 de Abril de 1965; 5360 del 9 de Mayo de 1960; 6028 del 10 de Septiembre de 1962; del 6 de Junio de 1958; 5475 del 20 de Enero de 1961; y la Ley 2920, Código de Trabajo, del 11 de Junio de 1951, y cualquier otra disposición legal que sea contraria al presente Código de Trabajo. \nArt. 733.- La presente ley modifica en cuanto sea necesario, las siguientes leyes: 1226 del 15 de Diciembre de 1936; del 22 de Junio de 1949; el Reglamento 7676 del 6 de Octubre de 1951; ley 3143 del 11 de Diciembre de 1951; 3743 del 20 de Enero de 1954; 4099 del 15 de Abril de 1955; 4123 del 23 de Abril de 1955; Reglamento 1480 del 9 de Febrero de 1956; Ley 5235 del 25 de Octubre de 1959; Reglamento 6293 del 24 de Diciembre de 1960; Ley 567 del 13 de Junio de 1970. ',
+			`Art. 725.- El empleador es responsable civilmente de los daños sufridos por el trabajador como consecuencia de un accidente de trabajo.
+
+			Art. 726.- Accidente de trabajo es toda lesión corporal, permanente o transitoria, que sufra el trabajador en ocasión de la labor que ejecuta o como consecuencia de ésta.
+
+			Art. 727.- Para que exista la responsabilidad por causa de accidente de trabajo no es necesario que sea imputable al empleador culpa, negligencia o imprudencia.
+
+			Art. 728.- Todas las materias relativas a los seguros sociales y a los accidentes de trabajo están regidas por leyes especiales. No obstante, se dispone que la no inscripción del trabajador por parte del empleador en el Instituto Dominicano de Seguros Sociales o la falta de pago de las contribuciones correspondientes, obliga a este último a rembolsar el salario completo correspondiente a la ausencia del trabajador, los gastos en que incurra por motivo de enfermedad o del accidente, o a cubrir la pensión no recibida a causa de falta del empleador.
+
+			Art. 729.- Están liberados de impuestos y derechos de toda naturaleza:
+
+			1o. Los contratos, los convenios colectivos y los reglamentos de trabajo;
+
+			2o. Las actas constitutivas de sindicatos, federaciones y confederaciones;
+
+			3o. Las actas y documentos relacionados con el procedimiento administrativo y judicial en materia de trabajo.
+
+			Art. 730.- Cuando en el procedimiento ante los tribunales de trabajo actúen abogados recibirán los honorarios a que tienen derecho conforme a la ley 302 de 1964, modificada por la ley 9588.
+
+			Art. 731.- Se deroga toda norma o disposición legal que prohíba el embargo de los bienes del empleador en perjuicio de los créditos de los trabajadores que hayan sido reconocidos por una sentencia definitiva con autoridad de la cosa juzgada.
+
+			Art. 732.- La presente ley deroga también las Leyes 637 del 16 de Junio de 1944; 5055 del 19 de Diciembre de 1958; del 9 de octubre de 1972; 5432 del 24 de Noviembre de 1960; 5915 de 1962; Leyes 495 del 27 de Octubre de 1960; 195 del de Diciembre de 1980; 288 del 23 de Marzo de 1972; 80 del de Noviembre de 1979; 56 del 24 de Noviembre de 1965; del 17 de septiembre de 1955; 207 del 30 de Abril de 1984; 4667 del 12 de Abril de 1957; 95 del 17 de Septiembre de 1963; 4468 del 3 de Julio de 1956; 338 del 29 de Mayo de 1972; del 8 de Abril de 1961; 3229 del 8 de Marzo de 1952; 6069 del 6 de Octubre de 1962; 5360 del 16 de Mayo de 1960; 271 del 27 de Mayo de 1964; 4768 del 21 de Septiembre de 1957; del 5 de Diciembre de 1964; 80 del 5 de Diciembre de 1963; 664 del 12 de Marzo de 1965; 695 del 5 de Abril de 1965; del 13 de Mayo de 1964; 709 del 21 de Abril de 1965; 5360 del 9 de Mayo de 1960; 6028 del 10 de Septiembre de 1962; del 6 de Junio de 1958; 5475 del 20 de Enero de 1961; y la Ley 2920, Código de Trabajo, del 11 de Junio de 1951, y cualquier otra disposición legal que sea contraria al presente Código de Trabajo.
+
+			Art. 733.- La presente ley modifica en cuanto sea necesario, las siguientes leyes: 1226 del 15 de Diciembre de 1936; del 22 de Junio de 1949; el Reglamento 7676 del 6 de Octubre de 1951; ley 3143 del 11 de Diciembre de 1951; 3743 del 20 de Enero de 1954; 4099 del 15 de Abril de 1955; 4123 del 23 de Abril de 1955; Reglamento 1480 del 9 de Febrero de 1956; Ley 5235 del 25 de Octubre de 1959; Reglamento 6293 del 24 de Diciembre de 1960; Ley 567 del 13 de Junio de 1970. `,
 		subsections: [
 			{
 				title: 'DISPOSICIONES TRANSITORIAS',
 				content:
-					'\nArt. 734.- Los actuales funcionarios de la Secretaría de Estado de Trabajo que no reúnan las condiciones previstas en el Código para el ejercicio de sus funciones continuarán al frente de las mismas hasta que sean jubilados o destituidos por el Poder Ejecutivo. \nArt. 735.- Las prescripciones y caducidades que estén en curso al entrar en vigor el presente Código seguirán rigiéndose por las leyes derogadas en lo relativo a la computación de los plazos señalados en éstas. \nArt. 736.- Mientras no se construyan locales propios para la Corte de Trabajo y el Juzgado de Trabajo del Distrito Nacional estos Tribunales funcionarán administrativamente en los locales que actualmente ocupan el Juzgado de Paz de Trabajo y la Cámara de Trabajo del Juzgado de Primera Instancia del Distrito Nacional, pero celebrarán sus audiencias en horas de la tarde y la noche en los salones de audiencia que se indican a continuación: La Primera, Segunda, Tercera, Cuarta, Quinta y Sexta Sala del Juzgado de Trabajo: en las salas de audiencia de la Primera, Segunda, Tercera, Cuarta, Quinta y Sexta Cámaras de lo Penal del Juzgado de Primera Instancia del Distrito Nacional, respectivamente. La Primera y la Segunda Sala de la Corte de Trabajo del Distrito Nacional, en las salas de audiencias de la Séptima y Octava Cámara Penal del Juzgado de Primera Instancia del Distrito Nacional. Los presidentes de la Corte de Trabajo y del Juzgado de Trabajo del Distrito Nacional celebrarán sus audiencias en los locales que ocupan actualmente en el Distrito Nacional los tribunales de trabajo de primer y segundo grado. En el Distrito Judicial de Santiago habrá tantas salas del Juzgado de Trabajo como Cámaras Civiles y Comerciales existan dentro del Juzgado de Primera Instancia y celebrarán sus audiencias, en horas de la tarde y de la noche, en los salones de audiencias del Juzgado de Primera Instancia de dicho Distrito Judicial. La corte de Trabajo laborará en horas de la tarde y la noche en los salones de la Corte de Apelación. Mientras no se construyan los locales propios para dichos tribunales de primero y segundo grado estos tribunales funcionarán administrativamente en locales habilitados para estos fines. \nArt. 737.- Los tribunales de trabajo previstos en el presente Código funcionarán a partir del primero de Enero de 1993. Hasta esta fecha los tribunales que actualmente conocen de los conflictos de trabajo en el Distrito Nacional y en el municipio de Santiago actuarán como juzgados y cortes de trabajo y aplicarán los procedimientos y tendrán las atribuciones establecidas en este Código. En el resto del país, los juzgados de primera instancia y las cortes de apelación con las demarcaciones establecidas en la Ley de Organización Judicial y sus modificaciones, actuarán como tribunales de trabajo de primer y segundo grado conforme a los procedimientos y atribuciones previstos en el presente Código. \nArt. 738.- La reglamentación de la garantía establecida en los artículos 465 y 466 serán fijadas en forma tripartita y consensual entre el Estado, los empleadores y los trabajadores. ',
+					`Art. 734.- Los actuales funcionarios de la Secretaría de Estado de Trabajo que no reúnan las condiciones previstas en el Código para el ejercicio de sus funciones continuarán al frente de las mismas hasta que sean jubilados o destituidos por el Poder Ejecutivo.
+
+					Art. 735.- Las prescripciones y caducidades que estén en curso al entrar en vigor el presente Código seguirán rigiéndose por las leyes derogadas en lo relativo a la computación de los plazos señalados en éstas.
+
+					Art. 736.- Mientras no se construyan locales propios para la Corte de Trabajo y el Juzgado de Trabajo del Distrito Nacional estos Tribunales funcionarán administrativamente en los locales que actualmente ocupan el Juzgado de Paz de Trabajo y la Cámara de Trabajo del Juzgado de Primera Instancia del Distrito Nacional, pero celebrarán sus audiencias en horas de la tarde y la noche en los salones de audiencia que se indican a continuación:
+
+					La Primera, Segunda, Tercera, Cuarta, Quinta y Sexta Sala del Juzgado de Trabajo: en las salas de audiencia de la Primera, Segunda, Tercera, Cuarta, Quinta y Sexta Cámaras de lo Penal del Juzgado de Primera Instancia del Distrito Nacional, respectivamente.
+
+					La Primera y la Segunda Sala de la Corte de Trabajo del Distrito Nacional, en las salas de audiencias de la Séptima y Octava Cámara Penal del Juzgado de Primera Instancia del Distrito Nacional.
+
+					Los presidentes de la Corte de Trabajo y del Juzgado de Trabajo del Distrito Nacional celebrarán sus audiencias en los locales que ocupan actualmente en el Distrito Nacional los tribunales de trabajo de primer y segundo grado.
+
+					En el Distrito Judicial de Santiago habrá tantas salas del Juzgado de Trabajo como Cámaras Civiles y Comerciales existan dentro del Juzgado de Primera Instancia y celebrarán sus audiencias, en horas de la tarde y de la noche, en los salones de audiencias del Juzgado de Primera Instancia de dicho Distrito Judicial. La corte de Trabajo laborará en horas de la tarde y la noche en los salones de la Corte de Apelación.
+
+					Mientras no se construyan los locales propios para dichos tribunales de primero y segundo grado estos tribunales funcionarán administrativamente en locales habilitados para estos fines.
+
+					Art. 737.- Los tribunales de trabajo previstos en el presente Código funcionarán a partir del primero de Enero de 1993. Hasta esta fecha los tribunales que actualmente conocen de los conflictos de trabajo en el Distrito Nacional y en el municipio de Santiago actuarán como juzgados y cortes de trabajo y aplicarán los procedimientos y tendrán las atribuciones establecidas en este Código.
+
+					En el resto del país, los juzgados de primera instancia y las cortes de apelación con las demarcaciones establecidas en la Ley de Organización Judicial y sus modificaciones, actuarán como tribunales de trabajo de primer y segundo grado conforme a los procedimientos y atribuciones previstos en el presente Código.
+
+					Art. 738.- La reglamentación de la garantía establecida en los artículos 465 y 466 serán fijadas en forma tripartita y consensual entre el Estado, los empleadores y los trabajadores. `,
 			},
 		],
 	},
